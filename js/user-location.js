@@ -15,7 +15,9 @@ export function getUserLocation() {
     button.disabled = true;
     button.textContent = '📍 Getting Location...';
 
-    document.getElementById('location-count').textContent = 'Getting your location...';
+    // Keep the existing location count and add loading indicator
+    const currentText = document.getElementById('location-count').textContent;
+    document.getElementById('location-count').textContent = currentText + ' • Getting your location...';
 
     navigator.geolocation.getCurrentPosition(
         function(position) {
@@ -35,8 +37,8 @@ export function getUserLocation() {
                 .bindPopup('<div class="popup-content"><div class="popup-address">Your Location</div><div>Accuracy: ±' + Math.round(accuracy) + ' meters</div></div>');
 
             userLocationCircle = L.circle([lat, lng], {
-                color: '#007bff',
-                fillColor: '#007bff',
+                color: '#0065a4',
+                fillColor: '#0065a4',
                 fillOpacity: 0.1,
                 weight: 2,
                 radius: accuracy
@@ -60,8 +62,9 @@ export function getUserLocation() {
                 }
             });
 
-            const strikeCount = document.querySelectorAll('.custom-marker').length;
-            let locationText = `${strikeCount} strike locations displayed • Your location found`;
+            // Get the base location count (remove any previous user location info)
+            const baseText = document.getElementById('location-count').textContent.split(' • ')[0];
+            let locationText = baseText + ' • Your location found';
             
             if (nearestLocation && nearestDistance < 100) {
                 locationText += ` • Nearest strike: ${Math.round(nearestDistance)}km away`;
@@ -74,7 +77,9 @@ export function getUserLocation() {
         },
         function(error) {
             console.error('Error getting location:', error);
-            document.getElementById('location-count').textContent = 'Error getting your location';
+            // Get the base location count and show error
+            const baseText = document.getElementById('location-count').textContent.split(' • ')[0];
+            document.getElementById('location-count').textContent = baseText + ' • Error getting your location';
             
             button.disabled = false;
             button.textContent = '📍 Find My Location';

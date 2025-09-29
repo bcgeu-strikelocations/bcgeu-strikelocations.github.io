@@ -75,7 +75,7 @@ Each location in `locations.json` has the following structure:
 ### Field Descriptions
 
 - `city`: City name (string)
-- `address`: Street address (string)
+- `address`: Street address (string)  
 - `coordinates`: [longitude, latitude] array (numbers)
 - `hours_details`: Operating hours or additional information (string)
 - `is_picket_line`: Boolean indicating if this is an active picket line (boolean)

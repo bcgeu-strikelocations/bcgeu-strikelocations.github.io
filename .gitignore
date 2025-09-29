@@ -27,3 +27,6 @@ Thumbs.db
 
 
 **/node_modules
+
+# Scratch files
+/.scratch
