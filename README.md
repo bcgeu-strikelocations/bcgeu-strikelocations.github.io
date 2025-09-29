@@ -19,14 +19,30 @@ The goal is to facilitate finding the closest picket line for a remote member.
 4. Click "📍 Find My Location" to see your current position
 5. Use the legend to understand the map symbols
 
-## Update locations
-The main file for locations is `locations.json`
-To regenerate the layers:
-- `cd transform`
-- `npm install`
-- `npm run transform`
+## 🔄 Updating Locations
 
-then commit 
+### Automated Workflow
+The repository is set up with GitHub Actions to automatically update generated files when `locations.json` changes:
+
+1. **Update `locations.json`** with new strike locations
+2. **Commit and push** to the main branch
+3. **GitHub Actions automatically**:
+   - Runs the transform script
+   - Updates the generated GeoJSON files
+   - Commits the changes back to the repository
+   - GitHub Pages automatically deploys the updated site
+
+### Manual Update (Local Development)
+If you need to update files locally:
+
+```bash
+cd transform
+npm install
+npm run transform
+git add layers/strike_locations_generated.geojson layers/strike_locations_30k_generated.geojson
+git commit -m "chore: update generated location files"
+git push
+``` 
 
 ### Local Development Server
 
