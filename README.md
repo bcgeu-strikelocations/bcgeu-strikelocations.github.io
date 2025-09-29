@@ -24,13 +24,12 @@ The goal is to facilitate finding the closest picket line for a remote member.
 ### Automated Workflow
 The repository is set up with GitHub Actions to automatically update generated files when `locations.json` changes:
 
-1. **Update `locations.json`** with new strike locations
-2. **Commit and push** to the main branch
+1. **Create a Pull Request** with updated `locations.json` containing new strike locations
+2. **Merge the PR** to the main branch
 3. **GitHub Actions automatically**:
    - Runs the transform script
    - Updates the generated GeoJSON files
-   - Commits the changes back to the repository
-   - GitHub Pages automatically deploys the updated site
+   - Deploys the updated site to GitHub Pages
 
 ### Manual Update (Local Development)
 If you need to update files locally:
@@ -59,8 +58,24 @@ python3 -m http.server 8000
 
 Each location in `locations.json` has the following structure:
 
-- `id`: Unique identifier (number)
+```json
+{
+  "locations": [
+    {
+      "city": "City name (string)",
+      "address": "Street address (string)",
+      "coordinates": [longitude, latitude],
+      "hours_details": "Operating hours or additional details (string)",
+      "is_picket_line": true/false
+    }
+  ]
+}
+```
+
+### Field Descriptions
+
 - `city`: City name (string)
 - `address`: Street address (string)
 - `coordinates`: [longitude, latitude] array (numbers)
-- `notes`: Additional information (string, optional)
+- `hours_details`: Operating hours or additional information (string)
+- `is_picket_line`: Boolean indicating if this is an active picket line (boolean)
