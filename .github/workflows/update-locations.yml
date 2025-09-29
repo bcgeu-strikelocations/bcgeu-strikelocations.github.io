@@ -1,0 +1,50 @@
+name: Update Generated Location Files
+
+on:
+  push:
+    paths:
+      - 'locations.json'
+    branches:
+      - main
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-locations:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          check-latest: true
+          cache: 'npm'
+          cache-dependency-path: transform/package-lock.json
+
+      - name: Install dependencies
+        run: |
+          cd transform
+          npm ci
+
+      - name: Generate location files
+        run: |
+          cd transform
+          npm run transform
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./
+          publish_branch: gh-pages
+          keep_files: false
