@@ -25,7 +25,7 @@ body {
 
 .info-panel h3 {
     margin: 0 0 10px 0;
-    color: #d32f2f;
+    color: #0065a4;
     font-size: 16px;
 }
 
@@ -65,7 +65,7 @@ body {
 #get-location-btn {
     width: 100%;
     padding: 10px;
-    background-color: #007bff;
+    background-color: #0065a4;
     color: white;
     border: none;
     border-radius: 4px;
@@ -76,12 +76,113 @@ body {
 }
 
 #get-location-btn:hover {
-    background-color: #0056b3;
+    background-color: #004d7a;
 }
 
 #get-location-btn:disabled {
     background-color: #6c757d;
     cursor: not-allowed;
+}
+
+.postal-search {
+    margin-top: 15px;
+    padding: 15px 0;
+    border-top: 1px solid #eee;
+}
+
+.postal-search h4 {
+    margin: 0 0 10px 0;
+    color: #0065a4;
+    font-size: 14px;
+}
+
+.search-input-group {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 10px;
+}
+
+.input-with-clear {
+    position: relative;
+    flex: 1;
+}
+
+.input-with-clear input {
+    width: 100%;
+    padding-right: 30px;
+}
+
+.clear-input {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: #999;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 0.2s;
+}
+
+.clear-input:hover {
+    background-color: #f0f0f0;
+    color: #666;
+}
+
+#postal-code-input {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#postal-code-input:focus {
+    outline: none;
+    border-color: #0065a4;
+    box-shadow: 0 0 0 2px rgba(0, 101, 164, 0.25);
+}
+
+#search-postal-btn {
+    padding: 8px 12px;
+    background-color: #b8a967;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+#search-postal-btn:hover {
+    background-color: #a0955a;
+}
+
+#search-postal-btn:disabled {
+    background-color: #6c757d;
+    cursor: not-allowed;
+}
+
+
+.error-message {
+    color: #dc3545;
+    font-size: 12px;
+    margin-top: 5px;
+    padding: 5px;
+    background-color: #f8d7da;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
 }
 
 .stats {
@@ -97,7 +198,7 @@ body {
 
 .popup-address {
     font-weight: bold;
-    color: #d32f2f;
+    color: #0065a4;
     margin-bottom: 5px;
 }
 
@@ -105,4 +206,37 @@ body {
     color: #666;
     font-size: 12px;
     margin-top: 5px;
+}
+
+.postal-popup {
+    min-width: 200px;
+}
+
+.popup-location {
+    margin: 8px 0;
+    padding: 8px 0;
+    border-top: 1px solid #eee;
+}
+
+.popup-coordinates {
+    margin: 8px 0;
+    padding: 8px 0;
+    border-top: 1px solid #eee;
+    font-size: 12px;
+}
+
+.coord-detail {
+    font-family: monospace;
+    color: #666;
+    margin-left: 10px;
+}
+
+.popup-confidence {
+    margin-top: 8px;
+    padding: 4px 8px;
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    font-size: 11px;
+    color: #666;
+    text-align: center;
 }

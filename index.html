@@ -35,15 +35,30 @@
                 <span>30km Radius</span>
             </div>
             <div class="legend-item">
-                <div class="legend-color" style="background-color: #007bff;"></div>
+                <div class="legend-color" style="background-color: #0065a4;"></div>
                 <span>Your Location</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: #b8a967;"></div>
+                <span>Postal Code Search</span>
             </div>
         </div>
         <div class="location-controls">
             <button id="get-location-btn" onclick="getUserLocation()">📍 Find My Location</button>
         </div>
+        <div class="postal-search">
+            <h4>Search Postal Code</h4>
+            <div class="search-input-group">
+                <div class="input-with-clear">
+                    <input type="text" id="postal-code-input" placeholder="Postal code (e.g., V6B 1A1)" maxlength="7">
+                    <button id="clear-input-btn" class="clear-input" style="display: none;">×</button>
+                </div>
+                <button id="search-postal-btn" onclick="searchPostalCode()">Search</button>
+            </div>
+            <div id="postal-error" class="error-message" style="display: none;"></div>
+        </div>
         <div class="stats">
-            <div id="location-count">Loading locations...</div>
+            <div id="location-count">Loading map...</div>
         </div>
     </div>
 
