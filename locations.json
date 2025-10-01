@@ -42,7 +42,8 @@
       ],
       "hours_details": "on strike but picketing at existing picket lines",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Burnaby",
@@ -53,7 +54,8 @@
       ],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Warehouse"
+      "location_type": "Warehouse",
+      "go_to_the_rally": true
     },
     {
       "city": "Burnaby",
@@ -64,7 +66,8 @@
       ],
       "hours_details": "Monday to Friday, 8am-4pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Burnaby",
@@ -97,7 +100,8 @@
       ],
       "hours_details": "on strike but picketing at 3383 Gilmore",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Burnaby",
@@ -218,7 +222,8 @@
       ],
       "hours_details": "Monday to Friday, 8am-4pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Courtenay",
@@ -790,7 +795,8 @@
       ],
       "hours_details": "6am-10pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Richmond",
@@ -1021,7 +1027,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1032,7 +1039,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1043,7 +1051,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1054,7 +1063,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "BC Liquor Store"
+      "location_type": "BC Liquor Store",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1065,7 +1075,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1076,7 +1087,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1087,7 +1099,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1098,7 +1111,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1131,7 +1145,8 @@
       ],
       "hours_details": "on strike but picketing at nearest picket line",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1142,7 +1157,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1153,7 +1169,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1164,7 +1181,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "BC Liquor Store"
+      "location_type": "BC Liquor Store",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1175,7 +1193,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "BC Liquor Store"
+      "location_type": "BC Liquor Store",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1186,7 +1205,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "BC Liquor Store"
+      "location_type": "BC Liquor Store",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1208,7 +1228,8 @@
       ],
       "hours_details": "Monday to Friday, 8am-4pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1219,7 +1240,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "BC Liquor Store"
+      "location_type": "BC Liquor Store",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1230,7 +1252,8 @@
       ],
       "hours_details": "",
       "is_picket_line": null,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1241,7 +1264,8 @@
       ],
       "hours_details": "only members working for Mineral Development Office and Mineral Titles Office are on strike and picketing at 900 Howe Street",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vancouver",
@@ -1252,7 +1276,8 @@
       ],
       "hours_details": "Monday to Friday, 8am-4pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Vernon",

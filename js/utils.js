@@ -20,9 +20,11 @@ export function createRadiusCircle(center, radiusKm = 30) {
 }
 
 export function createPopupContent(properties) {
+    const bottleIcon = properties.location_type === 'BC Liquor Store' ? '<span style="font-size: 16px; margin-right: 5px;">🍾</span>' : '';
+    
     return `
         <div class="popup-content">
-            <div class="popup-address">${properties.address}</div>
+            <div class="popup-address">${bottleIcon}${properties.address}</div>
             <div><strong>City:</strong> ${properties.city}</div>
             ${properties.hours_details ? `<div class="popup-notes">${properties.hours_details}</div>` : ''}
         </div>
