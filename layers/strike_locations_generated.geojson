@@ -372,8 +372,8 @@
           -121.94118311775836,
           49.1558177148018
         ],
-        "hours_details": "",
-        "is_picket_line": null,
+        "hours_details": "Monday to Friday, 8:30am-4:30pm",
+        "is_picket_line": true,
         "location_type": "Office"
       },
       "geometry": {
@@ -499,7 +499,7 @@
           -115.76775488747991,
           49.509057851427606
         ],
-        "hours_details": "",
+        "hours_details": "Picketing TBD",
         "is_picket_line": null,
         "location_type": "Office"
       },
@@ -667,7 +667,7 @@
           -120.23403984237356,
           55.75926573727518
         ],
-        "hours_details": "All members are on strike except those with the Attorney General. Picketing at 1020 Alaska Avenue, Dawson Creek",
+        "hours_details": "Picketing TBD",
         "is_picket_line": false,
         "location_type": "Office"
       },
@@ -877,7 +877,7 @@
           -119.49592998280625,
           49.89702148939096
         ],
-        "hours_details": "",
+        "hours_details": "Picketing TBD",
         "is_picket_line": null,
         "location_type": "Office"
       },
@@ -1402,7 +1402,7 @@
           -122.75248251969896,
           53.9153745657152
         ],
-        "hours_details": "",
+        "hours_details": "Picketing TBD",
         "is_picket_line": null,
         "location_type": "Office"
       },
@@ -1947,12 +1947,12 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "401 W Georgia St",
+        "address": "401 Georgia St W",
         "coordinates": [
           -123.114846931669,
           49.281318550836
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -1974,7 +1974,7 @@
           -123.11735857399765,
           49.28613364488442
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -1996,7 +1996,7 @@
           -123.11054617399779,
           49.28090325703688
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -2018,8 +2018,8 @@
           -123.11159060336105,
           49.28503602164022
         ],
-        "hours_details": "",
-        "is_picket_line": null,
+        "hours_details": "BC Liquor Store #53 Harbour Centre on strike but picketing at 1155 Bute St",
+        "is_picket_line": false,
         "location_type": "BC Liquor Store",
         "go_to_the_rally": true
       },
@@ -2035,12 +2035,12 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "555 W Hastings",
+        "address": "555 Hastings St W",
         "coordinates": [
           -123.11195636050431,
           49.28482954136862
         ],
-        "hours_details": "",
+        "hours_details": "Picketing TBD",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -2057,12 +2057,12 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "601 W Cordova St",
+        "address": "601 Cordova St W",
         "coordinates": [
           -123.11225401632649,
           49.286066241528786
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -2079,12 +2079,12 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "700 W Georgia St",
+        "address": "700 Georgia St W",
         "coordinates": [
           -123.11889825865545,
           49.28289014789449
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -2106,7 +2106,7 @@
           -123.11307320283291,
           49.28793563098143
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -2187,12 +2187,34 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
+        "address": "750 Pender St",
+        "coordinates": [
+          -123.11583761771395,
+          49.28506796697407
+        ],
+        "hours_details": "Picketing offsite",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11583761771395,
+          49.28506796697407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
         "address": "1050 Pender St W",
         "coordinates": [
           -123.11956956050423,
           49.28720234260919
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -2214,7 +2236,7 @@
           -123.1189969316693,
           49.27571626649852
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -2236,8 +2258,8 @@
           -123.11972544131096,
           49.27418080207073
         ],
-        "hours_details": "",
-        "is_picket_line": null,
+        "hours_details": "BC Liquor Store #191 Yaletown on strike but picketing at 1155 Bute St",
+        "is_picket_line": false,
         "location_type": "BC Liquor Store",
         "go_to_the_rally": true
       },
@@ -2258,8 +2280,8 @@
           -123.13317085986782,
           49.282427558991685
         ],
-        "hours_details": "",
-        "is_picket_line": null,
+        "hours_details": "BC Liquor Store #94 Bute St 9am-7pm",
+        "is_picket_line": true,
         "location_type": "BC Liquor Store",
         "go_to_the_rally": true
       },
@@ -2280,8 +2302,8 @@
           -123.1395319206482,
           49.286057538652784
         ],
-        "hours_details": "",
-        "is_picket_line": null,
+        "hours_details": "BC Liquor Store #112 Cardero on strike but picketing at 1155 Bute St",
+        "is_picket_line": false,
         "location_type": "BC Liquor Store",
         "go_to_the_rally": true
       },
@@ -2345,8 +2367,8 @@
           -123.13446646078879,
           49.290591160913586
         ],
-        "hours_details": "",
-        "is_picket_line": null,
+        "hours_details": "BC Liquor Store #233 Robson on strike but picketing at 1155 Bute St",
+        "is_picket_line": false,
         "location_type": "BC Liquor Store",
         "go_to_the_rally": true
       },
@@ -2367,7 +2389,7 @@
           -123.13422300440948,
           49.29099004187242
         ],
-        "hours_details": "",
+        "hours_details": "Picketing offsite",
         "is_picket_line": null,
         "location_type": "Office",
         "go_to_the_rally": true
@@ -2995,7 +3017,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "1175 Douglas Street",
+        "address": "1175 Douglas St",
         "coordinates": [
           -123.36461750281573,
           48.42534946357673
@@ -3021,7 +3043,7 @@
           -123.37030571272568,
           48.418028786805294
         ],
-        "hours_details": "",
+        "hours_details": "Picketing TBD",
         "is_picket_line": null,
         "location_type": "Office"
       },
@@ -3168,7 +3190,7 @@
           -122.14275167200667,
           52.13311819272493
         ],
-        "hours_details": "",
+        "hours_details": "Picketing TBD",
         "is_picket_line": null,
         "location_type": "Office"
       },
