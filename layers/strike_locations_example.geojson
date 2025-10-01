@@ -1,0 +1,38 @@
+{
+    "type": "FeatureCollection",
+    "name": "Strike Locations",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "Vancouver",
+                "address": "900 Howe Street",
+                "hours_detail": "Monday to Friday, 8am-4pm",
+                "is_picket_line": true
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.122574486100604,
+                    49.280730243111961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "city": "Victoria",
+                "address": "1810 Blanshard St",
+                "hours_detail": "Monday to Friday, 7:30am-5pm",
+                "is_picket_line": false
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.362057930555395,
+                    48.430564338136428
+                ]
+            }
+        }
+    ]
+}

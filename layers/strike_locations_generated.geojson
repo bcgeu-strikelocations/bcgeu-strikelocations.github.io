@@ -1,0 +1,3205 @@
+{
+  "type": "FeatureCollection",
+  "name": "Strike Locations",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Abbotsford",
+        "address": "40-32500 South Fraser Way",
+        "coordinates": [
+          -122.32601868159475,
+          49.05060920315223
+        ],
+        "hours_details": "BC Liquor Store #149 Abbotsford 9:30am to 9pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32601868159475,
+          49.05060920315223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Abbotsford",
+        "address": "117-2070 Sumas Way",
+        "coordinates": [
+          -122.26877547394928,
+          49.03979191116619
+        ],
+        "hours_details": "BC Liquor Store #189 Abbotsford Village 9:30am to 9pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.26877547394928,
+          49.03979191116619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Agassiz",
+        "address": "7250 Pioneer Avenue",
+        "coordinates": [
+          -121.75958427312219,
+          49.23867393585482
+        ],
+        "hours_details": "BC Liquor Store #64 Agassiz on strike but picketing at 46040 Yale Rd, Chilliwack",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.75958427312219,
+          49.23867393585482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "4370 Dominion Street",
+        "coordinates": [
+          -123.006666961928,
+          49.2560317228061
+        ],
+        "hours_details": "on strike but picketing at existing picket lines",
+        "is_picket_line": false,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.006666961928,
+          49.2560317228061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "8025 Enterprise St",
+        "coordinates": [
+          -122.93185324530461,
+          49.25683482765482
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "Warehouse",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.93185324530461,
+          49.25683482765482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "3383 Gilmore",
+        "coordinates": [
+          -123.01135187285132,
+          49.25420862391652
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm",
+        "is_picket_line": true,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01135187285132,
+          49.25420862391652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "4429 Kingsway #16",
+        "coordinates": [
+          -123.00558621862139,
+          49.231569357125366
+        ],
+        "hours_details": "BC Liquor Store #203 South Burnaby on strike but picketing at 7155 Kingsway, Burnaby",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00558621862139,
+          49.231569357125366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "4455 Skyline Drive",
+        "coordinates": [
+          -123.00433619014504,
+          49.26577056472892
+        ],
+        "hours_details": "BC Liquor Store #224 SOLO Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.00433619014504,
+          49.26577056472892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "4940 Canada Way",
+        "coordinates": [
+          -122.973173946008,
+          49.2454273208219
+        ],
+        "hours_details": "on strike but picketing at 3383 Gilmore",
+        "is_picket_line": false,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.973173946008,
+          49.2454273208219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "7509 Byrne Road",
+        "coordinates": [
+          -122.9795906953238,
+          49.19842558820753
+        ],
+        "hours_details": "BC Liquor Store #193 Market Crossing on strike but picketing at 7155 Kingsway, Burnaby",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.9795906953238,
+          49.19842558820753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "Unit 103 3433 North Road",
+        "coordinates": [
+          -122.89339913787293,
+          49.25292851814367
+        ],
+        "hours_details": "BC Liquor Store #77 Northgate Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.89339913787293,
+          49.25292851814367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "Unit 235 7155 Kingsway",
+        "coordinates": [
+          -122.95580531161164,
+          49.21915131072336
+        ],
+        "hours_details": "BC Liquor Store #220 Highgate Village Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95580531161164,
+          49.21915131072336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Campbell River",
+        "address": "270-1400 Dogwood Street",
+        "coordinates": [
+          -125.25110770852733,
+          50.02918462719477
+        ],
+        "hours_details": "BC Liquor Store #5 Campbell River 9:30am to 9pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.25110770852733,
+          50.02918462719477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Campbell River",
+        "address": "2116 S Island Highway",
+        "coordinates": [
+          -125.21780807263158,
+          49.97156947238686
+        ],
+        "hours_details": "BC Liquor Store #185 Willow Point on strike but picketing at 1400 Dogwood St, Campbell River",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.21780807263158,
+          49.97156947238686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Castlegar",
+        "address": "Unit G, 635 Columbia Avenue",
+        "coordinates": [
+          -117.6649303245909,
+          49.32135750604707
+        ],
+        "hours_details": "BC Liquor Store #78 Castlegar 9:30am to 7pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6649303245909,
+          49.32135750604707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chilliwack",
+        "address": "46040 Yale Road",
+        "coordinates": [
+          -121.95366723968563,
+          49.17006621195639
+        ],
+        "hours_details": "BC Liquor Store #7 Chilliwack 9:30am to 9pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.95366723968563,
+          49.17006621195639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chilliwack",
+        "address": "45585 Luckakuck Way",
+        "coordinates": [
+          -121.96437299424498,
+          49.14319244673406
+        ],
+        "hours_details": "BC Liquor Store #170 Cottonwood Centre/Sardis on strike but picketing at 46040 Yale Rd, Chilliwack",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96437299424498,
+          49.14319244673406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chilliwack",
+        "address": "46360 Airport Rd",
+        "coordinates": [
+          -121.94118311775836,
+          49.1558177148018
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.94118311775836,
+          49.1558177148018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Comox",
+        "address": "204 Port Augusta Street",
+        "coordinates": [
+          -124.9240997749843,
+          49.674035429594234
+        ],
+        "hours_details": "BC Liquor Store #235 Comox on strike but picketing at 1095 Cliffe Ave, Courtenay",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.9240997749843,
+          49.674035429594234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Coquitlam",
+        "address": "1500 Woolridge",
+        "coordinates": [
+          -122.85156550043276,
+          49.23197722831543
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm",
+        "is_picket_line": true,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.85156550043276,
+          49.23197722831543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Courtenay",
+        "address": "1095 Cliffe Avenue",
+        "coordinates": [
+          -124.99534067830712,
+          49.68788217208051
+        ],
+        "hours_details": "BC Liquor Store #10 Courtenay 9:30am to 9pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.99534067830712,
+          49.68788217208051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cranbrook",
+        "address": "100 Cranbrook St N",
+        "coordinates": [
+          -115.7661222709863,
+          49.51398814193504
+        ],
+        "hours_details": "only members working for Southeast Mines Office are on strike and picketing at 117 10th Ave S",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7661222709863,
+          49.51398814193504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cranbrook",
+        "address": "117 10th Avenue S",
+        "coordinates": [
+          -115.76781298466803,
+          49.509559825127624
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.76781298466803,
+          49.509559825127624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cranbrook",
+        "address": "129 10th Ave S",
+        "coordinates": [
+          -115.76775488747991,
+          49.509057851427606
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.76775488747991,
+          49.509057851427606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cranbrook",
+        "address": "205 Industrial Road G",
+        "coordinates": [
+          -115.75843311702344,
+          49.536329476650245
+        ],
+        "hours_details": "on strike but picketing at 117 10th Ave S, Cranbrook",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.75843311702344,
+          49.536329476650245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cumberland",
+        "address": "2700 Dunsmuir Avenue",
+        "coordinates": [
+          -125.0302965365573,
+          49.61897966172796
+        ],
+        "hours_details": "BC Liquor Store #8 Cumberland on strike but picketing at 1095 Cliffe Ave, Courtenay",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.0302965365573,
+          49.61897966172796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Delta",
+        "address": "1319-56 Street",
+        "coordinates": [
+          -123.07082955940317,
+          49.026608760668154
+        ],
+        "hours_details": "BC Liquor Store #98 Tsawwassen Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.07082955940317,
+          49.026608760668154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Delta",
+        "address": "5202 48 Avenue",
+        "coordinates": [
+          -123.07907439510001,
+          49.089667352100264
+        ],
+        "hours_details": "BC Liquor Store #25 Ladner on strike but picketing at 56th street, Delta",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.07907439510001,
+          49.089667352100264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Delta",
+        "address": "7003 72 Street",
+        "coordinates": [
+          -123.02433204401933,
+          49.131845376100024
+        ],
+        "hours_details": "24 hours a day, 7 days a week",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.02433204401933,
+          49.131845376100024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Delta",
+        "address": "7017 120 Street",
+        "coordinates": [
+          -122.8928202409043,
+          49.13132131885967
+        ],
+        "hours_details": "BC Liquor Store #145 Scottsdale on strike but picketing at 116 12080 Nordel Way, Surrey",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8928202409043,
+          49.13132131885967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dawson Creek",
+        "address": "1020 Alaska Avenue",
+        "coordinates": [
+          -120.2287560571286,
+          55.75989943552747
+        ],
+        "hours_details": "BC Liquor Store #212 Dawson Creek 9:30am to 9pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.2287560571286,
+          55.75989943552747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dawson Creek",
+        "address": "1201 103 Ave",
+        "coordinates": [
+          -120.23403984237356,
+          55.75926573727518
+        ],
+        "hours_details": "All members are on strike except those with the Attorney General. Picketing at 1020 Alaska Avenue, Dawson Creek",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.23403984237356,
+          55.75926573727518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort St. John",
+        "address": "10003 110th Avenue",
+        "coordinates": [
+          -120.8484444302564,
+          56.25498181121155
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.8484444302564,
+          56.25498181121155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kamloops",
+        "address": "1801 Princeton-Kamloops Highway",
+        "coordinates": [
+          -120.36719055930932,
+          50.65313551638878
+        ],
+        "hours_details": "on strike but picketing at other Kamloops picket lines",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.36719055930932,
+          50.65313551638878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kamloops",
+        "address": "441 Columbia Street",
+        "coordinates": [
+          -120.33165597492842,
+          50.6687529664251
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33165597492842,
+          50.6687529664251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kamloops",
+        "address": "447 Columbia Street",
+        "coordinates": [
+          -120.33063059566007,
+          50.66847057531782
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33063059566007,
+          50.66847057531782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kamloops",
+        "address": "600-1210 Summit Drive",
+        "coordinates": [
+          -120.35325314403848,
+          50.66587561056809
+        ],
+        "hours_details": "BC Liquor Store #79 Kamloops Columbia Place Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.35325314403848,
+          50.66587561056809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kamloops",
+        "address": "9881 Dallas Drive",
+        "coordinates": [
+          -120.0554470862904,
+          50.65380200371504
+        ],
+        "hours_details": "24 hours a day, 7 days a week",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0554470862904,
+          50.65380200371504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kelowna",
+        "address": "1835 Dilworth Drive",
+        "coordinates": [
+          -119.43560598087417,
+          49.88159209898322
+        ],
+        "hours_details": "BC Liquor Store #167 Kelowna Orchard Park Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.43560598087417,
+          49.88159209898322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kelowna",
+        "address": "35 3155 Lakeshore Road",
+        "coordinates": [
+          -119.48940524002393,
+          49.859839978180105
+        ],
+        "hours_details": "BC Liquor Store #148 Kelowna Mission Park Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.48940524002393,
+          49.859839978180105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kelowna",
+        "address": "478 Bernard Avenue",
+        "coordinates": [
+          -119.49400108817416,
+          49.88663027340071
+        ],
+        "hours_details": "Monday to Friday, 8:30am-4:30pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.49400108817416,
+          49.88663027340071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kelowna",
+        "address": "1060 Manhattan Dr",
+        "coordinates": [
+          -119.49592998280625,
+          49.89702148939096
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.49592998280625,
+          49.89702148939096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Langford",
+        "address": "600-2945 Jacklin Road",
+        "coordinates": [
+          -123.50653837244776,
+          48.44068226667487
+        ],
+        "hours_details": "BC Liquor Store #125 Westshore Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.50653837244776,
+          48.44068226667487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Langley",
+        "address": "6435 201 Street",
+        "coordinates": [
+          -122.66623896093836,
+          49.11995710781093
+        ],
+        "hours_details": "BC Liquor Store #158 Langley Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.66623896093836,
+          49.11995710781093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Langley",
+        "address": "8840 210 Street",
+        "coordinates": [
+          -122.63710421626716,
+          49.16361169443282
+        ],
+        "hours_details": "BC Liquor Store #186 Walnut Grove on strike but picketing 17780 56 ave, Surrey",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63710421626716,
+          49.16361169443282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Langley",
+        "address": "9110 Glover Road",
+        "coordinates": [
+          -122.57941112034777,
+          49.16776788644201
+        ],
+        "hours_details": "BC Liquor Store #127 Fort Langley on strike but picketing 17780 56 ave, Surrey",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.57941112034777,
+          49.16776788644201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Langley",
+        "address": "26310 Fraser Highway",
+        "coordinates": [
+          -122.49552378302845,
+          49.05912806039577
+        ],
+        "hours_details": "BC Liquor Store #109 Aldergrove on strike but picketing at 2070 Sumas Way, Abbotsford",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49552378302845,
+          49.05912806039577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mission",
+        "address": "32530 Lougheed Highway",
+        "coordinates": [
+          -122.32159147091046,
+          49.132274049273036
+        ],
+        "hours_details": "BC Liquor Store #27 Mission on strike but picketing at 2070 Sumas Way, Abbotsford",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32159147091046,
+          49.132274049273036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nanaimo",
+        "address": "2080 Labieux Road",
+        "coordinates": [
+          -123.99355163895063,
+          49.20115124765564
+        ],
+        "hours_details": "Monday to Friday, 8am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.99355163895063,
+          49.20115124765564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nanaimo",
+        "address": "2100 Labieux Road",
+        "coordinates": [
+          -123.99583964401677,
+          49.20176771627072
+        ],
+        "hours_details": "Monday to Friday, 8am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.99583964401677,
+          49.20176771627072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nelson",
+        "address": "566 Stanley Street",
+        "coordinates": [
+          -117.29485581702527,
+          49.490919477382015
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm and 7am-4pm respectively",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29485581702527,
+          49.490919477382015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nelson",
+        "address": "333 Victoria Street",
+        "coordinates": [
+          -117.29551970167921,
+          49.490763577737034
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm and 7am-4pm respectively",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29551970167921,
+          49.490763577737034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "New Westminster",
+        "address": "800 McBride Boulevard",
+        "coordinates": [
+          -122.91451347012946,
+          49.22281877259774
+        ],
+        "hours_details": "BC Liquor Store #97 Royal Square on strike but picketing at 7155 Kingsway, Burnaby",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91451347012946,
+          49.22281877259774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "New Westminster",
+        "address": "1075 Columbia Street",
+        "coordinates": [
+          -122.91922181059233,
+          49.200701560096384
+        ],
+        "hours_details": "BC Liquor Store #31 New Westminster 9:30am to 9pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91922181059233,
+          49.200701560096384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "North Vancouver",
+        "address": "100-132 Esplanade W",
+        "coordinates": [
+          -123.08046524314322,
+          49.311777257270606
+        ],
+        "hours_details": "BC Liquor Store #196 Esplanade on strike but picketing at 1199 Lynn Valley Rd, North Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.08046524314322,
+          49.311777257270606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "North Vancouver",
+        "address": "147-1199 Lynn Valley Road",
+        "coordinates": [
+          -123.03983185157881,
+          49.335382580949634
+        ],
+        "hours_details": "BC Liquor Store #247 Lynn Valley Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.03983185157881,
+          49.335382580949634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "North Vancouver",
+        "address": "2601 Westview Drive",
+        "coordinates": [
+          -123.0903121257282,
+          49.33322201195365
+        ],
+        "hours_details": "BC Liquor Store #107 Westview on strike but picketing at 5335 Headland Dr, West Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0903121257282,
+          49.33322201195365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "North Vancouver",
+        "address": "411 Dollarton Highway",
+        "coordinates": [
+          -122.95385597640646,
+          49.30699494308556
+        ],
+        "hours_details": "BC Liquor Store #133 Dollarton Village on strike but picketing at 1199 Lynn Valley Rd, North Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95385597640646,
+          49.30699494308556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "North Vancouver",
+        "address": "935 Marine Drive",
+        "coordinates": [
+          -123.1010842226423,
+          49.3211831161129
+        ],
+        "hours_details": "BC Liquor Store #152 Capilano Mall on strike but picketing at 5335 Headland Dr, West Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1010842226423,
+          49.3211831161129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pemberton",
+        "address": "7445 Frontier Street",
+        "coordinates": [
+          -122.80638678252132,
+          50.32293284020399
+        ],
+        "hours_details": "BC Liquor Store #101 Pemberton on strike but picketing at 4360 Lorimer Rd, Whistler",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80638678252132,
+          50.32293284020399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Penticton",
+        "address": "405-1301 Main Street",
+        "coordinates": [
+          -119.58748459875382,
+          49.48503162750471
+        ],
+        "hours_details": "BC Liquor Store #130 Penticton Plaza Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.58748459875382,
+          49.48503162750471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Penticton",
+        "address": "102 Industrial Place",
+        "coordinates": [
+          -119.59491123237171,
+          49.47818534827257
+        ],
+        "hours_details": "Monday to Friday, 8:30am-4:30pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.59491123237171,
+          49.47818534827257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Pitt Meadows",
+        "address": "810-19800 Lougheed Highway",
+        "coordinates": [
+          -122.6708981807442,
+          49.2223992314018
+        ],
+        "hours_details": "BC Liquor Store #165 Meadowtown Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6708981807442,
+          49.2223992314018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port Coquitlam",
+        "address": "140-1097 Nicola Avenue",
+        "coordinates": [
+          -122.7440090180478,
+          49.2580677203043
+        ],
+        "hours_details": "BC Liquor Store #205 Nicola Station Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7440090180478,
+          49.2580677203043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port Coquitlam",
+        "address": "2748 Lougheed Highway",
+        "coordinates": [
+          -122.78893174307507,
+          49.27219072697277
+        ],
+        "hours_details": "BC Liquor Store #163 Westwood Centre Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78893174307507,
+          49.27219072697277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Prince George",
+        "address": "1011 4th Avenue",
+        "coordinates": [
+          -122.74232801685817,
+          53.9150654610895
+        ],
+        "hours_details": "Monday-Friday, 7am-5:30pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74232801685817,
+          53.9150654610895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Prince George",
+        "address": "1577 7th Ave",
+        "coordinates": [
+          -122.75248251969896,
+          53.9153745657152
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.75248251969896,
+          53.9153745657152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Prince George",
+        "address": "3173 Massey Drive",
+        "coordinates": [
+          -122.78121709534348,
+          53.899117484142
+        ],
+        "hours_details": "BC Liquor Store #174 Prince George Pine Centre Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.78121709534348,
+          53.899117484142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Prince Rupert",
+        "address": "100 2nd Avenue W",
+        "coordinates": [
+          -130.3226311927374,
+          54.31591655115688
+        ],
+        "hours_details": "BC Liquor Store #35 Prince Rupert 9:30am to 7pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.3226311927374,
+          54.31591655115688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Richmond",
+        "address": "10-8671 No 1 Road",
+        "coordinates": [
+          -123.18250226865695,
+          49.14885654087577
+        ],
+        "hours_details": "BC Liquor Store #244 Richmond Seafair Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.18250226865695,
+          49.14885654087577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Richmond",
+        "address": "3170-11666 Steveston Highway",
+        "coordinates": [
+          -123.0944986822158,
+          49.132239108942564
+        ],
+        "hours_details": "BC Liquor Store #120 Richmond Ironwood Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0944986822158,
+          49.132239108942564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Richmond",
+        "address": "3389 No 6 Road",
+        "coordinates": [
+          -123.07026265750764,
+          49.18784045397833
+        ],
+        "hours_details": "6am-10pm",
+        "is_picket_line": true,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.07026265750764,
+          49.18784045397833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Richmond",
+        "address": "8100 Ackroyd Road",
+        "coordinates": [
+          -123.13527135153582,
+          49.17140335435468
+        ],
+        "hours_details": "BC Liquor Store #76 Richmond Brighouse Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13527135153582,
+          49.17140335435468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Smithers",
+        "address": "3726 Alfred Avenue",
+        "coordinates": [
+          -127.17285364380541,
+          54.7777460423426
+        ],
+        "hours_details": "Monday to Friday, 8:30am-4:30pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.17285364380541,
+          54.7777460423426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sooke",
+        "address": "9050 6660 Sooke Road",
+        "coordinates": [
+          -123.72119787388003,
+          48.37919919381069
+        ],
+        "hours_details": "BC Liquor Store #229 Sooke 9:30am to 9pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.72119787388003,
+          48.37919919381069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Summerland",
+        "address": "13604 Victoria Road",
+        "coordinates": [
+          -119.6842194589473,
+          49.60382507075938
+        ],
+        "hours_details": "BC Liquor Store #86 Summerland on strike but picketing at 1301 Main St, Penticton",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.6842194589473,
+          49.60382507075938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "101-17780 56 ave",
+        "coordinates": [
+          -122.72987069832479,
+          49.10296333446526
+        ],
+        "hours_details": "BC Liquor Store #70 Cloverdale Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72987069832479,
+          49.10296333446526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "10470 152 Street",
+        "coordinates": [
+          -122.80052380168998,
+          49.19284141219725
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm",
+        "is_picket_line": true,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80052380168998,
+          49.19284141219725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "10475 138 Street",
+        "coordinates": [
+          -122.84034859005503,
+          49.19333165053479
+        ],
+        "hours_details": "on strike but picketing at other locations",
+        "is_picket_line": false,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84034859005503,
+          49.19333165053479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "116-12080 Nordel Way",
+        "coordinates": [
+          -122.8887383443004,
+          49.16100117442227
+        ],
+        "hours_details": "BC Liquor Store #241 Nordel Crossing Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8887383443004,
+          49.16100117442227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "12881 16th Avenue",
+        "coordinates": [
+          -122.86515241523283,
+          49.0321255635384
+        ],
+        "hours_details": "BC Liquor Store #110 Ocean Park on strike but picketing at 15355 24th Ave, Surrey",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.86515241523283,
+          49.0321255635384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "14323 57 Avenue",
+        "coordinates": [
+          -122.82604835936623,
+          49.10713546330671
+        ],
+        "hours_details": "Monday to Friday, 6:20am-4pm; and Saturday to Sunday, 10am-2pm",
+        "is_picket_line": true,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.82604835936623,
+          49.10713546330671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "1711 152 Street",
+        "coordinates": [
+          -122.80219624983626,
+          49.03178523967631
+        ],
+        "hours_details": "BC Liquor Store #6 Semiahmoo on strike but picketing at 15355 24th Ave, Surrey",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.80219624983626,
+          49.03178523967631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "280-15355 24th Avenue",
+        "coordinates": [
+          -122.79855480575105,
+          49.046990583725886
+        ],
+        "hours_details": "BC Liquor Store #183 Peninsula Village Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79855480575105,
+          49.046990583725886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Surrey",
+        "address": "7488 King George Boulevard",
+        "coordinates": [
+          -122.84404627776526,
+          49.13739886514814
+        ],
+        "hours_details": "BC Liquor Store #172 Kings Cross on strike but picketing at 116 12080 Nordel Way, Surrey",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.84404627776526,
+          49.13739886514814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "2058 41st Avenue W",
+        "coordinates": [
+          -123.15384699583737,
+          49.23438647449683
+        ],
+        "hours_details": "BC Liquor Store #210 Kerrisdale on strike but picketing at 3453 Dunbar, Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.15384699583737,
+          49.23438647449683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "2120 Lahb Avenue",
+        "coordinates": [
+          -123.15420254146882,
+          49.248399017717894
+        ],
+        "hours_details": "BC Liquor Store #136 Arbutus on strike but picketing at 3453 Dunbar, Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.15420254146882,
+          49.248399017717894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "2395 Cambie Street",
+        "coordinates": [
+          -123.11519691531554,
+          49.264820316878605
+        ],
+        "hours_details": "BC Liquor Store #177 8th and Cambie Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11519691531554,
+          49.264820316878605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "3150 E 54th Avenue",
+        "coordinates": [
+          -123.04015015507348,
+          49.219885519713365
+        ],
+        "hours_details": "BC Liquor Store #194 Champlain Square on strike but picketing at 2395 Cambie St, Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.04015015507348,
+          49.219885519713365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "3313 Shrum Lane",
+        "coordinates": [
+          -123.23635169577284,
+          49.25466549162515
+        ],
+        "hours_details": "BC Liquor Store #192 UBC Wesbrook Village on strike but picketing at 3453 Dunbar, Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.23635169577284,
+          49.25466549162515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "3453 Dunbar",
+        "coordinates": [
+          -123.18538168755107,
+          49.25659773073294
+        ],
+        "hours_details": "BC Liquor Store #102 Dunbar Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.18538168755107,
+          49.25659773073294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "370 E Broadway",
+        "coordinates": [
+          -123.09713597188946,
+          49.26314347550628
+        ],
+        "hours_details": "BC Liquor Store #123 Kingsgate Mall on strike but picketing at 2395 Cambie St, Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09713597188946,
+          49.26314347550628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "401 W Georgia St",
+        "coordinates": [
+          -123.114846931669,
+          49.281318550836
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.114846931669,
+          49.281318550836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "510 Burrard St",
+        "coordinates": [
+          -123.11735857399765,
+          49.28613364488442
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11735857399765,
+          49.28613364488442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "550 Cambie St",
+        "coordinates": [
+          -123.11054617399779,
+          49.28090325703688
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11054617399779,
+          49.28090325703688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "555 Hastings St W",
+        "coordinates": [
+          -123.11159060336105,
+          49.28503602164022
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "BC Liquor Store",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11159060336105,
+          49.28503602164022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "555 W Hastings",
+        "coordinates": [
+          -123.11195636050431,
+          49.28482954136862
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11195636050431,
+          49.28482954136862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "601 W Cordova St",
+        "coordinates": [
+          -123.11225401632649,
+          49.286066241528786
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11225401632649,
+          49.286066241528786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "700 W Georgia St",
+        "coordinates": [
+          -123.11889825865545,
+          49.28289014789449
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11889825865545,
+          49.28289014789449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "999 Canada Pl",
+        "coordinates": [
+          -123.11307320283291,
+          49.28793563098143
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11307320283291,
+          49.28793563098143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "4423 Main Street",
+        "coordinates": [
+          -123.10148765505046,
+          49.24557441999257
+        ],
+        "hours_details": "BC Liquor Store #237 28th and Main on strike but picketing at 2395 Cambie St, Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.10148765505046,
+          49.24557441999257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "5555 Cambie",
+        "coordinates": [
+          -123.11657121166797,
+          49.23491330499586
+        ],
+        "hours_details": "BC Liquor Store #160 39th and Cambie Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11657121166797,
+          49.23491330499586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "605 Robson",
+        "coordinates": [
+          -123.11888057285049,
+          49.281118648243
+        ],
+        "hours_details": "on strike but picketing at nearest picket line",
+        "is_picket_line": false,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11888057285049,
+          49.281118648243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "1050 Pender St W",
+        "coordinates": [
+          -123.11956956050423,
+          49.28720234260919
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11956956050423,
+          49.28720234260919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "1085 Cambie St",
+        "coordinates": [
+          -123.1189969316693,
+          49.27571626649852
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1189969316693,
+          49.27571626649852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "1108 Pacific Blvd",
+        "coordinates": [
+          -123.11972544131096,
+          49.27418080207073
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "BC Liquor Store",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.11972544131096,
+          49.27418080207073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "1155 Bute St",
+        "coordinates": [
+          -123.13317085986782,
+          49.282427558991685
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "BC Liquor Store",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13317085986782,
+          49.282427558991685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "1655 Davie St",
+        "coordinates": [
+          -123.1395319206482,
+          49.286057538652784
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "BC Liquor Store",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1395319206482,
+          49.286057538652784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "768 Bute Street",
+        "coordinates": [
+          -123.12592524184365,
+          49.28626887509081
+        ],
+        "hours_details": "BC Liquor Store #129 Alberni & Bute Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12592524184365,
+          49.28626887509081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "815 Hornby",
+        "coordinates": [
+          -123.12255181517723,
+          49.282584048672895
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm",
+        "is_picket_line": true,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12255181517723,
+          49.282584048672895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "1716 Robson St",
+        "coordinates": [
+          -123.13446646078879,
+          49.290591160913586
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "BC Liquor Store",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13446646078879,
+          49.290591160913586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "1725 Robson St",
+        "coordinates": [
+          -123.13422300440948,
+          49.29099004187242
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13422300440948,
+          49.29099004187242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "865 Hornby Street",
+        "coordinates": [
+          -123.12330408634064,
+          49.28211495343562
+        ],
+        "hours_details": "only members working for Mineral Development Office and Mineral Titles Office are on strike and picketing at 900 Howe Street",
+        "is_picket_line": false,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12330408634064,
+          49.28211495343562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vancouver",
+        "address": "900 Howe Street",
+        "coordinates": [
+          -123.12251480168685,
+          49.28067595945952
+        ],
+        "hours_details": "Monday to Friday, 8am-4pm",
+        "is_picket_line": true,
+        "location_type": "Office",
+        "go_to_the_rally": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.12251480168685,
+          49.28067595945952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vernon",
+        "address": "245a 4900 27th st",
+        "coordinates": [
+          -119.26837880084348,
+          50.284361390802516
+        ],
+        "hours_details": "BC Liquor Store #135 Vernon Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26837880084348,
+          50.284361390802516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "1087 McKenzie Avenue",
+        "coordinates": [
+          -123.36161016456093,
+          48.469987839556474
+        ],
+        "hours_details": "BC Liquor Store #242 Saanich on strike but picketing at 370-777 Royal Oak Dr",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36161016456093,
+          48.469987839556474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "1150 McKenzie Avenue",
+        "coordinates": [
+          -123.36042477102421,
+          48.471481313270814
+        ],
+        "hours_details": "Monday to Friday, 7:30am-3:30pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36042477102421,
+          48.471481313270814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "1515 Blanshard",
+        "coordinates": [
+          -123.36123703914015,
+          48.42852072604706
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36123703914015,
+          48.42852072604706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "1802 Douglas",
+        "coordinates": [
+          -123.36476442869854,
+          48.430781339160234
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36476442869854,
+          48.430781339160234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "1810 Blanshard",
+        "coordinates": [
+          -123.36218630171766,
+          48.43089950065392
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36218630171766,
+          48.43089950065392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "1960 Foul Bay Road",
+        "coordinates": [
+          -123.32291109064239,
+          48.430822856723964
+        ],
+        "hours_details": "BC Liquor Store #218 Fort Street Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.32291109064239,
+          48.430822856723964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "2219 Government",
+        "coordinates": [
+          -123.3669240882271,
+          48.43405196321959
+        ],
+        "hours_details": "on strike but picketing at 675 Belleville",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3669240882271,
+          48.43405196321959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "2955 Tillicum Road",
+        "coordinates": [
+          -123.3980165732299,
+          48.448923911127046
+        ],
+        "hours_details": "BC Liquor Store #124 Gorge & Tillicum on strike but picketing at 87-1644 Hillside Ave, Victoria",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3980165732299,
+          48.448923911127046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "2975 Jutland",
+        "coordinates": [
+          -123.37799405939026,
+          48.440491351144786
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5:30pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.37799405939026,
+          48.440491351144786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "3350 Douglas",
+        "coordinates": [
+          -123.37495023240905,
+          48.4505259574279
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.37495023240905,
+          48.4505259574279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "3400 Davidson Avenue",
+        "coordinates": [
+          -123.37961625938988,
+          48.45320033167533
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.37961625938988,
+          48.45320033167533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "3611 Shelbourne Street",
+        "coordinates": [
+          -123.33267010250367,
+          48.45959383099192
+        ],
+        "hours_details": "BC Liquor Store #140 Cedar Hill on strike but picketing at 370-777 Royal Oak Dr",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.33267010250367,
+          48.45959383099192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "370-777 Royal Oak Drive",
+        "coordinates": [
+          -123.38278824511913,
+          48.49815794670482
+        ],
+        "hours_details": "BC Liquor Store #181 Broadmead Village Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.38278824511913,
+          48.49815794670482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "4000 Seymour",
+        "coordinates": [
+          -123.3699732593898,
+          48.45276341832912
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3699732593898,
+          48.45276341832912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "4464 Markham Street",
+        "coordinates": [
+          -123.41220831520579,
+          48.493314932680065
+        ],
+        "hours_details": "on strike but picketing at existing picket lines",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.41220831520579,
+          48.493314932680065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "617 Government Street",
+        "coordinates": [
+          -123.36824382379629,
+          48.419182380868975
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36824382379629,
+          48.419182380868975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "675 Belleville (Royal BC Museum)",
+        "coordinates": [
+          -123.36741751520846,
+          48.41989651577428
+        ],
+        "hours_details": "Monday to Friday, 7am-6pm and Saturday to Sunday, 9am-6pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36741751520846,
+          48.41989651577428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "716 Courtney",
+        "coordinates": [
+          -123.36490253055446,
+          48.42328226980757
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36490253055446,
+          48.42328226980757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "727 Fisgard",
+        "coordinates": [
+          -123.3629474152083,
+          48.42926686188962
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.3629474152083,
+          48.42926686188962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "800 Johnson",
+        "coordinates": [
+          -123.36120887288136,
+          48.42717520035865
+        ],
+        "hours_details": "on strike but picketing at 675 Belleville",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36120887288136,
+          48.42717520035865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "818 Fort Street",
+        "coordinates": [
+          -123.36161641706389,
+          48.42450564749953
+        ],
+        "hours_details": "on strike but picketing at 1515 Blanshard",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36161641706389,
+          48.42450564749953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "835 Humboldt",
+        "coordinates": [
+          -123.36293651706411,
+          48.41990090118753
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36293651706411,
+          48.41990090118753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "836 Yates",
+        "coordinates": [
+          -123.36048000171787,
+          48.42625298305981
+        ],
+        "hours_details": "on strike but picketing at 617 Government Street",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36048000171787,
+          48.42625298305981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "87-1644 Hillside Avenue",
+        "coordinates": [
+          -123.33474885019046,
+          48.44643348071159
+        ],
+        "hours_details": "BC Liquor Store #82 Hillside Monday to Saturday 9am-9pm, Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.33474885019046,
+          48.44643348071159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "940 Blanshard",
+        "coordinates": [
+          -123.36319437473696,
+          48.42345648932714
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36319437473696,
+          48.42345648932714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "976 Meares",
+        "coordinates": [
+          -123.35758355753552,
+          48.42354860899462
+        ],
+        "hours_details": "on strike but picketing at 4000 Seymour",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.35758355753552,
+          48.42354860899462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "1175 Douglas Street",
+        "coordinates": [
+          -123.36461750281573,
+          48.42534946357673
+        ],
+        "hours_details": "on strike but picketing at 1515 Blanshard",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36461750281573,
+          48.42534946357673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "545 Superior St",
+        "coordinates": [
+          -123.37030571272568,
+          48.418028786805294
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.37030571272568,
+          48.418028786805294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "West Vancouver",
+        "address": "1434 Marine Drive",
+        "coordinates": [
+          -123.15531381790025,
+          49.32791981359385
+        ],
+        "hours_details": "BC Liquor Store #72 Ambleside on strike but picketing at 5335 Headland Dr, West Vancouver",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.15531381790025,
+          49.32791981359385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "West Vancouver",
+        "address": "195-5335 Headland Drive",
+        "coordinates": [
+          -123.2546190573819,
+          49.35083511361298
+        ],
+        "hours_details": "BC Liquor Store #175 Caulfield Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2546190573819,
+          49.35083511361298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "West Vancouver",
+        "address": "785 Park Royal N",
+        "coordinates": [
+          -123.13768667704828,
+          49.32765212177735
+        ],
+        "hours_details": "BC Liquor Store #228 Park Royal Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.13768667704828,
+          49.32765212177735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Whistler",
+        "address": "101-4360 Lorimer Road",
+        "coordinates": [
+          -122.95606330026813,
+          50.11995931864395
+        ],
+        "hours_details": "BC Liquor Store #179 Whistler Market Place Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95606330026813,
+          50.11995931864395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Whistler",
+        "address": "2071 Lake Placid Road",
+        "coordinates": [
+          -122.99161515420366,
+          50.09581809645586
+        ],
+        "hours_details": "BC Liquor Store #195 Whistler Creekside on strike but picketing at 4360 Lorimer Rd, Whistler",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99161515420366,
+          50.09581809645586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Whistler",
+        "address": "4211 Village Square",
+        "coordinates": [
+          -122.95651171766589,
+          50.11488211110375
+        ],
+        "hours_details": "BC Liquor Store #302 Whistler on strike but picketing at 4360 Lorimer Rd, Whistler",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.95651171766589,
+          50.11488211110375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Williams Lake",
+        "address": "280 3 Ave N",
+        "coordinates": [
+          -122.14275167200667,
+          52.13311819272493
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14275167200667,
+          52.13311819272493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Williams Lake",
+        "address": "640 Borland Street",
+        "coordinates": [
+          -122.13693381321556,
+          52.130696997489395
+        ],
+        "hours_details": "Monday to Friday, 7:30am-5pm",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13693381321556,
+          52.130696997489395
+        ]
+      }
+    }
+  ]
+}
