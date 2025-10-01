@@ -862,7 +862,8 @@
       ],
       "hours_details": "Monday to Friday, 8am-4pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Surrey",
@@ -873,7 +874,8 @@
       ],
       "hours_details": "on strike but picketing at other locations",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Surrey",
@@ -906,7 +908,8 @@
       ],
       "hours_details": "Monday to Friday, 6:20am-4pm; and Saturday to Sunday, 10am-2pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Office",
+      "go_to_the_rally": true
     },
     {
       "city": "Surrey",
