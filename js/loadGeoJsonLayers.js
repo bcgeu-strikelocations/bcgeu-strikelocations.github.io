@@ -1,5 +1,5 @@
 import { map } from './map-config.js';
-import { strikeIcon, noPicketIcon } from './icons.js';
+import { strikeIcon, noPicketIcon, rallyIcon } from './icons.js';
 import { createPopupContent } from './utils.js';
 
 const style_30k = {
@@ -16,7 +16,15 @@ export async function loadGeoJsonLayers() {
 
     const strikeLayer = L.geoJSON(points_data.features, {
         pointToLayer: (feature, latlng) => {
-            return L.marker(latlng, { icon: feature.properties.is_picket_line ? strikeIcon : noPicketIcon })
+            let icon;
+            if (feature.properties.go_to_the_rally) {
+                icon = rallyIcon;
+            } else if (feature.properties.is_picket_line) {
+                icon = strikeIcon;
+            } else {
+                icon = noPicketIcon;
+            }
+            return L.marker(latlng, { icon: icon })
                     .bindPopup(createPopupContent(feature.properties));
         }
     }).addTo(map)
@@ -29,5 +37,8 @@ export async function loadGeoJsonLayers() {
     const radius_response = await fetch("layers/strike_locations_30k_generated.geojson")
     const radius_data = await radius_response.json()
 
-    L.geoJSON(radius_data.features, {style: style_30k}).addTo(map)
+    L.geoJSON(radius_data.features, {
+        style: style_30k,
+        interactive: false
+    }).addTo(map)
 }

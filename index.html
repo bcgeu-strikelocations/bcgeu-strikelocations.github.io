@@ -1,27 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BCGEU Strike Locations</title>
-    
+
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
-    
+
     <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-          crossorigin=""/>
-    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
     <!-- Custom CSS -->
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <div id="map"></div>
-    
+
     <div class="info-panel">
-        <h3>BCGEU Strike Locations (Sept. 26)</h3>
+        <h3>BCGEU Strike Locations (Oct. 1)</h3>
         <div class="legend">
+            <div class="legend-item">
+                <div class="legend-color" style="background-color: white; border: 3px solid #8B0000; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 12px; width: 20px; height: 20px;">🚩</div>
+                <span>Go to the Rally (Oct 1)</span>
+            </div>
             <div class="legend-item">
                 <div class="legend-color" style="background-color: #db1e2a;"></div>
                 <span>Strike Location (picketed)</span>
@@ -63,11 +67,10 @@
     </div>
 
     <!-- Leaflet JavaScript -->
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-            crossorigin=""></script>
-    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
     <!-- JavaScript Module Loader -->
     <script type="module" src="js/main.js"></script>
 </body>
+
 </html>

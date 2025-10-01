@@ -22,6 +22,7 @@ The goal is to facilitate finding the closest picket line for a remote member.
 ## 🔄 Updating Locations
 
 ### Automated Workflow
+
 The repository is set up with GitHub Actions to automatically update generated files when `locations.json` changes:
 
 1. **Create a Pull Request** with updated `locations.json` containing new strike locations
@@ -32,6 +33,7 @@ The repository is set up with GitHub Actions to automatically update generated f
    - Deploys the updated site to GitHub Pages
 
 ### Manual Update (Local Development)
+
 If you need to update files locally:
 
 ```bash
@@ -41,7 +43,7 @@ npm run transform
 git add layers/strike_locations_generated.geojson layers/strike_locations_30k_generated.geojson
 git commit -m "chore: update generated location files"
 git push
-``` 
+```
 
 ### Local Development Server
 
@@ -66,7 +68,8 @@ Each location in `locations.json` has the following structure:
       "address": "Street address (string)",
       "coordinates": [longitude, latitude],
       "hours_details": "Operating hours or additional details (string)",
-      "is_picket_line": true/false
+      "is_picket_line": true/false,
+      "location_type": "Office"
     }
   ]
 }
@@ -75,7 +78,8 @@ Each location in `locations.json` has the following structure:
 ### Field Descriptions
 
 - `city`: City name (string)
-- `address`: Street address (string)  
+- `address`: Street address (string)
 - `coordinates`: [longitude, latitude] array (numbers)
 - `hours_details`: Operating hours or additional information (string)
 - `is_picket_line`: Boolean indicating if this is an active picket line (boolean)
+- `location_type`: Type of location (string)
