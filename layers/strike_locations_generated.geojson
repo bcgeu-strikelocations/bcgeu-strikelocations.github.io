@@ -48,7 +48,7 @@
       "type": "Feature",
       "properties": {
         "city": "Agassiz",
-        "address": "7250 Pioneer Avenue",
+        "address": "7250 Pioneer Ave",
         "coordinates": [
           -121.75958427312219,
           49.23867393585482
@@ -90,7 +90,7 @@
       "type": "Feature",
       "properties": {
         "city": "Burnaby",
-        "address": "4370 Dominion Street",
+        "address": "4370 Dominion St",
         "coordinates": [
           -123.006666961928,
           49.2560317228061
@@ -132,7 +132,7 @@
       "type": "Feature",
       "properties": {
         "city": "Burnaby",
-        "address": "4455 Skyline Drive",
+        "address": "4455 Skyline Dr",
         "coordinates": [
           -123.00433619014504,
           49.26577056472892
@@ -174,7 +174,7 @@
       "type": "Feature",
       "properties": {
         "city": "Burnaby",
-        "address": "7509 Byrne Road",
+        "address": "7509 Byrne Rd",
         "coordinates": [
           -122.9795906953238,
           49.19842558820753
@@ -216,7 +216,7 @@
       "type": "Feature",
       "properties": {
         "city": "Burnaby",
-        "address": "Unit 103 3433 North Road",
+        "address": "Unit 103, 3433 North Rd",
         "coordinates": [
           -122.89339913787293,
           49.25292851814367
@@ -258,7 +258,7 @@
       "type": "Feature",
       "properties": {
         "city": "Campbell River",
-        "address": "2116 S Island Highway",
+        "address": "2116 S Island Hwy",
         "coordinates": [
           -125.21780807263158,
           49.97156947238686
@@ -279,7 +279,7 @@
       "type": "Feature",
       "properties": {
         "city": "Campbell River",
-        "address": "270-1400 Dogwood Street",
+        "address": "270-1400 Dogwood St",
         "coordinates": [
           -125.25110770852733,
           50.02918462719477
@@ -300,7 +300,7 @@
       "type": "Feature",
       "properties": {
         "city": "Castlegar",
-        "address": "Unit G, 635 Columbia Avenue",
+        "address": "Unit G, 635 Columbia Ave",
         "coordinates": [
           -117.6649303245909,
           49.32135750604707
@@ -342,7 +342,7 @@
       "type": "Feature",
       "properties": {
         "city": "Chilliwack",
-        "address": "46040 Yale Road",
+        "address": "46040 Yale Rd",
         "coordinates": [
           -121.95366723968563,
           49.17006621195639
@@ -384,7 +384,7 @@
       "type": "Feature",
       "properties": {
         "city": "Comox",
-        "address": "204 Port Augusta Street",
+        "address": "204 Port Augusta St",
         "coordinates": [
           -124.9240997749843,
           49.674035429594234
@@ -426,7 +426,7 @@
       "type": "Feature",
       "properties": {
         "city": "Courtenay",
-        "address": "1095 Cliffe Avenue",
+        "address": "1095 Cliffe Ave",
         "coordinates": [
           -124.99534067830712,
           49.68788217208051
@@ -468,7 +468,7 @@
       "type": "Feature",
       "properties": {
         "city": "Cranbrook",
-        "address": "117 10th Avenue S",
+        "address": "117 10th Ave S",
         "coordinates": [
           -115.76781298466803,
           49.509559825127624
@@ -510,7 +510,7 @@
       "type": "Feature",
       "properties": {
         "city": "Cranbrook",
-        "address": "205 Industrial Road G",
+        "address": "205 Industrial Rd G",
         "coordinates": [
           -115.75843311702344,
           49.536329476650245
@@ -531,7 +531,7 @@
       "type": "Feature",
       "properties": {
         "city": "Cumberland",
-        "address": "2700 Dunsmuir Avenue",
+        "address": "2700 Dunsmuir Ave",
         "coordinates": [
           -125.0302965365573,
           49.61897966172796
@@ -552,7 +552,7 @@
       "type": "Feature",
       "properties": {
         "city": "Dawson Creek",
-        "address": "1020 Alaska Avenue",
+        "address": "1020 Alaska Ave",
         "coordinates": [
           -120.2287560571286,
           55.75989943552747
@@ -594,7 +594,7 @@
       "type": "Feature",
       "properties": {
         "city": "Delta",
-        "address": "1319-56 Street",
+        "address": "1319 h, 56th St",
         "coordinates": [
           -123.07082955940317,
           49.026608760668154
@@ -615,7 +615,7 @@
       "type": "Feature",
       "properties": {
         "city": "Delta",
-        "address": "5202 48 Avenue",
+        "address": "5202 48 Ave",
         "coordinates": [
           -123.07907439510001,
           49.089667352100264
@@ -636,7 +636,7 @@
       "type": "Feature",
       "properties": {
         "city": "Delta",
-        "address": "7003 72 Street",
+        "address": "7003 72 St",
         "coordinates": [
           -123.02433204401933,
           49.131845376100024
@@ -657,7 +657,7 @@
       "type": "Feature",
       "properties": {
         "city": "Delta",
-        "address": "7017 120 Street",
+        "address": "7017 120 St",
         "coordinates": [
           -122.8928202409043,
           49.13132131885967
@@ -678,7 +678,7 @@
       "type": "Feature",
       "properties": {
         "city": "Fort St. John",
-        "address": "10003 110th Avenue",
+        "address": "10003 110th Ave",
         "coordinates": [
           -120.8484444302564,
           56.25498181121155
@@ -699,7 +699,7 @@
       "type": "Feature",
       "properties": {
         "city": "Kamloops",
-        "address": "1801 Princeton-Kamloops Highway",
+        "address": "1801 Princeton-Kamloops Hwy",
         "coordinates": [
           -120.36719055930932,
           50.65313551638878
@@ -720,7 +720,28 @@
       "type": "Feature",
       "properties": {
         "city": "Kamloops",
-        "address": "441 Columbia Street",
+        "address": "2650 West Trans-Canada Hwy",
+        "coordinates": [
+          -119.22746881540255,
+          50.72296932817425
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "CVSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.22746881540255,
+          50.72296932817425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kamloops",
+        "address": "441 Columbia St",
         "coordinates": [
           -120.33165597492842,
           50.6687529664251
@@ -741,7 +762,7 @@
       "type": "Feature",
       "properties": {
         "city": "Kamloops",
-        "address": "447 Columbia Street",
+        "address": "447 Columbia St",
         "coordinates": [
           -120.33063059566007,
           50.66847057531782
@@ -762,7 +783,7 @@
       "type": "Feature",
       "properties": {
         "city": "Kamloops",
-        "address": "600-1210 Summit Drive",
+        "address": "600-1210 Summit Dr",
         "coordinates": [
           -120.35325314403848,
           50.66587561056809
@@ -783,7 +804,7 @@
       "type": "Feature",
       "properties": {
         "city": "Kamloops",
-        "address": "9881 Dallas Drive",
+        "address": "9881 Dallas Dr",
         "coordinates": [
           -120.0554470862904,
           50.65380200371504
@@ -825,7 +846,7 @@
       "type": "Feature",
       "properties": {
         "city": "Kelowna",
-        "address": "1835 Dilworth Drive",
+        "address": "1835 Dilworth Dr",
         "coordinates": [
           -119.43560598087417,
           49.88159209898322
@@ -846,7 +867,7 @@
       "type": "Feature",
       "properties": {
         "city": "Kelowna",
-        "address": "35 3155 Lakeshore Road",
+        "address": "35 3155 Lakeshore Rd",
         "coordinates": [
           -119.48940524002393,
           49.859839978180105
@@ -867,7 +888,7 @@
       "type": "Feature",
       "properties": {
         "city": "Kelowna",
-        "address": "478 Bernard Avenue",
+        "address": "478 Bernard Ave",
         "coordinates": [
           -119.49400108817416,
           49.88663027340071
@@ -888,7 +909,7 @@
       "type": "Feature",
       "properties": {
         "city": "Langford",
-        "address": "600-2945 Jacklin Road",
+        "address": "600-2945 Jacklin Rd",
         "coordinates": [
           -123.50653837244776,
           48.44068226667487
@@ -909,7 +930,7 @@
       "type": "Feature",
       "properties": {
         "city": "Langley",
-        "address": "26310 Fraser Highway",
+        "address": "26310 Fraser Hwy",
         "coordinates": [
           -122.49552378302845,
           49.05912806039577
@@ -930,7 +951,7 @@
       "type": "Feature",
       "properties": {
         "city": "Langley",
-        "address": "6435 201 Street",
+        "address": "6435, 201 St",
         "coordinates": [
           -122.66623896093836,
           49.11995710781093
@@ -951,7 +972,7 @@
       "type": "Feature",
       "properties": {
         "city": "Langley",
-        "address": "8840 210 Street",
+        "address": "8840 210 St",
         "coordinates": [
           -122.63710421626716,
           49.16361169443282
@@ -972,7 +993,7 @@
       "type": "Feature",
       "properties": {
         "city": "Langley",
-        "address": "9110 Glover Road",
+        "address": "9110 Glover Rd",
         "coordinates": [
           -122.57941112034777,
           49.16776788644201
@@ -993,7 +1014,7 @@
       "type": "Feature",
       "properties": {
         "city": "Mission",
-        "address": "32530 Lougheed Highway",
+        "address": "32530 Lougheed Hwy",
         "coordinates": [
           -122.32159147091046,
           49.132274049273036
@@ -1014,7 +1035,7 @@
       "type": "Feature",
       "properties": {
         "city": "Nanaimo",
-        "address": "2080 Labieux Road",
+        "address": "2080 Labieux Rd",
         "coordinates": [
           -123.99355163895063,
           49.20115124765564
@@ -1035,7 +1056,7 @@
       "type": "Feature",
       "properties": {
         "city": "Nanaimo",
-        "address": "2100 Labieux Road",
+        "address": "2100 Labieux Rd",
         "coordinates": [
           -123.99583964401677,
           49.20176771627072
@@ -1056,7 +1077,7 @@
       "type": "Feature",
       "properties": {
         "city": "Nelson",
-        "address": "333 Victoria Street",
+        "address": "333 Victoria St",
         "coordinates": [
           -117.29551970167921,
           49.490763577737034
@@ -1077,7 +1098,7 @@
       "type": "Feature",
       "properties": {
         "city": "Nelson",
-        "address": "566 Stanley Street",
+        "address": "566 Stanley St",
         "coordinates": [
           -117.29485581702527,
           49.490919477382015
@@ -1098,7 +1119,7 @@
       "type": "Feature",
       "properties": {
         "city": "New Westminster",
-        "address": "1075 Columbia Street",
+        "address": "1075 Columbia St",
         "coordinates": [
           -122.91922181059233,
           49.200701560096384
@@ -1112,27 +1133,6 @@
         "coordinates": [
           -122.91922181059233,
           49.200701560096384
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "city": "New Westminster",
-        "address": "800 McBride Boulevard",
-        "coordinates": [
-          -122.91451347012946,
-          49.22281877259774
-        ],
-        "hours_details": "BC Liquor Store #97 Royal Square on strike but picketing at 7155 Kingsway, Burnaby",
-        "is_picket_line": false,
-        "location_type": "BC Liquor Store"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.91451347012946,
-          49.22281877259774
         ]
       }
     },
@@ -1161,7 +1161,7 @@
       "type": "Feature",
       "properties": {
         "city": "North Vancouver",
-        "address": "147-1199 Lynn Valley Road",
+        "address": "147, 1199 Lynn Valley Rd",
         "coordinates": [
           -123.03983185157881,
           49.335382580949634
@@ -1182,7 +1182,7 @@
       "type": "Feature",
       "properties": {
         "city": "North Vancouver",
-        "address": "2601 Westview Drive",
+        "address": "2601 Westview Dr",
         "coordinates": [
           -123.0903121257282,
           49.33322201195365
@@ -1203,7 +1203,7 @@
       "type": "Feature",
       "properties": {
         "city": "North Vancouver",
-        "address": "411 Dollarton Highway",
+        "address": "411 Dollarton Hwy",
         "coordinates": [
           -122.95385597640646,
           49.30699494308556
@@ -1224,7 +1224,7 @@
       "type": "Feature",
       "properties": {
         "city": "North Vancouver",
-        "address": "935 Marine Drive",
+        "address": "935 Marine Dr",
         "coordinates": [
           -123.1010842226423,
           49.3211831161129
@@ -1245,7 +1245,7 @@
       "type": "Feature",
       "properties": {
         "city": "Pemberton",
-        "address": "7445 Frontier Street",
+        "address": "7445 Frontier St",
         "coordinates": [
           -122.80638678252132,
           50.32293284020399
@@ -1287,7 +1287,7 @@
       "type": "Feature",
       "properties": {
         "city": "Penticton",
-        "address": "405-1301 Main Street",
+        "address": "405, 1301 Main St",
         "coordinates": [
           -119.58748459875382,
           49.48503162750471
@@ -1308,7 +1308,7 @@
       "type": "Feature",
       "properties": {
         "city": "Pitt Meadows",
-        "address": "810-19800 Lougheed Highway",
+        "address": "810, 19800 Lougheed Hwy",
         "coordinates": [
           -122.6708981807442,
           49.2223992314018
@@ -1329,7 +1329,7 @@
       "type": "Feature",
       "properties": {
         "city": "Port Coquitlam",
-        "address": "140-1097 Nicola Avenue",
+        "address": "140, 1097 Nicola Ave",
         "coordinates": [
           -122.7440090180478,
           49.2580677203043
@@ -1350,7 +1350,7 @@
       "type": "Feature",
       "properties": {
         "city": "Port Coquitlam",
-        "address": "2748 Lougheed Highway",
+        "address": "2748 Lougheed Hwy",
         "coordinates": [
           -122.78893174307507,
           49.27219072697277
@@ -1371,7 +1371,7 @@
       "type": "Feature",
       "properties": {
         "city": "Prince George",
-        "address": "1011 4th Avenue",
+        "address": "1011 4th Ave",
         "coordinates": [
           -122.74232801685817,
           53.9150654610895
@@ -1413,7 +1413,7 @@
       "type": "Feature",
       "properties": {
         "city": "Prince George",
-        "address": "3173 Massey Drive",
+        "address": "3173, Massey Dr",
         "coordinates": [
           -122.78121709534348,
           53.899117484142
@@ -1434,7 +1434,7 @@
       "type": "Feature",
       "properties": {
         "city": "Prince Rupert",
-        "address": "100 2nd Avenue W",
+        "address": "100 2nd Ave W",
         "coordinates": [
           -130.3226311927374,
           54.31591655115688
@@ -1455,7 +1455,7 @@
       "type": "Feature",
       "properties": {
         "city": "Richmond",
-        "address": "10-8671 No 1 Road",
+        "address": "10, 8671 No 1 Rd",
         "coordinates": [
           -123.18250226865695,
           49.14885654087577
@@ -1476,7 +1476,7 @@
       "type": "Feature",
       "properties": {
         "city": "Richmond",
-        "address": "3170-11666 Steveston Highway",
+        "address": "3170, 11666 Steveston Hwy",
         "coordinates": [
           -123.0944986822158,
           49.132239108942564
@@ -1497,7 +1497,7 @@
       "type": "Feature",
       "properties": {
         "city": "Richmond",
-        "address": "3389 No 6 Road",
+        "address": "3389 No 6 Rd",
         "coordinates": [
           -123.07026265750764,
           49.18784045397833
@@ -1518,7 +1518,7 @@
       "type": "Feature",
       "properties": {
         "city": "Richmond",
-        "address": "8100 Ackroyd Road",
+        "address": "8100 Ackroyd Rd",
         "coordinates": [
           -123.13527135153582,
           49.17140335435468
@@ -1539,7 +1539,7 @@
       "type": "Feature",
       "properties": {
         "city": "Smithers",
-        "address": "3726 Alfred Avenue",
+        "address": "3726 Alfred Ave",
         "coordinates": [
           -127.17285364380541,
           54.7777460423426
@@ -1560,7 +1560,7 @@
       "type": "Feature",
       "properties": {
         "city": "Sooke",
-        "address": "9050 6660 Sooke Road",
+        "address": "9050 6660 Sooke Rd",
         "coordinates": [
           -123.72119787388003,
           48.37919919381069
@@ -1581,7 +1581,7 @@
       "type": "Feature",
       "properties": {
         "city": "Summerland",
-        "address": "13604 Victoria Road",
+        "address": "13604 Victoria Rd",
         "coordinates": [
           -119.6842194589473,
           49.60382507075938
@@ -1602,7 +1602,7 @@
       "type": "Feature",
       "properties": {
         "city": "Surrey",
-        "address": "101-17780 56 ave",
+        "address": "101-17780 56 Ave",
         "coordinates": [
           -122.72987069832479,
           49.10296333446526
@@ -1623,7 +1623,7 @@
       "type": "Feature",
       "properties": {
         "city": "Surrey",
-        "address": "10470 152 Street",
+        "address": "10470 152 St",
         "coordinates": [
           -122.80052380168998,
           49.19284141219725
@@ -1644,7 +1644,7 @@
       "type": "Feature",
       "properties": {
         "city": "Surrey",
-        "address": "10475 138 Street",
+        "address": "10475 138 St",
         "coordinates": [
           -122.84034859005503,
           49.19333165053479
@@ -1686,7 +1686,7 @@
       "type": "Feature",
       "properties": {
         "city": "Surrey",
-        "address": "12881 16th Avenue",
+        "address": "12881 16th Ave",
         "coordinates": [
           -122.86515241523283,
           49.0321255635384
@@ -1707,7 +1707,7 @@
       "type": "Feature",
       "properties": {
         "city": "Surrey",
-        "address": "14323 57 Avenue",
+        "address": "14323 57 Ave",
         "coordinates": [
           -122.82604835936623,
           49.10713546330671
@@ -1728,7 +1728,7 @@
       "type": "Feature",
       "properties": {
         "city": "Surrey",
-        "address": "1711 152 Street",
+        "address": "1711 152 St",
         "coordinates": [
           -122.80219624983626,
           49.03178523967631
@@ -1749,7 +1749,7 @@
       "type": "Feature",
       "properties": {
         "city": "Surrey",
-        "address": "280-15355 24th Avenue",
+        "address": "280-15355 24th Ave",
         "coordinates": [
           -122.79855480575105,
           49.046990583725886
@@ -1770,7 +1770,7 @@
       "type": "Feature",
       "properties": {
         "city": "Surrey",
-        "address": "7488 King George Boulevard",
+        "address": "7488 King George Blvd",
         "coordinates": [
           -122.84404627776526,
           49.13739886514814
@@ -1784,6 +1784,27 @@
         "coordinates": [
           -122.84404627776526,
           49.13739886514814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Terrace",
+        "address": "Highway 15 at K'San Ave",
+        "coordinates": [
+          -128.52428217651547,
+          54.52966843455616
+        ],
+        "hours_details": "",
+        "is_picket_line": null,
+        "location_type": "CVSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.52428217651547,
+          54.52966843455616
         ]
       }
     },
@@ -1938,7 +1959,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "2058 41st Avenue W",
+        "address": "2058 41st Ave W",
         "coordinates": [
           -123.15384699583737,
           49.23438647449683
@@ -1959,7 +1980,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "2120 Lahb Avenue",
+        "address": "2120 Lahb Ave",
         "coordinates": [
           -123.15420254146882,
           49.248399017717894
@@ -1980,7 +2001,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "2395 Cambie Street",
+        "address": "2395 Cambie St",
         "coordinates": [
           -123.11519691531554,
           49.264820316878605
@@ -2001,7 +2022,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "3150 E 54th Avenue",
+        "address": "3150 E 54th Ave",
         "coordinates": [
           -123.04015015507348,
           49.219885519713365
@@ -2106,7 +2127,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "4423 Main Street",
+        "address": "4423 Main St",
         "coordinates": [
           -123.10148765505046,
           49.24557441999257
@@ -2316,7 +2337,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "768 Bute Street",
+        "address": "768 Bute St",
         "coordinates": [
           -123.12592524184365,
           49.28626887509081
@@ -2358,7 +2379,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "865 Hornby Street",
+        "address": "865 Hornby St",
         "coordinates": [
           -123.12330408634064,
           49.28211495343562
@@ -2379,7 +2400,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vancouver",
-        "address": "900 Howe Street",
+        "address": "900 Howe St",
         "coordinates": [
           -123.12251480168685,
           49.28067595945952
@@ -2421,7 +2442,7 @@
       "type": "Feature",
       "properties": {
         "city": "Vernon",
-        "address": "245a 4900 27th st",
+        "address": "245a 4900 27th St",
         "coordinates": [
           -119.26837880084348,
           50.284361390802516
@@ -2442,7 +2463,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "1087 McKenzie Avenue",
+        "address": "1087 McKenzie Ave",
         "coordinates": [
           -123.36161016456093,
           48.469987839556474
@@ -2463,7 +2484,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "1150 McKenzie Avenue",
+        "address": "1150 McKenzie Ave",
         "coordinates": [
           -123.36042477102421,
           48.471481313270814
@@ -2568,7 +2589,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "1960 Foul Bay Road",
+        "address": "1960 Foul Bay Rd",
         "coordinates": [
           -123.32291109064239,
           48.430822856723964
@@ -2610,7 +2631,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "2955 Tillicum Road",
+        "address": "2955 Tillicum Rd",
         "coordinates": [
           -123.3980165732299,
           48.448923911127046
@@ -2673,7 +2694,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "3400 Davidson Avenue",
+        "address": "3400 Davidson Ave",
         "coordinates": [
           -123.37961625938988,
           48.45320033167533
@@ -2694,7 +2715,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "3611 Shelbourne Street",
+        "address": "3611 Shelbourne St",
         "coordinates": [
           -123.33267010250367,
           48.45959383099192
@@ -2715,7 +2736,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "370-777 Royal Oak Drive",
+        "address": "370-777 Royal Oak Dr",
         "coordinates": [
           -123.38278824511913,
           48.49815794670482
@@ -2757,7 +2778,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "4464 Markham Street",
+        "address": "4464 Markham St",
         "coordinates": [
           -123.41220831520579,
           48.493314932680065
@@ -2799,7 +2820,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "617 Government Street",
+        "address": "617 Government",
         "coordinates": [
           -123.36824382379629,
           48.419182380868975
@@ -2904,7 +2925,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "818 Fort Street",
+        "address": "818 Fort St",
         "coordinates": [
           -123.36161641706389,
           48.42450564749953
@@ -2967,7 +2988,7 @@
       "type": "Feature",
       "properties": {
         "city": "Victoria",
-        "address": "87-1644 Hillside Avenue",
+        "address": "87-1644 Hillside Ave",
         "coordinates": [
           -123.33474885019046,
           48.44643348071159
@@ -3029,8 +3050,29 @@
     {
       "type": "Feature",
       "properties": {
+        "city": "Westminster",
+        "address": "800 McBride Blvd",
+        "coordinates": [
+          -122.91451347012946,
+          49.22281877259774
+        ],
+        "hours_details": "BC Liquor Store #97 Royal Square on strike but picketing at 7155 Kingsway, Burnaby",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.91451347012946,
+          49.22281877259774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "city": "West Vancouver",
-        "address": "1434 Marine Drive",
+        "address": "1434 Marine Dr",
         "coordinates": [
           -123.15531381790025,
           49.32791981359385
@@ -3051,7 +3093,7 @@
       "type": "Feature",
       "properties": {
         "city": "West Vancouver",
-        "address": "195-5335 Headland Drive",
+        "address": "195-5335 Headland Dr",
         "coordinates": [
           -123.2546190573819,
           49.35083511361298
@@ -3093,7 +3135,7 @@
       "type": "Feature",
       "properties": {
         "city": "Whistler",
-        "address": "101-4360 Lorimer Road",
+        "address": "101-4360 Lorimer Rd",
         "coordinates": [
           -122.95606330026813,
           50.11995931864395
@@ -3114,7 +3156,7 @@
       "type": "Feature",
       "properties": {
         "city": "Whistler",
-        "address": "2071 Lake Placid Road",
+        "address": "2071 Lake Placid Rd",
         "coordinates": [
           -122.99161515420366,
           50.09581809645586
@@ -3177,7 +3219,7 @@
       "type": "Feature",
       "properties": {
         "city": "Williams Lake",
-        "address": "640 Borland Street",
+        "address": "640 Borland St",
         "coordinates": [
           -122.13693381321556,
           52.130696997489395
