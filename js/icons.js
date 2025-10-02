@@ -26,9 +26,3 @@ export const postalCodeIcon = L.divIcon({
     iconAnchor: [9, 9]
 });
 
-export const rallyIcon = L.divIcon({
-    className: 'rally-marker',
-    html: '<div style="background-color: white; width: 22px; height: 22px; border-radius: 50%; border: 3px solid #8B0000; box-shadow: 0 2px 6px rgba(0,0,0,0.4); display: flex; align-items: center; justify-content: center; font-size: 14px;">🚩</div>',
-    iconSize: [22, 22],
-    iconAnchor: [11, 11]
-});
