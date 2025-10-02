@@ -2,6 +2,17 @@
   "locations": [
     {
       "city": "Abbotsford",
+      "address": "Unit J165 3122 Mount Lehman Rd",
+      "coordinates": [
+        -122.37758000996979,
+        49.05826043580834
+      ],
+      "hours_details": "BC Cannabis Store Highstreet Shopping Centre 9am to 7pm on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Abbotsford",
       "address": "117-2070 Sumas Way",
       "coordinates": [
         -122.26877547394928,
@@ -32,6 +43,72 @@
       "hours_details": "BC Liquor Store #64 Agassiz on strike but picketing at 46040 Yale Rd, Chilliwack",
       "is_picket_line": false,
       "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Burnaby",
+      "address": "#2‑4615 Lougheed Hwy",
+      "coordinates": [
+        -122.99976062064485,
+        49.26666163183591
+      ],
+      "hours_details": "BC Cannabis Store Brentwood 9am to 7pm",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Burnaby",
+      "address": "4450 Hastings St",
+      "coordinates": [
+        -123.00345378936227,
+        49.280717529927045
+      ],
+      "hours_details": "BC Liquor Store North Burnaby 9am to 7pm on strike but picketing at 3150 E Broadway, Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Burnaby",
+      "address": "6512 Hastings St",
+      "coordinates": [
+        -122.96903853501544,
+        49.27963412933275
+      ],
+      "hours_details": "BC Liquor Store Kensington 9am to 7pm on strike but picketing at 3150 E Broadway, Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Burnaby",
+      "address": "7300 Market Crossing",
+      "coordinates": [
+        -122.98276174282053,
+        49.20108350472922
+      ],
+      "hours_details": "BC Cannabis Store Market Crossing 9am to 7pm on strike but picketing at Highgate 7155 Kingsway #235, Burnaby,",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Burnaby",
+      "address": "8992 University High St",
+      "coordinates": [
+        -122.91096503563617,
+        49.278040469512874
+      ],
+      "hours_details": "BC Liquor Store SFU 9am to 7pm on strike but picketing at 3150 E Broadway, Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Burnaby",
+      "address": "Unit 1 - 4429 Kingsway Ave",
+      "coordinates": [
+        -123.00628451525644,
+        49.23100132543889
+      ],
+      "hours_details": "BC Cannabis Store Old Orchard 9am to 7pm on strike but picketing at Highgate 7155 Kingsway #235, Burnaby,",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Burnaby",
@@ -167,6 +244,17 @@
     },
     {
       "city": "Chilliwack",
+      "address": "Unit B - 45460 Luckakuck Way",
+      "coordinates": [
+        -121.96562743344411,
+        49.14045852451599
+      ],
+      "hours_details": "BC Cannabis Store Chilliwack 9am to 7pm on strike but picketing at 46040 Yale Rd, Chilliwack",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Chilliwack",
       "address": "45585 Luckakuck Way",
       "coordinates": [
         -121.96437299424498,
@@ -207,6 +295,17 @@
       ],
       "hours_details": "BC Liquor Store #235 Comox on strike but picketing at 1095 Cliffe Ave, Courtenay",
       "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Coquitlam",
+      "address": "172, 1960 Como Lake Ave",
+      "coordinates": [
+        -122.83756596645043,
+        49.26282170880275 
+      ],
+      "hours_details": "BC Liquor Store Como Lake 9am to 7pm",
+      "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
     {
@@ -307,6 +406,17 @@
       "hours_details": "on strike but picketing at 1020 Alaska Ave, Dawson Creek",
       "is_picket_line": false,
       "location_type": "Office"
+    },
+    {
+      "city": "Delta",
+      "address": "7019 120 St",
+      "coordinates": [
+        -122.89273243560253,
+        49.131434153019995
+      ],
+      "hours_details": "BC Cannabis Store Scottsdale Mall 9am to 7pm on strike but picketing at BC Liquor store 12080 Nordel Way",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Delta",
@@ -486,6 +596,17 @@
     },
     {
       "city": "Langley",
+      "address": "20202 66 Ave #150",
+      "coordinates": [
+        -122.6643646305291,
+        49.121104409240225
+      ],
+      "hours_details": "BC Cannabis Store Smart Centres Langley 9am to 7pm on strike but picketing at BC Liquor store Langley-6435 201 St, Langley",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Langley",
       "address": "26310 Fraser Hwy",
       "coordinates": [
         -122.49552378302845,
@@ -526,6 +647,17 @@
       ],
       "hours_details": "BC Liquor Store #127 Fort Langley on strike but picketing 17780 56 ave, Surrey",
       "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Maple Ridge",
+      "address": "300 22709 Lougheed Hwy",
+      "coordinates": [
+        -122.59180845936235,
+        49.218004429380414
+      ],
+      "hours_details": "BC Liquor Store Haney 9am to 7pm",
+      "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
     {
@@ -695,6 +827,17 @@
     },
     {
       "city": "Port Coquitlam",
+      "address": "109 ‑ 985 Nicola Ave",
+      "coordinates": [
+        -122.74124003052414,
+        49.25673733403237
+      ],
+      "hours_details": "BC Cannabis Store Nicola 9am to 7pm on strike but picketing at 1097 Nicola Ave #140, Port Coquitlam, BC V3B 8B2",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Port Coquitlam",
       "address": "140, 1097 Nicola Ave",
       "coordinates": [
         -122.7440090180478,
@@ -838,6 +981,39 @@
     },
     {
       "city": "Surrey",
+      "address": "101 10761 King George Blvd",
+      "coordinates": [
+        -122.84613393052634,
+        49.198274853201895
+      ],
+      "hours_details": "BC Liquor Store Whalley 9am to 7pm on strike but picketing at Fleetwood 8904 152nd Street, Surrey",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Surrey",
+      "address": "1720, 10355 152nd St",
+      "coordinates": [
+        -122.80375658634392,
+        49.1919602032174
+      ],
+      "hours_details": "BC Liquor Store Guildford 9am to 7pm on strike but picketing at Fleetwood 8904 152nd Street, Surrey",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Surrey",
+      "address": "8904 152nd St",
+      "coordinates": [
+        -122.80062024401806,
+        49.1647504949085
+      ],
+      "hours_details": "BC Liquor Store Fleetwood 9am to 7pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Surrey",
       "address": "101-17780 56 Ave",
       "coordinates": [
         -122.72987069832479,
@@ -943,8 +1119,63 @@
         54.52966843455616
       ],
       "hours_details": "CVSE Scale",
-      "is_picket_line": false,
+      "is_picket_line": true,
       "location_type": "CVSE"
+    },
+    {
+      "city": "Vancouver",
+      "address": "101 2083 Alma St",
+      "coordinates": [
+        -123.18645163052388,
+        49.26807678653384
+      ],
+      "hours_details": "BC Liquor Store Jericho Village 9am to 7pm on strike but picketing at Marpole- 1525 W 70th, Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Vancouver",
+      "address": "1520 Commercial Dr",
+      "coordinates": [
+        -123.0693721593602,
+        49.27108537728878
+      ],
+      "hours_details": "BC Liquor Store Commercial Drive 9am to 7pm on strike but picketing at Broadway 3150 E Broadway, Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Vancouver",
+      "address": "1525 W 70th Ave",
+      "coordinates": [
+        -123.14160260961314,
+        49.208846218522865
+      ],
+      "hours_details": "BC Liquor Store Marpole 9am to 7pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Vancouver",
+      "address": "3150 E Broadway",
+      "coordinates": [
+        -123.03741927285104,
+        49.26174550019371
+      ],
+      "hours_details": "BC Liquor Store Broadway and Lillooet 9am to 7pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Vancouver",
+      "address": "3436 Kingsway Ave",
+      "coordinates": [
+        -123.03232523238083,
+        49.23161056263111
+      ],
+      "hours_details": "BC Liquor Store Collingwood Kingsway 9am to 7pm on strike but picketing at Broadway 3150 E Broadway, Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
     },
     {
       "city": "Vancouver",
@@ -1297,6 +1528,17 @@
       "hours_details": "BC Liquor Store #135 Vernon Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Victoria",
+      "address": "525 Superior St",
+      "coordinates": [
+        -123.37122905448865,
+        48.41798294818426
+      ],
+      "hours_details": "MCFD, Energy, Environment, WLRS 9am to 7pm",
+      "is_picket_line": true,
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
