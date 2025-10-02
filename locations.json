@@ -46,7 +46,7 @@
     },
     {
       "city": "Burnaby",
-      "address": "4370 Dominion Street",
+      "address": "4370 Dominion St",
       "coordinates": [
         -123.006666961928,
         49.2560317228061
@@ -112,7 +112,7 @@
     },
     {
       "city": "Burnaby",
-      "address": "Unit 103 3433 North Rd",
+      "address": "Unit 103, 3433 North Rd",
       "coordinates": [
         -122.89339913787293,
         49.25292851814367
@@ -310,7 +310,7 @@
     },
     {
       "city": "Delta",
-      "address": "1319-56 St",
+      "address": "1319 h, 56th St",
       "coordinates": [
         -123.07082955940317,
         49.026608760668154
@@ -373,6 +373,17 @@
       "hours_details": "on strike but picketing at other Kamloops picket lines",
       "is_picket_line": false,
       "location_type": "Office"
+    },
+    {
+      "city": "Kamloops",
+      "address": "2650 West Trans-Canada Hwy",
+      "coordinates": [
+        -119.22746881540255,
+        50.72296932817425
+      ],
+      "hours_details": "",
+      "is_picket_line": null,
+      "location_type": "CVSE"
     },
     {
       "city": "Kamloops",
@@ -486,7 +497,7 @@
     },
     {
       "city": "Langley",
-      "address": "6435 201 St",
+      "address": "6435, 201 St",
       "coordinates": [
         -122.66623896093836,
         49.11995710781093
@@ -584,17 +595,6 @@
       "location_type": "BC Liquor Store"
     },
     {
-      "city": "New Westminster",
-      "address": "800 McBride Blvd",
-      "coordinates": [
-        -122.91451347012946,
-        49.22281877259774
-      ],
-      "hours_details": "BC Liquor Store #97 Royal Square on strike but picketing at 7155 Kingsway, Burnaby",
-      "is_picket_line": false,
-      "location_type": "BC Liquor Store"
-    },
-    {
       "city": "North Vancouver",
       "address": "100-132 Esplanade W",
       "coordinates": [
@@ -607,7 +607,7 @@
     },
     {
       "city": "North Vancouver",
-      "address": "147-1199 Lynn Valley Rd",
+      "address": "147, 1199 Lynn Valley Rd",
       "coordinates": [
         -123.03983185157881,
         49.335382580949634
@@ -673,7 +673,7 @@
     },
     {
       "city": "Penticton",
-      "address": "405-1301 Main St",
+      "address": "405, 1301 Main St",
       "coordinates": [
         -119.58748459875382,
         49.48503162750471
@@ -684,7 +684,7 @@
     },
     {
       "city": "Pitt Meadows",
-      "address": "810-19800 Lougheed Hwy",
+      "address": "810, 19800 Lougheed Hwy",
       "coordinates": [
         -122.6708981807442,
         49.2223992314018
@@ -695,7 +695,7 @@
     },
     {
       "city": "Port Coquitlam",
-      "address": "140-1097 Nicola Ave",
+      "address": "140, 1097 Nicola Ave",
       "coordinates": [
         -122.7440090180478,
         49.2580677203043
@@ -739,7 +739,7 @@
     },
     {
       "city": "Prince George",
-      "address": "3173 Massey Dr",
+      "address": "3173, Massey Dr",
       "coordinates": [
         -122.78121709534348,
         53.899117484142
@@ -761,7 +761,7 @@
     },
     {
       "city": "Richmond",
-      "address": "10-8671 No 1 Rd",
+      "address": "10, 8671 No 1 Rd",
       "coordinates": [
         -123.18250226865695,
         49.14885654087577
@@ -772,7 +772,7 @@
     },
     {
       "city": "Richmond",
-      "address": "3170-11666 Steveston Hwy",
+      "address": "3170, 11666 Steveston Hwy",
       "coordinates": [
         -123.0944986822158,
         49.132239108942564
@@ -934,6 +934,17 @@
       "hours_details": "BC Liquor Store #172 Kings Cross on strike but picketing at 116 12080 Nordel Way, Surrey",
       "is_picket_line": false,
       "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Terrace",
+      "address": "Highway 15 at K'San Ave",
+      "coordinates": [
+        -128.52428217651547,
+        54.52966843455616
+      ],
+      "hours_details": "",
+      "is_picket_line": null,
+      "location_type": "CVSE"
     },
     {
       "city": "Vancouver",
@@ -1465,7 +1476,7 @@
     },
     {
       "city": "Victoria",
-      "address": "617 Government St",
+      "address": "617 Government",
       "coordinates": [
         -123.36824382379629,
         48.419182380868975
@@ -1583,6 +1594,17 @@
       "hours_details": "on strike but picketing at 4000 Seymour",
       "is_picket_line": false,
       "location_type": "Office"
+    },
+    {
+      "city": "Westminster",
+      "address": "800 McBride Blvd",
+      "coordinates": [
+        -122.91451347012946,
+        49.22281877259774
+      ],
+      "hours_details": "BC Liquor Store #97 Royal Square on strike but picketing at 7155 Kingsway, Burnaby",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
     },
     {
       "city": "West Vancouver",
