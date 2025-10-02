@@ -73,7 +73,7 @@
         -123.00433619014504,
         49.26577056472892
       ],
-      "hours_details": "BC Liquor Store #224 SOLO Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #224 SOLO Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -106,8 +106,8 @@
         -122.93185324530461,
         49.25683482765482
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": true,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Warehouse"
     },
     {
@@ -117,7 +117,7 @@
         -122.89339913787293,
         49.25292851814367
       ],
-      "hours_details": "BC Liquor Store #77 Northgate Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #77 Northgate Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -128,7 +128,7 @@
         -122.95580531161164,
         49.21915131072336
       ],
-      "hours_details": "BC Liquor Store #220 Highgate Village Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #220 Highgate Village Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -260,8 +260,8 @@
         -115.76775488747991,
         49.509057851427606
       ],
-      "hours_details": "Picketing TBD",
-      "is_picket_line": null,
+      "hours_details": "Monday to Friday, 8am-4pm MST",
+      "is_picket_line": true,
       "location_type": "Office"
     },
     {
@@ -304,18 +304,18 @@
         -120.23403984237356,
         55.75926573727518
       ],
-      "hours_details": "Picketing TBD",
+      "hours_details": "on strike but picketing at 1020 Alaska Ave, Dawson Creek",
       "is_picket_line": false,
       "location_type": "Office"
     },
     {
       "city": "Delta",
-      "address": "1319 h, 56th St",
+      "address": "1319h, 56th St",
       "coordinates": [
         -123.07082955940317,
         49.026608760668154
       ],
-      "hours_details": "BC Liquor Store #98 Tsawwassen Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #98 Tsawwassen Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -381,8 +381,8 @@
         -119.22746881540255,
         50.72296932817425
       ],
-      "hours_details": "",
-      "is_picket_line": null,
+      "hours_details": "CVSE Scale",
+      "is_picket_line": false,
       "location_type": "CVSE"
     },
     {
@@ -414,7 +414,7 @@
         -120.35325314403848,
         50.66587561056809
       ],
-      "hours_details": "BC Liquor Store #79 Kamloops Columbia Place Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #79 Kamloops Columbia Place Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -436,8 +436,8 @@
         -119.49592998280625,
         49.89702148939096
       ],
-      "hours_details": "Picketing TBD",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at 3155 Lakeshore Rd, Kelowna",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -447,7 +447,7 @@
         -119.43560598087417,
         49.88159209898322
       ],
-      "hours_details": "BC Liquor Store #167 Kelowna Orchard Park Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #167 Kelowna Orchard Park Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -458,7 +458,7 @@
         -119.48940524002393,
         49.859839978180105
       ],
-      "hours_details": "BC Liquor Store #148 Kelowna Mission Park Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #148 Kelowna Mission Park Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -480,7 +480,7 @@
         -123.50653837244776,
         48.44068226667487
       ],
-      "hours_details": "BC Liquor Store #125 Westshore Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #125 Westshore Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -502,7 +502,7 @@
         -122.66623896093836,
         49.11995710781093
       ],
-      "hours_details": "BC Liquor Store #158 Langley Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #158 Langley Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -568,7 +568,7 @@
         -117.29551970167921,
         49.490763577737034
       ],
-      "hours_details": "Monday to Friday, 8am-4pm and 7am-4pm respectively",
+      "hours_details": "Monday to Friday, 7am-4pm respectively",
       "is_picket_line": true,
       "location_type": "Office"
     },
@@ -579,7 +579,7 @@
         -117.29485581702527,
         49.490919477382015
       ],
-      "hours_details": "Monday to Friday, 8am-4pm and 7am-4pm respectively",
+      "hours_details": "Monday to Friday, 8am-4pm",
       "is_picket_line": true,
       "location_type": "Office"
     },
@@ -612,7 +612,7 @@
         -123.03983185157881,
         49.335382580949634
       ],
-      "hours_details": "BC Liquor Store #247 Lynn Valley Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #247 Lynn Valley Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -678,7 +678,7 @@
         -119.58748459875382,
         49.48503162750471
       ],
-      "hours_details": "BC Liquor Store #130 Penticton Plaza Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #130 Penticton Plaza Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -689,7 +689,7 @@
         -122.6708981807442,
         49.2223992314018
       ],
-      "hours_details": "BC Liquor Store #165 Meadowtown Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #165 Meadowtown Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -700,7 +700,7 @@
         -122.7440090180478,
         49.2580677203043
       ],
-      "hours_details": "BC Liquor Store #205 Nicola Station Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #205 Nicola Station Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -711,7 +711,7 @@
         -122.78893174307507,
         49.27219072697277
       ],
-      "hours_details": "BC Liquor Store #163 Westwood Centre Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #163 Westwood Centre Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -733,18 +733,18 @@
         -122.75248251969896,
         53.9153745657152
       ],
-      "hours_details": "Picketing TBD",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at 3173 Massey Drive, Prince George",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
       "city": "Prince George",
-      "address": "3173, Massey Dr",
+      "address": "3173 Massey Dr",
       "coordinates": [
         -122.78121709534348,
         53.899117484142
       ],
-      "hours_details": "BC Liquor Store #174 Prince George Pine Centre Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #174 Prince George Pine Centre Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -766,7 +766,7 @@
         -123.18250226865695,
         49.14885654087577
       ],
-      "hours_details": "BC Liquor Store #244 Richmond Seafair Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #244 Richmond Seafair Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -777,7 +777,7 @@
         -123.0944986822158,
         49.132239108942564
       ],
-      "hours_details": "BC Liquor Store #120 Richmond Ironwood Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #120 Richmond Ironwood Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -799,7 +799,7 @@
         -123.13527135153582,
         49.17140335435468
       ],
-      "hours_details": "BC Liquor Store #76 Richmond Brighouse Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #76 Richmond Brighouse Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -843,7 +843,7 @@
         -122.72987069832479,
         49.10296333446526
       ],
-      "hours_details": "BC Liquor Store #70 Cloverdale Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #70 Cloverdale Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -865,7 +865,7 @@
         -122.84034859005503,
         49.19333165053479
       ],
-      "hours_details": "on strike but picketing at other locations",
+      "hours_details": "on strike but picketing at either 900 Howe, Vancouver, or 10470 152nd St, Surrey",
       "is_picket_line": false,
       "location_type": "Office"
     },
@@ -876,7 +876,7 @@
         -122.8887383443004,
         49.16100117442227
       ],
-      "hours_details": "BC Liquor Store #241 Nordel Crossing Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #241 Nordel Crossing Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -920,7 +920,7 @@
         -122.79855480575105,
         49.046990583725886
       ],
-      "hours_details": "BC Liquor Store #183 Peninsula Village Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #183 Peninsula Village Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -942,8 +942,8 @@
         -128.52428217651547,
         54.52966843455616
       ],
-      "hours_details": "",
-      "is_picket_line": null,
+      "hours_details": "CVSE Scale",
+      "is_picket_line": false,
       "location_type": "CVSE"
     },
     {
@@ -953,8 +953,8 @@
         -123.11956956050423,
         49.28720234260919
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -964,8 +964,8 @@
         -123.1189969316693,
         49.27571626649852
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1019,8 +1019,8 @@
         -123.13422300440948,
         49.29099004187242
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1107,8 +1107,8 @@
         -123.114846931669,
         49.281318550836
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1129,8 +1129,8 @@
         -123.11735857399765,
         49.28613364488442
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1140,8 +1140,8 @@
         -123.11054617399779,
         49.28090325703688
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1162,8 +1162,8 @@
         -123.11195636050431,
         49.28482954136862
       ],
-      "hours_details": "Picketing TBD",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at 1155 Bute St, Vancouver",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1173,7 +1173,7 @@
         -123.11657121166797,
         49.23491330499586
       ],
-      "hours_details": "BC Liquor Store #160 39th and Cambie Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #160 39th and Cambie Monday to Saturday 9am-11pm, Sunday 11am-9pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -1184,8 +1184,8 @@
         -123.11225401632649,
         49.286066241528786
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1206,8 +1206,19 @@
         -123.11889825865545,
         49.28289014789449
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "700 Pender St W",
+      "coordinates": [
+        -123.11543111703288,
+        49.28469684017142
+      ],
+      "hours_details": "Monday to Friday, 7:30am-4:30pm",
+      "is_picket_line": true,
       "location_type": "Office"
     },
     {
@@ -1217,8 +1228,8 @@
         -123.11583761771395,
         49.28506796697407
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1228,7 +1239,7 @@
         -123.12592524184365,
         49.28626887509081
       ],
-      "hours_details": "BC Liquor Store #129 Alberni & Bute Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #129 Alberni & Bute Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -1250,7 +1261,7 @@
         -123.12330408634064,
         49.28211495343562
       ],
-      "hours_details": "only members working for Mineral Development Office and Mineral Titles Office are on strike and picketing at 900 Howe Street",
+      "hours_details": "only members working for Mineral Development Office, Mineral Titles Office, and Office of the Chief Inspector are on strike and picketing at 900 Howe Street",
       "is_picket_line": false,
       "location_type": "Office"
     },
@@ -1272,8 +1283,8 @@
         -123.11307320283291,
         49.28793563098143
       ],
-      "hours_details": "Picketing offsite",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1283,7 +1294,7 @@
         -119.26837880084348,
         50.284361390802516
       ],
-      "hours_details": "BC Liquor Store #135 Vernon Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #135 Vernon Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -1360,7 +1371,7 @@
         -123.32291109064239,
         48.430822856723964
       ],
-      "hours_details": "BC Liquor Store #218 Fort Street Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #218 Fort Street Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -1437,7 +1448,7 @@
         -123.38278824511913,
         48.49815794670482
       ],
-      "hours_details": "BC Liquor Store #181 Broadmead Village Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #181 Broadmead Village Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -1470,8 +1481,8 @@
         -123.37030571272568,
         48.418028786805294
       ],
-      "hours_details": "Picketing TBD",
-      "is_picket_line": null,
+      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
       "location_type": "Office"
     },
     {
@@ -1558,7 +1569,7 @@
         -123.36048000171787,
         48.42625298305981
       ],
-      "hours_details": "on strike but picketing at 617 Government Street",
+      "hours_details": "on strike but picketing at 617 Government",
       "is_picket_line": false,
       "location_type": "Office"
     },
@@ -1624,7 +1635,7 @@
         -123.2546190573819,
         49.35083511361298
       ],
-      "hours_details": "BC Liquor Store #175 Caulfield Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #175 Caulfield Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -1635,7 +1646,7 @@
         -123.13768667704828,
         49.32765212177735
       ],
-      "hours_details": "BC Liquor Store #228 Park Royal Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #228 Park Royal Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -1646,7 +1657,7 @@
         -122.95606330026813,
         50.11995931864395
       ],
-      "hours_details": "BC Liquor Store #179 Whistler Market Place Monday to Saturday 9am-9pm (except Saturday September 27 will be 7:30am-9pm), Sunday 11am-6pm",
+      "hours_details": "BC Liquor Store #179 Whistler Market Place Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -1679,8 +1690,8 @@
         -122.14275167200667,
         52.13311819272493
       ],
-      "hours_details": "Picketing TBD",
-      "is_picket_line": null,
+      "hours_details": "on strike but picketing at 640 Borland Street, Williams Lake",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
