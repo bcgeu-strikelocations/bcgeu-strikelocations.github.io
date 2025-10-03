@@ -1,5 +1,5 @@
 import { map } from './map-config.js';
-import { strikeIcon, userLocationIcon } from './icons.js';
+import { LiquorStrikeIcon, OfficeStrikeIcon, WarehouseStrikeIcon, userLocationIcon } from './icons.js';
 import { calculateDistance } from './utils.js';
 
 let userLocationMarker = null;
@@ -50,7 +50,7 @@ export function getUserLocation() {
             let nearestLocation = null;
             
             map.eachLayer(function(layer) {
-                if (layer instanceof L.Marker && layer.options.icon === strikeIcon) {
+                if (layer instanceof L.Marker && (layer.options.icon === LiquorStrikeIcon || layer.options.icon === OfficeStrikeIcon || layer.options.icon === WarehouseStrikeIcon)) {
                     const strikeLat = layer.getLatLng().lat;
                     const strikeLng = layer.getLatLng().lng;
                     const distance = calculateDistance(lat, lng, strikeLat, strikeLng);
