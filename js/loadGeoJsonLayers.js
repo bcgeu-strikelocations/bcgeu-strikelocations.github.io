@@ -1,5 +1,5 @@
 import { map } from './map-config.js';
-import { strikeIcon, noPicketIcon } from './icons.js';
+import { LiquorStrikeIcon, LiquorNoPicketIcon, OfficeStrikeIcon, OfficeNoPicketIcon, WarehouseStrikeIcon, WarehousenoPicketIcon } from './icons.js';
 import { createPopupContent } from './utils.js';
 
 const style_30k = {
@@ -18,9 +18,21 @@ export async function loadGeoJsonLayers() {
         pointToLayer: (feature, latlng) => {
             let icon;
             if (feature.properties.is_picket_line) {
-                icon = strikeIcon;
+                if (feature.properties.location_type === 'BC Liquor Store') {
+                    icon = LiquorStrikeIcon;
+                } else if (feature.properties.location_type === 'Office') {
+                    icon = OfficeStrikeIcon;
+                } else {
+                    icon = WarehouseStrikeIcon;
+                }
             } else {
-                icon = noPicketIcon;
+                if (feature.properties.location_type === 'BC Liquor Store') {
+                    icon = LiquorNoPicketIcon;
+                } else if (feature.properties.location_type === 'Office') {
+                    icon = OfficeNoPicketIcon;
+                } else {
+                    icon = WarehousenoPicketIcon;
+                }
             }
             return L.marker(latlng, { icon: icon })
                     .bindPopup(createPopupContent(feature.properties));

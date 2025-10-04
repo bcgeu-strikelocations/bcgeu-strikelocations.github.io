@@ -1,16 +1,44 @@
-export const strikeIcon = L.divIcon({
+export const LiquorStrikeIcon = L.divIcon({
     className: 'strike-marker',
-    html: '<div style="background-color: #db1e2a; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"></div>',
+    html: '<div style="background-color: #db1e2a; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3); color: white; font-weight: bold; font-family: sans-serif; font-size: 14px; display: flex; justify-content: center; align-items: center;">B</div>',
     iconSize: [16, 16],
     iconAnchor: [8, 8]
 });
 
-export const noPicketIcon = L.divIcon({
+export const LiquorNoPicketIcon = L.divIcon({
     className: 'no-picket-marker',
-    html: '<div style="background-color: #ff7800; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"></div>',
+    html: '<div style="background-color: #ff7800; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3); color: white; font-weight: bold; font-family: sans-serif; font-size: 14px; display: flex; justify-content: center; align-items: center;">B</div>',
+    iconSize: [16, 16],
+    iconAnchor: [8, 8]
+}); 
+
+export const OfficeStrikeIcon = L.divIcon({
+    className: 'strike-marker',
+    html: '<div style="background-color: #db1e2a; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3); color: white; font-weight: bold; font-family: sans-serif; font-size: 14px; display: flex; justify-content: center; align-items: center;">O</div>',
     iconSize: [16, 16],
     iconAnchor: [8, 8]
 });
+
+export const OfficeNoPicketIcon = L.divIcon({
+    className: 'no-picket-marker',
+    html: '<div style="background-color: #ff7800; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3); color: white; font-weight: bold; font-family: sans-serif; font-size: 14px; display: flex; justify-content: center; align-items: center;">O</div>',
+    iconSize: [16, 16],
+    iconAnchor: [8, 8]
+}); 
+
+export const WarehouseStrikeIcon = L.divIcon({
+    className: 'strike-marker',
+    html: '<div style="background-color: #db1e2a; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3); color: white; font-weight: bold; font-family: sans-serif; font-size: 14px; display: flex; justify-content: center; align-items: center;">W</div>',
+    iconSize: [16, 16],
+    iconAnchor: [8, 8]
+});
+
+export const WarehousenoPicketIcon = L.divIcon({
+    className: 'no-picket-marker',
+    html: '<div style="background-color: #ff7800; width: 16px; height: 16px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3); color: white; font-weight: bold; font-family: sans-serif; font-size: 14px; display: flex; justify-content: center; align-items: center;">W</div>',
+    iconSize: [16, 16],
+    iconAnchor: [8, 8]
+}); 
 
 export const userLocationIcon = L.divIcon({
     className: 'user-location-marker',
@@ -25,4 +53,3 @@ export const postalCodeIcon = L.divIcon({
     iconSize: [18, 18],
     iconAnchor: [9, 9]
 });
-
