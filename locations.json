@@ -1,10 +1,10 @@
 {
   "locations": [
     {
-      "city": "Abbotsford",
-      "address": "40-32500 South Fraser Way",
-      "coordinates": [-122.32601868159475, 49.05060920315223],
-      "hours_details": "BC Liquor Store #149 Abbotsford 9:30am to 9pm",
+      "city": "100 Mile House",
+      "address": "2, 95a Cariboo Hwy 97",
+      "coordinates": [-121.29505358771397, 51.64774849711993],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -13,6 +13,14 @@
       "address": "117-2070 Sumas Way",
       "coordinates": [-122.26877547394928, 49.03979191116619],
       "hours_details": "BC Liquor Store #189 Abbotsford Village 9:30am to 9pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Abbotsford",
+      "address": "40-32500 South Fraser Way",
+      "coordinates": [-122.32601868159475, 49.05060920315223],
+      "hours_details": "BC Liquor Store #149 Abbotsford 9:30am to 9pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -37,6 +45,14 @@
       "address": "3495 Smith Dr",
       "coordinates": [-119.18450792791344, 50.448751912012895],
       "hours_details": "BC Liquor Store #215, Armstrong 9am to 7pm - all week",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Brentwood Bay",
+      "address": "7103 Saanich Rd W",
+      "coordinates": [-123.44352295627027, 48.575248850739825],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -162,11 +178,11 @@
     },
     {
       "city": "Campbell River",
-      "address": "270-1400 Dogwood St",
-      "coordinates": [-125.25110770852733, 50.02918462719477],
-      "hours_details": "BC Liquor Store #5 Campbell River 9:30am to 9pm",
+      "address": "130 - 1416 Island Hwy",
+      "coordinates": [-125.2468186730194, 50.03551215747232],
+      "hours_details": "",
       "is_picket_line": true,
-      "location_type": "BC Liquor Store"
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Campbell River",
@@ -177,10 +193,26 @@
       "location_type": "BC Liquor Store"
     },
     {
+      "city": "Campbell River",
+      "address": "270-1400 Dogwood St",
+      "coordinates": [-125.25110770852733, 50.02918462719477],
+      "hours_details": "BC Liquor Store #5 Campbell River 9:30am to 9pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
       "city": "Castlegar",
       "address": "Unit G, 635 Columbia Ave",
       "coordinates": [-117.6649303245909, 49.32135750604707],
       "hours_details": "BC Liquor Store #78 Castlegar 9:30am to 7pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Chemainus",
+      "address": "2592 Legion St",
+      "coordinates": [-123.71851494946932, 48.92225917347713],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -217,19 +249,27 @@
       "location_type": "BC Cannabis Store"
     },
     {
+      "city": "Colwood",
+      "address": "1790 Island Hwy",
+      "coordinates": [-123.46801086513241, 48.446146655389974],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Colwood",
+      "address": "1901 Sooke Rd",
+      "coordinates": [-123.46857831950832, 48.44150281279103],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
       "city": "Comox",
       "address": "204 Port Augusta St",
       "coordinates": [-124.9240997749843, 49.674035429594234],
       "hours_details": "BC Liquor Store #235 Comox on strike but picketing at 1095 Cliffe Ave, Courtenay",
       "is_picket_line": false,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Coquitlam",
-      "address": "172, 1960 Como Lake Ave",
-      "coordinates": [-122.83756596645043, 49.26282170880275],
-      "hours_details": "BC Liquor Store #153, Como Lake 9am to 7pm - all week",
-      "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
     {
@@ -241,10 +281,34 @@
       "location_type": "Office"
     },
     {
+      "city": "Coquitlam",
+      "address": "172, 1960 Como Lake Ave",
+      "coordinates": [-122.83756596645043, 49.26282170880275],
+      "hours_details": "BC Liquor Store #153, Como Lake 9am to 7pm - all week",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
       "city": "Courtenay",
       "address": "1095 Cliffe Ave",
       "coordinates": [-124.99534067830712, 49.68788217208051],
       "hours_details": "BC Liquor Store #10 Courtenay 9:30am to 9pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Courtenay",
+      "address": "Unit 2A - 795 Ryan Rd",
+      "coordinates": [-124.98671060952357, 49.69824577568591],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Cranbrook",
+      "address": "100 425 Victoria Ave N",
+      "coordinates": [-115.75501568633217, 49.51600890619257],
+      "hours_details": "9am to 5pm M-F",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -255,6 +319,14 @@
       "hours_details": "only members working for Southeast Mines Office are on strike and picketing at 117 10th Ave S",
       "is_picket_line": false,
       "location_type": "Office"
+    },
+    {
+      "city": "Cranbrook",
+      "address": "102 - 425 Victoria Ave North",
+      "coordinates": [-115.75498628849961, 49.51618678360703],
+      "hours_details": "Next door to Cranbrook Liqour combined line 100 425 Victoria Ave N",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Cranbrook",
@@ -345,6 +417,14 @@
       "location_type": "BC Cannabis Store"
     },
     {
+      "city": "Duncan",
+      "address": "1, 180 Central Blvd",
+      "coordinates": [-123.70065118920863, 48.77542951192886],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
       "city": "Enderby",
       "address": "119 George St",
       "coordinates": [-119.13983418390923, 50.54413923290283],
@@ -359,6 +439,46 @@
       "hours_details": "Monday to Friday, 8am-4pm",
       "is_picket_line": true,
       "location_type": "Office"
+    },
+    {
+      "city": "Fort St. John",
+      "address": "10211 100 St",
+      "coordinates": [-120.84709009215942, 56.248734309579],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Fort St. John",
+      "address": "10215 100th St",
+      "coordinates": [-120.84711619970113, 56.24889590702826],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Kamloops",
+      "address": "1801 Princeton-Kamloops Hwy",
+      "coordinates": [-120.36719055930932, 50.65313551638878],
+      "hours_details": "on strike but picketing at other Kamloops picket lines",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Kamloops",
+      "address": "19 3435 Westsyde Rd",
+      "coordinates": [-120.34066802171792, 50.77138538120642],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Kamloops",
+      "address": "2650 West Trans-Canada Hwy",
+      "coordinates": [-119.22746881540255, 50.72296932817425],
+      "hours_details": "CVSE Scale",
+      "is_picket_line": false,
+      "location_type": "CVSE"
     },
     {
       "city": "Kamloops",
@@ -378,6 +498,14 @@
     },
     {
       "city": "Kamloops",
+      "address": "450 Lansdowne St",
+      "coordinates": [-120.32932503600125, 50.677037980008045],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Kamloops",
       "address": "600-1210 Summit Dr",
       "coordinates": [-120.35325314403848, 50.66587561056809],
       "hours_details": "BC Liquor Store #79 Kamloops Columbia Place Monday to Saturday 9am-9pm, Sunday 11am-6pm",
@@ -386,41 +514,25 @@
     },
     {
       "city": "Kamloops",
-      "address": "1801 Princeton-Kamloops Hwy",
-      "coordinates": [-120.36719055930932, 50.65313551638878],
-      "hours_details": "on strike but picketing at other Kamloops picket lines",
-      "is_picket_line": false,
-      "location_type": "Office"
+      "address": "700 Tranquille Rd Unit 40",
+      "coordinates": [-120.35887192762102, 50.69758195206325],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Kamloops",
-      "address": "2650 West Trans-Canada Hwy",
-      "coordinates": [-119.22746881540255, 50.72296932817425],
-      "hours_details": "CVSE Scale",
-      "is_picket_line": false,
-      "location_type": "CVSE"
+      "address": "78 700 Tranquille Rd",
+      "coordinates": [-120.36127525886076, 50.69760973757978],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
     },
     {
       "city": "Kamloops",
       "address": "9881 Dallas Dr",
       "coordinates": [-120.0554470862904, 50.65380200371504],
       "hours_details": "24 hours a day, 7 days a week",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Kelowna",
-      "address": "35 3155 Lakeshore Rd",
-      "coordinates": [-119.48940524002393, 49.859839978180105],
-      "hours_details": "BC Liquor Store #148 Kelowna Mission Park Monday to Saturday 9am-9pm, Sunday 11am-6pm",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Kelowna",
-      "address": "478 Bernard Ave",
-      "coordinates": [-119.49400108817416, 49.88663027340071],
-      "hours_details": "Monday to Friday, 8:30am-4:30pm",
       "is_picket_line": true,
       "location_type": "Office"
     },
@@ -449,11 +561,107 @@
       "location_type": "BC Cannabis Store"
     },
     {
+      "city": "Kelowna",
+      "address": "27 2475 Dobbin Rd",
+      "coordinates": [-119.62973822786803, 49.82817562551062],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Kelowna",
+      "address": "35 3155 Lakeshore Rd",
+      "coordinates": [-119.48940524002393, 49.859839978180105],
+      "hours_details": "BC Liquor Store #148 Kelowna Mission Park Monday to Saturday 9am-9pm, Sunday 11am-6pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Kelowna",
+      "address": "478 Bernard Ave",
+      "coordinates": [-119.49400108817416, 49.88663027340071],
+      "hours_details": "Monday to Friday, 8:30am-4:30pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Kimberley",
+      "address": "425 Mark St",
+      "coordinates": [-115.98183663888571, 49.68354531614503],
+      "hours_details": "8am to 4pm M-F",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Kimberly",
+      "address": "425 Mark St",
+      "coordinates": [-115.98184618697805, 49.68356858229073],
+      "hours_details": "M to F, 8am to 4pm - MST",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Ladysmith",
+      "address": "7 370 Davis Rd",
+      "coordinates": [-123.80470907286139, 48.97848254915847],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Langford",
+      "address": "2780 Veterans Memorial Pkwy",
+      "coordinates": [-123.49597321787779, 48.448270359285296],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Langford",
+      "address": "2930 Trans Canada Hwy",
+      "coordinates": [-123.54471822479054, 48.4623990750458],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Langford",
+      "address": "2945 Jacklin Rd",
+      "coordinates": [-123.50653718102623, 48.440662827977455],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
       "city": "Langford",
       "address": "600-2945 Jacklin Rd",
       "coordinates": [-123.50653837244776, 48.44068226667487],
       "hours_details": "BC Liquor Store #125 Westshore Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Langford",
+      "address": "961 Dunford Ave",
+      "coordinates": [-123.51343974404395, 48.44528977713206],
+      "hours_details": "",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Langley",
+      "address": "20202 66 Ave #150",
+      "coordinates": [-122.6643646305291, 49.121104409240225],
+      "hours_details": "BC Cannabis Store, Langley picketing redirected to BC Liquor Langley-6435 201 St, Langley",
+      "is_picket_line": false,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Langley",
+      "address": "26310 Fraser Hwy",
+      "coordinates": [-122.49552378302845, 49.05912806039577],
+      "hours_details": "BC Liquor Store #109 Aldergrove on strike but picketing at 2070 Sumas Way, Abbotsford",
+      "is_picket_line": false,
       "location_type": "BC Liquor Store"
     },
     {
@@ -481,22 +689,6 @@
       "location_type": "BC Liquor Store"
     },
     {
-      "city": "Langley",
-      "address": "20202 66 Ave #150",
-      "coordinates": [-122.6643646305291, 49.121104409240225],
-      "hours_details": "BC Cannabis Store, Langley picketing redirected to BC Liquor Langley-6435 201 St, Langley",
-      "is_picket_line": false,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Langley",
-      "address": "26310 Fraser Hwy",
-      "coordinates": [-122.49552378302845, 49.05912806039577],
-      "hours_details": "BC Liquor Store #109 Aldergrove on strike but picketing at 2070 Sumas Way, Abbotsford",
-      "is_picket_line": false,
-      "location_type": "BC Liquor Store"
-    },
-    {
       "city": "Lumby",
       "address": "2080 Vernon St",
       "coordinates": [-118.96734915587407, 50.24689279023162],
@@ -513,11 +705,35 @@
       "location_type": "BC Liquor Store"
     },
     {
+      "city": "Mill Bay",
+      "address": "270 2720 Mill Bay Rd",
+      "coordinates": [-123.55895822208286, 48.65189275028906],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
       "city": "Mission",
       "address": "32530 Lougheed Hwy",
       "coordinates": [-122.32159147091046, 49.132274049273036],
       "hours_details": "BC Liquor Store #27 Mission on strike but picketing at 2070 Sumas Way, Abbotsford",
       "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Nanaimo",
+      "address": "115 650 S Terminal Ave",
+      "coordinates": [-123.93276868209742, 49.16503966619453],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Nanaimo",
+      "address": "1533 Estevan Rd",
+      "coordinates": [-123.956736138453, 49.18503554556636],
+      "hours_details": "",
+      "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
     {
@@ -535,6 +751,22 @@
       "hours_details": "Monday to Friday, 8am-5pm",
       "is_picket_line": true,
       "location_type": "Office"
+    },
+    {
+      "city": "Nanaimo",
+      "address": "3 5765 Turner Rd",
+      "coordinates": [-124.03471870236173, 49.22405674296205],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Nelson",
+      "address": "209 Anderson St",
+      "coordinates": [-117.28328813171996, 49.50042681082435],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
     },
     {
       "city": "Nelson",
@@ -578,6 +810,14 @@
     },
     {
       "city": "North Vancouver",
+      "address": "2601 Westview Dr",
+      "coordinates": [-123.0903121257282, 49.33322201195365],
+      "hours_details": "BC Liquor Store #107 Westview on strike but picketing at 5335 Headland Dr, West Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "North Vancouver",
       "address": "411 Dollarton Hwy",
       "coordinates": [-122.95385597640646, 49.30699494308556],
       "hours_details": "BC Liquor Store #133 Dollarton Village on strike but picketing at 1199 Lynn Valley Rd, North Vancouver",
@@ -593,20 +833,28 @@
       "location_type": "BC Liquor Store"
     },
     {
-      "city": "North Vancouver",
-      "address": "2601 Westview Dr",
-      "coordinates": [-123.0903121257282, 49.33322201195365],
-      "hours_details": "BC Liquor Store #107 Westview on strike but picketing at 5335 Headland Dr, West Vancouver",
-      "is_picket_line": false,
-      "location_type": "BC Liquor Store"
-    },
-    {
       "city": "Osoyoos",
       "address": "8110 Main St",
       "coordinates": [-119.46212122231063, 49.030056048278404],
       "hours_details": "BC Liquor Store #83, Osoyoos 9am to 7pm - all week",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Parksville",
+      "address": "810 West island Hwy",
+      "coordinates": [-124.34410188980594, 49.32939434714521],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Parksville",
+      "address": "Unit 7 - 826 Island Hwy W",
+      "coordinates": [-124.34669569964332, 49.33150361419566],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Pemberton",
@@ -634,6 +882,14 @@
     },
     {
       "city": "Penticton",
+      "address": "106 - 2210 Main St",
+      "coordinates": [-119.58036941064637, 49.47339857674645],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Penticton",
       "address": "405, 1301 Main St",
       "coordinates": [-119.58748459875382, 49.48503162750471],
       "hours_details": "BC Liquor Store #130 Penticton Plaza Monday to Saturday 9am-9pm, Sunday 11am-6pm",
@@ -649,8 +905,16 @@
       "location_type": "BC Liquor Store"
     },
     {
+      "city": "Port Alberni",
+      "address": "303 - 3555 Johnston Rd",
+      "coordinates": [-124.78768594275947, 49.266413501583884],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
       "city": "Port Coquitlam",
-      "address": "109 ‑ 985 Nicola Ave",
+      "address": "109 - 985 Nicola Ave",
       "coordinates": [-122.74124003052414, 49.25673733403237],
       "hours_details": "BC Cannabis Store, Nicola picketing redirected to 1097 Nicola Ave #140, Port Coquitlam, BC V3B 8B2",
       "is_picket_line": false,
@@ -669,6 +933,14 @@
       "address": "2748 Lougheed Hwy",
       "coordinates": [-122.78893174307507, 49.27219072697277],
       "hours_details": "BC Liquor Store #163 Westwood Centre Monday to Saturday 9am-9pm, Sunday 11am-6pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Powell River",
+      "address": "91 7100 Alberni St",
+      "coordinates": [-124.51721347397073, 49.84491396094138],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -745,6 +1017,38 @@
       "location_type": "BC Liquor Store"
     },
     {
+      "city": "Saanich",
+      "address": "3561 Blanshard St",
+      "coordinates": [-123.37558205347838, 48.45576595377055],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Saanich",
+      "address": "4234 Glanford Ave",
+      "coordinates": [-123.39094829469309, 48.482780394541074],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Saanich",
+      "address": "6578 Byrn Rd",
+      "coordinates": [-123.42463813791726, 48.56008570593606],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Saanich",
+      "address": "7380 Puckle Rd",
+      "coordinates": [-123.39078273054884, 48.58042522223651],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
       "city": "Salmon Arm",
       "address": "500 360 Trans Canada Hwy",
       "coordinates": [-119.28858434509236, 50.6995120954585],
@@ -761,6 +1065,22 @@
       "location_type": "BC Liquor Store"
     },
     {
+      "city": "Sidney",
+      "address": "2071 Malaview Ave",
+      "coordinates": [-123.41327887469815, 48.65649435519387],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Sidney",
+      "address": "2335 Beacon Ave",
+      "coordinates": [-123.40314267160159, 48.64837061254691],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
       "city": "Smithers",
       "address": "3726 Alfred Ave",
       "coordinates": [-127.17285364380541, 54.7777460423426],
@@ -770,9 +1090,25 @@
     },
     {
       "city": "Sooke",
+      "address": "6672 Wadams Way",
+      "coordinates": [-123.72400626573534, 48.38196940437271],
+      "hours_details": "On strike but picketing at 9050 6660 Sooke Rd",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Sooke",
       "address": "9050 6660 Sooke Rd",
       "coordinates": [-123.72119787388003, 48.37919919381069],
       "hours_details": "BC Liquor Store #229 Sooke 9:30am to 9pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Squamish",
+      "address": "40204 Glenalder Place",
+      "coordinates": [-123.13339525510821, 49.737572635892604],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -802,6 +1138,22 @@
     },
     {
       "city": "Surrey",
+      "address": "10470 152 St",
+      "coordinates": [-122.80052380168998, 49.19284141219725],
+      "hours_details": "Monday to Friday, 8am-4pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Surrey",
+      "address": "10475 138 St",
+      "coordinates": [-122.84034859005503, 49.19333165053479],
+      "hours_details": "on strike but picketing at either 900 Howe, Vancouver, or 10470 152nd St, Surrey",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Surrey",
       "address": "116-12080 Nordel Way",
       "coordinates": [-122.8887383443004, 49.16100117442227],
       "hours_details": "BC Liquor Store #241 Nordel Crossing Monday to Saturday 9am-9pm, Sunday 11am-6pm",
@@ -810,11 +1162,19 @@
     },
     {
       "city": "Surrey",
-      "address": "280-15355 24th Ave",
-      "coordinates": [-122.79855480575105, 49.046990583725886],
-      "hours_details": "BC Liquor Store #183 Peninsula Village Monday to Saturday 9am-9pm, Sunday 11am-6pm",
-      "is_picket_line": true,
+      "address": "12881 16th Ave",
+      "coordinates": [-122.86515241523283, 49.0321255635384],
+      "hours_details": "BC Liquor Store #110 Ocean Park on strike but picketing at 15355 24th Ave, Surrey",
+      "is_picket_line": false,
       "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Surrey",
+      "address": "14323 57 Ave",
+      "coordinates": [-122.82604835936623, 49.10713546330671],
+      "hours_details": "Monday to Friday, 6:20am-4pm; and Saturday to Sunday, 10am-2pm",
+      "is_picket_line": true,
+      "location_type": "Office"
     },
     {
       "city": "Surrey",
@@ -834,6 +1194,14 @@
     },
     {
       "city": "Surrey",
+      "address": "280-15355 24th Ave",
+      "coordinates": [-122.79855480575105, 49.046990583725886],
+      "hours_details": "BC Liquor Store #183 Peninsula Village Monday to Saturday 9am-9pm, Sunday 11am-6pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Surrey",
       "address": "7488 King George Blvd",
       "coordinates": [-122.84404627776526, 49.13739886514814],
       "hours_details": "BC Liquor Store #172 Kings Cross on strike but picketing at 116 12080 Nordel Way, Surrey",
@@ -849,36 +1217,12 @@
       "location_type": "BC Liquor Store"
     },
     {
-      "city": "Surrey",
-      "address": "10470 152 St",
-      "coordinates": [-122.80052380168998, 49.19284141219725],
-      "hours_details": "Monday to Friday, 8am-4pm",
+      "city": "Terrace",
+      "address": "103 - 4761 Lakelse Ave",
+      "coordinates": [-128.5980849340208, 54.516654279094794],
+      "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Surrey",
-      "address": "10475 138 St",
-      "coordinates": [-122.84034859005503, 49.19333165053479],
-      "hours_details": "on strike but picketing at either 900 Howe, Vancouver, or 10470 152nd St, Surrey",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Surrey",
-      "address": "12881 16th Ave",
-      "coordinates": [-122.86515241523283, 49.0321255635384],
-      "hours_details": "BC Liquor Store #110 Ocean Park on strike but picketing at 15355 24th Ave, Surrey",
-      "is_picket_line": false,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Surrey",
-      "address": "14323 57 Ave",
-      "coordinates": [-122.82604835936623, 49.10713546330671],
-      "hours_details": "Monday to Friday, 6:20am-4pm; and Saturday to Sunday, 10am-2pm",
-      "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Terrace",
@@ -889,140 +1233,28 @@
       "location_type": "CVSE"
     },
     {
+      "city": "Trail",
+      "address": "122 - 8100 3B Hwy",
+      "coordinates": [-117.63512270751279, 49.09164986644348],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Tumbler Ridge",
+      "address": "225 Main St",
+      "coordinates": [-120.9992834955904, 55.12544723181716],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
       "city": "Vancouver",
       "address": "101 2083 Alma St",
       "coordinates": [-123.18645163052388, 49.26807678653384],
       "hours_details": "BC Liquor Store #90, Jericho Village picketing redirected to Marpole- 1525 W 70th, Vancouver",
       "is_picket_line": false,
       "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Vancouver",
-      "address": "370 E Broadway",
-      "coordinates": [-123.09713597188946, 49.26314347550628],
-      "hours_details": "BC Liquor Store #123 Kingsgate Mall on strike but picketing at 2395 Cambie St, Vancouver",
-      "is_picket_line": false,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Vancouver",
-      "address": "401 Georgia St W",
-      "coordinates": [-123.114846931669, 49.281318550836],
-      "hours_details": "on strike but picketing at nearest picket line",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "510 Burrard St",
-      "coordinates": [-123.11735857399765, 49.28613364488442],
-      "hours_details": "on strike but picketing at nearest picket line",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "550 Cambie St",
-      "coordinates": [-123.11054617399779, 49.28090325703688],
-      "hours_details": "on strike but picketing at nearest picket line",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "555 Hastings St W",
-      "coordinates": [-123.11159060336105, 49.28503602164022],
-      "hours_details": "BC Liquor Store #53 Harbour Centre on strike but picketing at 1155 Bute St",
-      "is_picket_line": false,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Vancouver",
-      "address": "555 Hastings St W",
-      "coordinates": [-123.11195636050431, 49.28482954136862],
-      "hours_details": "on strike but picketing at 1155 Bute St, Vancouver",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "601 Cordova St W",
-      "coordinates": [-123.11225401632649, 49.286066241528786],
-      "hours_details": "on strike but picketing at nearest picket line",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "605 Robson",
-      "coordinates": [-123.11888057285049, 49.281118648243],
-      "hours_details": "on strike but picketing at nearest picket line",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "700 Georgia St W",
-      "coordinates": [-123.11889825865545, 49.28289014789449],
-      "hours_details": "on strike but picketing at nearest picket line",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "700 Pender St W",
-      "coordinates": [-123.11543111703288, 49.28469684017142],
-      "hours_details": "Monday to Friday, 7:30am-4:30pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "750 Pender St",
-      "coordinates": [-123.11583761771395, 49.28506796697407],
-      "hours_details": "on strike but picketing at nearest picket line",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "768 Bute St",
-      "coordinates": [-123.12592524184365, 49.28626887509081],
-      "hours_details": "BC Liquor Store #129 Alberni & Bute Monday to Saturday 9am-9pm, Sunday 11am-6pm",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Vancouver",
-      "address": "815 Hornby",
-      "coordinates": [-123.12255181517723, 49.282584048672895],
-      "hours_details": "Monday to Friday, 8am-4pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "865 Hornby St",
-      "coordinates": [-123.12330408634064, 49.28211495343562],
-      "hours_details": "only members working for Mineral Development Office, Mineral Titles Office, and Office of the Chief Inspector are on strike and picketing at 900 Howe Street",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "900 Howe St",
-      "coordinates": [-123.12251480168685, 49.28067595945952],
-      "hours_details": "Monday to Friday, 8am-4pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Vancouver",
-      "address": "999 Canada Pl",
-      "coordinates": [-123.11307320283291, 49.28793563098143],
-      "hours_details": "on strike but picketing at nearest picket line",
-      "is_picket_line": false,
-      "location_type": "Office"
     },
     {
       "city": "Vancouver",
@@ -1170,6 +1402,22 @@
     },
     {
       "city": "Vancouver",
+      "address": "370 E Broadway",
+      "coordinates": [-123.09713597188946, 49.26314347550628],
+      "hours_details": "BC Liquor Store #123 Kingsgate Mall on strike but picketing at 2395 Cambie St, Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Vancouver",
+      "address": "401 Georgia St W",
+      "coordinates": [-123.114846931669, 49.281318550836],
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
       "address": "4423 Main St",
       "coordinates": [-123.10148765505046, 49.24557441999257],
       "hours_details": "BC Liquor Store #237 28th and Main on strike but picketing at 2395 Cambie St, Vancouver",
@@ -1178,11 +1426,131 @@
     },
     {
       "city": "Vancouver",
+      "address": "510 Burrard St",
+      "coordinates": [-123.11735857399765, 49.28613364488442],
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "550 Cambie St",
+      "coordinates": [-123.11054617399779, 49.28090325703688],
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "555 Hastings St W",
+      "coordinates": [-123.11159060336105, 49.28503602164022],
+      "hours_details": "BC Liquor Store #53 Harbour Centre on strike but picketing at 1155 Bute St",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Vancouver",
+      "address": "555 Hastings St W",
+      "coordinates": [-123.11195636050431, 49.28482954136862],
+      "hours_details": "on strike but picketing at 1155 Bute St, Vancouver",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
       "address": "5555 Cambie",
       "coordinates": [-123.11657121166797, 49.23491330499586],
       "hours_details": "BC Liquor Store #160 39th and Cambie Monday to Saturday 9am-11pm, Sunday 11am-9pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Vancouver",
+      "address": "601 Cordova St W",
+      "coordinates": [-123.11225401632649, 49.286066241528786],
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "605 Robson",
+      "coordinates": [-123.11888057285049, 49.281118648243],
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "700 Georgia St W",
+      "coordinates": [-123.11889825865545, 49.28289014789449],
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "700 Pender St W",
+      "coordinates": [-123.11543111703288, 49.28469684017142],
+      "hours_details": "Monday to Friday, 7:30am-4:30pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "750 Pender St",
+      "coordinates": [-123.11583761771395, 49.28506796697407],
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "768 Bute St",
+      "coordinates": [-123.12592524184365, 49.28626887509081],
+      "hours_details": "BC Liquor Store #129 Alberni & Bute Monday to Saturday 9am-9pm, Sunday 11am-6pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Vancouver",
+      "address": "815 Hornby",
+      "coordinates": [-123.12255181517723, 49.282584048672895],
+      "hours_details": "Monday to Friday, 8am-4pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "865 Hornby St",
+      "coordinates": [-123.12330408634064, 49.28211495343562],
+      "hours_details": "only members working for Mineral Development Office, Mineral Titles Office, and Office of the Chief Inspector are on strike and picketing at 900 Howe Street",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "900 Howe St",
+      "coordinates": [-123.12251480168685, 49.28067595945952],
+      "hours_details": "Monday to Friday, 8am-4pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vancouver",
+      "address": "999 Canada Pl",
+      "coordinates": [-123.11307320283291, 49.28793563098143],
+      "hours_details": "on strike but picketing at nearest picket line",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Vanderhoof",
+      "address": "2444 Burrard Ave",
+      "coordinates": [-124.00894088991835, 54.01654637951114],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Vernon",
@@ -1194,7 +1562,7 @@
     },
     {
       "city": "Vernon",
-      "address": "300A – 2401 58 Ave",
+      "address": "300A - 2401 58 Ave",
       "coordinates": [-119.26169142723853, 50.289453351854384],
       "hours_details": "BC Cannabis Store, SmartCentres picketing redirected to BC Liquor Store at 4900 27 St #245a, Vernon",
       "is_picket_line": false,
@@ -1202,114 +1570,18 @@
     },
     {
       "city": "Victoria",
-      "address": "87-1644 Hillside Ave",
-      "coordinates": [-123.33474885019046, 48.44643348071159],
-      "hours_details": "BC Liquor Store #82 Hillside Monday to Saturday 9am-9pm, Sunday 11am-6pm",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Victoria",
-      "address": "370-777 Royal Oak Dr",
-      "coordinates": [-123.38278824511913, 48.49815794670482],
-      "hours_details": "BC Liquor Store #181 Broadmead Village Monday to Saturday 9am-9pm, Sunday 11am-6pm",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Victoria",
-      "address": "525 Superior St",
-      "coordinates": [-123.37122905448865, 48.41798294818426],
-      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "address": "1001 Douglas St",
+      "coordinates": [-123.36531144888646, 48.423932488222285],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "Office"
     },
     {
       "city": "Victoria",
-      "address": "545 Superior St",
-      "coordinates": [-123.37030571272568, 48.418028786805294],
-      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "address": "1019 Wharf St",
+      "coordinates": [-123.36943603040685, 48.42485444671298],
+      "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "617 Government",
-      "coordinates": [-123.36824382379629, 48.419182380868975],
-      "hours_details": "Monday to Friday, 7:30am-5pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "675 Belleville (Royal BC Museum)",
-      "coordinates": [-123.36741751520846, 48.41989651577428],
-      "hours_details": "Monday to Friday, 7am-6pm and Saturday to Sunday, 9am-6pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "716 Courtney",
-      "coordinates": [-123.36490253055446, 48.42328226980757],
-      "hours_details": "Monday to Friday, 7:30am-5pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "727 Fisgard",
-      "coordinates": [-123.3629474152083, 48.42926686188962],
-      "hours_details": "Monday to Friday, 7:30am-5pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "800 Johnson",
-      "coordinates": [-123.36120887288136, 48.42717520035865],
-      "hours_details": "on strike but picketing at 675 Belleville",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "818 Fort St",
-      "coordinates": [-123.36161641706389, 48.42450564749953],
-      "hours_details": "on strike but picketing at 1515 Blanshard",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "835 Humboldt",
-      "coordinates": [-123.36293651706411, 48.41990090118753],
-      "hours_details": "Monday to Friday, 7:30am-5pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "836 Yates",
-      "coordinates": [-123.36048000171787, 48.42625298305981],
-      "hours_details": "on strike but picketing at 617 Government",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "940 Blanshard",
-      "coordinates": [-123.36319437473696, 48.42345648932714],
-      "hours_details": "Monday to Friday, 7:30am-5pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "976 Meares",
-      "coordinates": [-123.35758355753552, 48.42354860899462],
-      "hours_details": "on strike but picketing at 4000 Seymour",
-      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1322,9 +1594,25 @@
     },
     {
       "city": "Victoria",
+      "address": "1106 Cook St",
+      "coordinates": [-123.35421963975173, 48.42366441328034],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
       "address": "1150 McKenzie Ave",
       "coordinates": [-123.36042477102421, 48.471481313270814],
       "hours_details": "Monday to Friday, 7:30am-3:30pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1150 Mckenzie",
+      "coordinates": [-123.3605136323701, 48.47130469905112],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "Office"
     },
@@ -1338,6 +1626,54 @@
     },
     {
       "city": "Victoria",
+      "address": "1195 Esquimalt Rd",
+      "coordinates": [-123.41220118601065, 48.42987780883043],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1215 Broad St",
+      "coordinates": [-123.36600419271659, 48.425868369747405],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1250 Quadra St",
+      "coordinates": [-123.35955098203927, 48.42527028636492],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1405 Douglas St",
+      "coordinates": [-123.36442870076331, 48.42740248429062],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1450 Government St",
+      "coordinates": [-123.36742215825478, 48.428012301729524],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1483 Douglas St",
+      "coordinates": [-123.36441843264078, 48.42748149135049],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
       "address": "1515 Blanshard",
       "coordinates": [-123.36123703914015, 48.42852072604706],
       "hours_details": "Monday to Friday, 7:30am-5pm",
@@ -1346,9 +1682,65 @@
     },
     {
       "city": "Victoria",
+      "address": "1515 Quadra St",
+      "coordinates": [-123.35876971800324, 48.42770724835583],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1520 Blanshard St",
+      "coordinates": [-123.3622662120615, 48.42820176778797],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1520 Fairfield Rd",
+      "coordinates": [-123.33910286916611, 48.412969458948545],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Victoria",
+      "address": "1627 Fort St",
+      "coordinates": [-123.33504089856923, 48.42698536859728],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1675 Douglas St",
+      "coordinates": [-123.36397607340034, 48.42914192844547],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1756 Island Hwy",
+      "coordinates": [-123.4665397003008, 48.44817942402411],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
       "address": "1802 Douglas",
       "coordinates": [-123.36476442869854, 48.430781339160234],
       "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "1803 Douglas",
+      "coordinates": [-123.36418256799305, 48.430404393284704],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "Office"
     },
@@ -1378,6 +1770,54 @@
     },
     {
       "city": "Victoria",
+      "address": "225 Menzies St",
+      "coordinates": [-123.3734680282882, 48.41582712843044],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Victoria",
+      "address": "2261 Keating Cross Rd",
+      "coordinates": [-123.40743986064953, 48.563553947557075],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "2814 Nanaimo St",
+      "coordinates": [-123.36535255678689, 48.44014838872237],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "2940 Jutland Rd",
+      "coordinates": [-123.37912862518915, 48.439557050487025],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "2950 Jutland Rd",
+      "coordinates": [-123.37932159397609, 48.43971143435181],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "2955 Jutland Rd",
+      "coordinates": [-123.37844145811303, 48.43935099282489],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
       "address": "2955 Tillicum Rd",
       "coordinates": [-123.3980165732299, 48.448923911127046],
       "hours_details": "BC Liquor Store #124 Gorge & Tillicum on strike but picketing at 87-1644 Hillside Ave, Victoria",
@@ -1386,9 +1826,41 @@
     },
     {
       "city": "Victoria",
+      "address": "2957 Jutland Rd",
+      "coordinates": [-123.37858690305956, 48.43955159736076],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
       "address": "2975 Jutland",
       "coordinates": [-123.37799405939026, 48.440491351144786],
       "hours_details": "Monday to Friday, 7:30am-5:30pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "2995 Jutland Rd",
+      "coordinates": [-123.37739465939028, 48.44120519323666],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "320 Garbally Rd",
+      "coordinates": [-123.3774220728808, 48.43950987098259],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "333 Quebec St",
+      "coordinates": [-123.37592195939104, 48.42140845533321],
+      "hours_details": "",
       "is_picket_line": true,
       "location_type": "Office"
     },
@@ -1410,11 +1882,59 @@
     },
     {
       "city": "Victoria",
+      "address": "343B Bay St",
+      "coordinates": [-123.37464768993426, 48.43490025316323],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "345 Wale Rd",
+      "coordinates": [-123.47194003742695, 48.44481594025595],
+      "hours_details": "",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
       "address": "3611 Shelbourne St",
       "coordinates": [-123.33267010250367, 48.45959383099192],
       "hours_details": "BC Liquor Store #140 Cedar Hill on strike but picketing at 370-777 Royal Oak Dr",
       "is_picket_line": false,
       "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Victoria",
+      "address": "370-777 Royal Oak Dr",
+      "coordinates": [-123.38278824511913, 48.49815794670482],
+      "hours_details": "BC Liquor Store #181 Broadmead Village Monday to Saturday 9am-9pm, Sunday 11am-6pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Victoria",
+      "address": "395 Waterfront Cres",
+      "coordinates": [-123.37753405707018, 48.44178351446606],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "3960 Quadra St",
+      "coordinates": [-123.36399749746387, 48.468164735657005],
+      "hours_details": "",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "3965 Quadra St",
+      "coordinates": [-123.363033682296, 48.46879322256511],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1426,11 +1946,355 @@
     },
     {
       "city": "Victoria",
+      "address": "4216 Wilkinson Rd",
+      "coordinates": [-123.4103020719652, 48.48269672275119],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "4300 North Rd",
+      "coordinates": [-123.41170277459092, 48.486023530555514],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "431 Menzies St",
+      "coordinates": [-123.371522628699, 48.41925003145098],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "4460 Chatterton Way",
+      "coordinates": [-123.38455529763989, 48.490687707672734],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
       "address": "4464 Markham St",
       "coordinates": [-123.41220831520579, 48.493314932680065],
       "hours_details": "on strike but picketing at existing picket lines",
       "is_picket_line": false,
       "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "4478 Saanich Rd W",
+      "coordinates": [-123.388125872879, 48.493109263518335],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "501 Belleville St",
+      "coordinates": [-123.36949069681516, 48.41957101458944],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "506 Government St",
+      "coordinates": [-123.3691926863722, 48.41772298186649],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "525 Superior St",
+      "coordinates": [-123.37122905448865, 48.41798294818426],
+      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "535 Ellice St",
+      "coordinates": [-123.37138335753471, 48.43900657845115],
+      "hours_details": "",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "545 Superior St",
+      "coordinates": [-123.37030571272568, 48.418028786805294],
+      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "548 Michigan St",
+      "coordinates": [-123.37098228637203, 48.41758768270026],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "563 Superior St",
+      "coordinates": [-123.36918765445441, 48.418169920014655],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "609 Broughton St",
+      "coordinates": [-123.36762349478043, 48.42410500351018],
+      "hours_details": "",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "614 Humboldt St",
+      "coordinates": [-123.36791161520833, 48.423091249962255],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "617 Government",
+      "coordinates": [-123.36824382379629, 48.419182380868975],
+      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "620 Superior St",
+      "coordinates": [-123.36738842869902, 48.418819822949956],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "645 Tyee",
+      "coordinates": [-123.37952153240967, 48.433066498721054],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "675 Belleville (Royal BC Museum)",
+      "coordinates": [-123.36741751520846, 48.41989651577428],
+      "hours_details": "Monday to Friday, 7am-6pm and Saturday to Sunday, 9am-6pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "703 Broughton St",
+      "coordinates": [-123.36510062954764, 48.423692809181794],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "7103 W Saanich Rd",
+      "coordinates": [-123.44353243595418, 48.57524374364384],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Victoria",
+      "address": "711 Broughton St",
+      "coordinates": [-123.36481931787782, 48.42351497749401],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "716 Courtney",
+      "coordinates": [-123.36490253055446, 48.42328226980757],
+      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "727 Fisgard",
+      "coordinates": [-123.3629474152083, 48.42926686188962],
+      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "742 Vanalman Ave",
+      "coordinates": [-123.39115185613812, 48.48231750895781],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "747 Fort St",
+      "coordinates": [-123.36412987473712, 48.42435250590104],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "771 Vernon Ave",
+      "coordinates": [-123.37798798731237, 48.459147774208176],
+      "hours_details": "",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "777 Broughton St",
+      "coordinates": [-123.36317244610267, 48.423451594449254],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "780 Blanshard St",
+      "coordinates": [-123.36354334590061, 48.421781393081375],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "7851 Saanich Rd E",
+      "coordinates": [-123.41646812981062, 48.5952985412778],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "800 Johnson",
+      "coordinates": [-123.36120887288136, 48.42717520035865],
+      "hours_details": "on strike but picketing at 675 Belleville",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "810 Blanshard St",
+      "coordinates": [-123.36341003712316, 48.422160934760576],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "818 Fort St",
+      "coordinates": [-123.36161641706389, 48.42450564749953],
+      "hours_details": "on strike but picketing at 1515 Blanshard",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "835 Humboldt",
+      "coordinates": [-123.36293651706411, 48.41990090118753],
+      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "836 Courtney St",
+      "coordinates": [-123.36178928915169, 48.4227297876984],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "836 Yates",
+      "coordinates": [-123.36048000171787, 48.42625298305981],
+      "hours_details": "on strike but picketing at 617 Government",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "87-1644 Hillside Ave",
+      "coordinates": [-123.33474885019046, 48.44643348071159],
+      "hours_details": "BC Liquor Store #82 Hillside Monday to Saturday 9am-9pm, Sunday 11am-6pm",
+      "is_picket_line": true,
+      "location_type": "BC Liquor Store"
+    },
+    {
+      "city": "Victoria",
+      "address": "908 Pandora Ave",
+      "coordinates": [-123.35850613055437, 48.42785809873248],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "910 Government",
+      "coordinates": [-123.36832697840376, 48.42392842058325],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "914 Yates St",
+      "coordinates": [-123.3585556152084, 48.42607774201399],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "94 Talcott Rd",
+      "coordinates": [-123.44301137028067, 48.46313758221555],
+      "hours_details": "",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "940 Blanshard",
+      "coordinates": [-123.36319437473696, 48.42345648932714],
+      "hours_details": "Monday to Friday, 7:30am-5pm",
+      "is_picket_line": true,
+      "location_type": "Office"
+    },
+    {
+      "city": "Victoria",
+      "address": "976 Meares",
+      "coordinates": [-123.35758355753552, 48.42354860899462],
+      "hours_details": "on strike but picketing at 4000 Seymour",
+      "is_picket_line": false,
+      "location_type": "Office"
+    },
+    {
+      "city": "West Vancouver",
+      "address": "1434 Marine Dr",
+      "coordinates": [-123.15531381790025, 49.32791981359385],
+      "hours_details": "BC Liquor Store #72 Ambleside on strike but picketing at 5335 Headland Dr, West Vancouver",
+      "is_picket_line": false,
+      "location_type": "BC Liquor Store"
     },
     {
       "city": "West Vancouver",
@@ -1446,14 +2310,6 @@
       "coordinates": [-123.13768667704828, 49.32765212177735],
       "hours_details": "BC Liquor Store #228 Park Royal Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "West Vancouver",
-      "address": "1434 Marine Dr",
-      "coordinates": [-123.15531381790025, 49.32791981359385],
-      "hours_details": "BC Liquor Store #72 Ambleside on strike but picketing at 5335 Headland Dr, West Vancouver",
-      "is_picket_line": false,
       "location_type": "BC Liquor Store"
     },
     {
@@ -1490,6 +2346,14 @@
     },
     {
       "city": "Williams Lake",
+      "address": "130 - 850 Oliver St",
+      "coordinates": [-122.13102428499995, 52.12910076000081],
+      "hours_details": "",
+      "is_picket_line": true,
+      "location_type": "BC Cannabis Store"
+    },
+    {
+      "city": "Williams Lake",
       "address": "280 3 Ave N",
       "coordinates": [-122.14275167200667, 52.13311819272493],
       "hours_details": "on strike but picketing at 640 Borland Street, Williams Lake",
@@ -1505,1203 +2369,12 @@
       "location_type": "Office"
     },
     {
-      "city": "100 Mile House",
-      "address": "2, 95a Cariboo Hwy 97",
-      "coordinates": [
-        -121.29505358771397,
-        51.64774849711993
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Cranbrook",
-      "address": "100 425 Victoria Ave N",
-      "coordinates": [
-        -115.75501568633217,
-        49.51600890619257
-      ],
-      "hours_details": "9am to 5pm M-F",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Kimberley",
-      "address": "425 Mark St",
-      "coordinates": [
-        -115.98183663888571,
-        49.68354531614503
-      ],
-      "hours_details": "8am to 4pm M-F",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Kamloops",
-      "address": "78 700 Tranquille Rd",
-      "coordinates": [
-        -120.36127525886076,
-        50.69760973757978
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Kamloops",
-      "address": "19 3435 Westsyde Rd",
-      "coordinates": [
-        -120.34066802171792,
-        50.77138538120642
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Kelowna",
-      "address": "27 2475 Dobbin Rd",
-      "coordinates": [
-        -119.62973822786803,
-        49.82817562551062
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Nanaimo",
-      "address": "1533 Estevan Rd",
-      "coordinates": [
-        -123.956736138453,
-        49.18503554556636
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Nanaimo",
-      "address": "115 650 S Terminal Ave",
-      "coordinates": [
-        -123.93276868209742,
-        49.16503966619453
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Nanaimo",
-      "address": "3 5765 Turner Rd",
-      "coordinates": [
-        -124.03471870236173,
-        49.22405674296205
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Ladysmith",
-      "address": "7 370 Davis Rd",
-      "coordinates": [
-        -123.80470907286139,
-        48.97848254915847
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Nelson",
-      "address": "209 Anderson St",
-      "coordinates": [
-        -117.28328813171996,
-        49.50042681082435
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Parksville",
-      "address": "810 West island Hwy",
-      "coordinates": [
-        -124.34410188980594,
-        49.32939434714521
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Powell River",
-      "address": "91 7100 Alberni St",
-      "coordinates": [
-        -124.51721347397073,
-        49.84491396094138
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Squamish",
-      "address": "40204 Glenalder Place",
-      "coordinates": [
-        -123.13339525510821,
-        49.737572635892604
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Fort St. John",
-      "address": "10215 100th St",
-      "coordinates": [
-        -120.84711619970113,
-        56.24889590702826
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Tumbler Ridge",
-      "address": "225 Main St",
-      "coordinates": [
-        -120.9992834955904,
-        55.12544723181716
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
       "city": "Williams Lake",
       "address": "730b Oliver St",
-      "coordinates": [
-        -122.13353132848194,
-        52.129130070471966
-      ],
+      "coordinates": [-122.13353132848194, 52.129130070471966],
       "hours_details": "",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Kimberly",
-      "address": "425 Mark St",
-      "coordinates": [
-        -115.98184618697805,
-        49.68356858229073
-      ],
-      "hours_details": "M to F, 8am to 4pm - MST",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Duncan",
-      "address": "1, 180 Central Blvd",
-      "coordinates": [
-        -123.70065118920863,
-        48.77542951192886
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Chemainus",
-      "address": "2592 Legion St",
-      "coordinates": [
-        -123.71851494946932,
-        48.92225917347713
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Mill Bay",
-      "address": "270 2720 Mill Bay Rd",
-      "coordinates": [
-        -123.55895822208286,
-        48.65189275028906
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Sidney",
-      "address": "2335 Beacon Ave",
-      "coordinates": [
-        -123.40314267160159,
-        48.64837061254691
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Victoria",
-      "address": "7103 W Saanich Rd",
-      "coordinates": [
-        -123.44353243595418,
-        48.57524374364384
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Campbell River",
-      "address": "130 – 1416 Island Hwy",
-      "coordinates": [
-        -125.2468186730194,
-        50.03551215747232
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Courtenay",
-      "address": "Unit 2A – 795 Ryan Rd",
-      "coordinates": [
-        -124.98671060952357,
-        49.69824577568591
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Cranbrook",
-      "address": "102 – 425 Victoria Ave North",
-      "coordinates": [
-        -115.75498628849961,
-        49.51618678360703
-      ],
-      "hours_details": "Next door to Cranbrook Liqour combined line 100 425 Victoria Ave N",
-      "is_picket_line": false,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Fort St. John",
-      "address": "10211 100 St",
-      "coordinates": [
-        -120.84709009215942,
-        56.248734309579
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Parksville",
-      "address": "Unit 7 – 826 Island Hwy W",
-      "coordinates": [
-        -124.34669569964332,
-        49.33150361419566
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Penticton",
-      "address": "106 – 2210 Main St",
-      "coordinates": [
-        -119.58036941064637,
-        49.47339857674645
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Port Alberni",
-      "address": "303 – 3555 Johnston Rd",
-      "coordinates": [
-        -124.78768594275947,
-        49.266413501583884
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Terrace",
-      "address": "103 – 4761 Lakelse Ave",
-      "coordinates": [
-        -128.5980849340208,
-        54.516654279094794
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Trail",
-      "address": "122 – 8100 3B Hwy",
-      "coordinates": [
-        -117.63512270751279,
-        49.09164986644348
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Vanderhoof",
-      "address": "2444 Burrard Ave",
-      "coordinates": [
-        -124.00894088991835,
-        54.01654637951114
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Williams Lake",
-      "address": "130 – 850 Oliver St",
-      "coordinates": [
-        -122.13102428499995,
-        52.12910076000081
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Kamloops",
-      "address": "700 Tranquille Rd Unit 40",
-      "coordinates": [
-        -120.35887192762102,
-        50.69758195206325
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Kamloops",
-      "address": "450 Lansdowne St",
-      "coordinates": [
-        -120.32932503600125,
-        50.677037980008045
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Sooke",
-      "address": "6672 Wadams Way",
-      "coordinates": [
-        -123.72400626573534,
-        48.38196940437271
-      ],
-      "hours_details": "On strike but picketing at 9050 6660 Sooke Rd",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Langford",
-      "address": "2945 Jacklin Rd",
-      "coordinates": [
-        -123.50653718102623,
-        48.440662827977455
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Victoria",
-      "address": "1001 Douglas St",
-      "coordinates": [
-        -123.36531144888646,
-        48.423932488222285
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1019 Wharf St",
-      "coordinates": [
-        -123.36943603040685,
-        48.42485444671298
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1106 Cook St",
-      "coordinates": [
-        -123.35421963975173,
-        48.42366441328034
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1150 Mckenzie",
-      "coordinates": [
-        -123.3605136323701,
-        48.47130469905112
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1195 Esquimalt Rd",
-      "coordinates": [
-        -123.41220118601065,
-        48.42987780883043
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1215 Broad St",
-      "coordinates": [
-        -123.36600419271659,
-        48.425868369747405
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1250 Quadra St",
-      "coordinates": [
-        -123.35955098203927,
-        48.42527028636492
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1405 Douglas St",
-      "coordinates": [
-        -123.36442870076331,
-        48.42740248429062
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1450 Government St",
-      "coordinates": [
-        -123.36742215825478,
-        48.428012301729524
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1520 Blanshard St",
-      "coordinates": [
-        -123.3622662120615,
-        48.42820176778797
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1483 Douglas St",
-      "coordinates": [
-        -123.36441843264078,
-        48.42748149135049
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1515 Quadra St",
-      "coordinates": [
-        -123.35876971800324,
-        48.42770724835583
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1520 Fairfield Rd",
-      "coordinates": [
-        -123.33910286916611,
-        48.412969458948545
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Victoria",
-      "address": "1627 Fort St",
-      "coordinates": [
-        -123.33504089856923,
-        48.42698536859728
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1675 Douglas St",
-      "coordinates": [
-        -123.36397607340034,
-        48.42914192844547
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1756 Island Hwy",
-      "coordinates": [
-        -123.4665397003008,
-        48.44817942402411
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Colwood",
-      "address": "1901 Sooke Rd",
-      "coordinates": [
-        -123.46857831950832,
-        48.44150281279103
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Sidney",
-      "address": "2071 Malaview Ave",
-      "coordinates": [
-        -123.41327887469815,
-        48.65649435519387
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1803 Douglas",
-      "coordinates": [
-        -123.36418256799305,
-        48.430404393284704
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "225 Menzies St",
-      "coordinates": [
-        -123.3734680282882,
-        48.41582712843044
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Langford",
-      "address": "2780 Veterans Memorial Pkwy",
-      "coordinates": [
-        -123.49597321787779,
-        48.448270359285296
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "2814 Nanaimo St",
-      "coordinates": [
-        -123.36535255678689,
-        48.44014838872237
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Langford",
-      "address": "2930 Trans Canada Hwy",
-      "coordinates": [
-        -123.54471822479054,
-        48.4623990750458
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "2940 Jutland Rd",
-      "coordinates": [
-        -123.37912862518915,
-        48.439557050487025
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "2950 Jutland Rd",
-      "coordinates": [
-        -123.37932159397609,
-        48.43971143435181
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "2955 Jutland Rd",
-      "coordinates": [
-        -123.37844145811303,
-        48.43935099282489
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "2957 Jutland Rd",
-      "coordinates": [
-        -123.37858690305956,
-        48.43955159736076
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "2995 Jutland Rd",
-      "coordinates": [
-        -123.37739465939028,
-        48.44120519323666
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "320 Garbally Rd",
-      "coordinates": [
-        -123.3774220728808,
-        48.43950987098259
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "333 Quebec St",
-      "coordinates": [
-        -123.37592195939104,
-        48.42140845533321
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "343B Bay St",
-      "coordinates": [
-        -123.37464768993426,
-        48.43490025316323
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "345 Wale Rd",
-      "coordinates": [
-        -123.47194003742695,
-        48.44481594025595
-      ],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Saanich",
-      "address": "3561 Blanshard St",
-      "coordinates": [
-        -123.37558205347838,
-        48.45576595377055
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Cannabis Store"
-    },
-    {
-      "city": "Victoria",
-      "address": "395 Waterfront Cres",
-      "coordinates": [
-        -123.37753405707018,
-        48.44178351446606
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "3960 Quadra St",
-      "coordinates": [
-        -123.36399749746387,
-        48.468164735657005
-      ],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "3965 Quadra St",
-      "coordinates": [
-        -123.363033682296,
-        48.46879322256511
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "4216 Wilkinson Rd",
-      "coordinates": [
-        -123.4103020719652,
-        48.48269672275119
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Saanich",
-      "address": "4234 Glanford Ave",
-      "coordinates": [
-        -123.39094829469309,
-        48.482780394541074
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "4300 North Rd",
-      "coordinates": [
-        -123.41170277459092,
-        48.486023530555514
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "431 Menzies St",
-      "coordinates": [
-        -123.371522628699,
-        48.41925003145098
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "4460 Chatterton Way",
-      "coordinates": [
-        -123.38455529763989,
-        48.490687707672734
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "4478 Saanich Rd W",
-      "coordinates": [
-        -123.388125872879,
-        48.493109263518335
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "501 Belleville St",
-      "coordinates": [
-        -123.36949069681516,
-        48.41957101458944
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "506 Government St",
-      "coordinates": [
-        -123.3691926863722,
-        48.41772298186649
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "548 Michigan St",
-      "coordinates": [
-        -123.37098228637203,
-        48.41758768270026
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "614 Humboldt St",
-      "coordinates": [
-        -123.36791161520833,
-        48.423091249962255
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "620 Superior St",
-      "coordinates": [
-        -123.36738842869902,
-        48.418819822949956
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "645 Tyee",
-      "coordinates": [
-        -123.37952153240967,
-        48.433066498721054
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "703 Broughton St",
-      "coordinates": [
-        -123.36510062954764,
-        48.423692809181794
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "711 Broughton St",
-      "coordinates": [
-        -123.36481931787782,
-        48.42351497749401
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Saanich",
-      "address": "6578 Byrn Rd",
-      "coordinates": [
-        -123.42463813791726,
-        48.56008570593606
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "742 Vanalman Ave",
-      "coordinates": [
-        -123.39115185613812,
-        48.48231750895781
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "747 Fort St",
-      "coordinates": [
-        -123.36412987473712,
-        48.42435250590104
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Brentwood Bay",
-      "address": "7103 Saanich Rd W",
-      "coordinates": [
-        -123.44352295627027,
-        48.575248850739825
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Victoria",
-      "address": "771 Vernon Ave",
-      "coordinates": [
-        -123.37798798731237,
-        48.459147774208176
-      ],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Saanich",
-      "address": "7380 Puckle Rd",
-      "coordinates": [
-        -123.39078273054884,
-        48.58042522223651
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "777 Broughton St",
-      "coordinates": [
-        -123.36317244610267,
-        48.423451594449254
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "780 Blanshard St",
-      "coordinates": [
-        -123.36354334590061,
-        48.421781393081375
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "7851 Saanich Rd E",
-      "coordinates": [
-        -123.41646812981062,
-        48.5952985412778
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "836 Courtney St",
-      "coordinates": [
-        -123.36178928915169,
-        48.4227297876984
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "908 Pandora Ave",
-      "coordinates": [
-        -123.35850613055437,
-        48.42785809873248
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "910 Government",
-      "coordinates": [
-        -123.36832697840376,
-        48.42392842058325
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "914 Yates St",
-      "coordinates": [
-        -123.3585556152084,
-        48.42607774201399
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "94 Talcott Rd",
-      "coordinates": [
-        -123.44301137028067,
-        48.46313758221555
-      ],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Langford",
-      "address": "961 Dunford Ave",
-      "coordinates": [
-        -123.51343974404395,
-        48.44528977713206
-      ],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "563 Superior St",
-      "coordinates": [
-        -123.36918765445441,
-        48.418169920014655
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "2261 Keating Cross Rd",
-      "coordinates": [
-        -123.40743986064953,
-        48.563553947557075
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Colwood",
-      "address": "1790 Island Hwy",
-      "coordinates": [
-        -123.46801086513241,
-        48.446146655389974
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "810 Blanshard St",
-      "coordinates": [
-        -123.36341003712316,
-        48.422160934760576
-      ],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "535 Ellice St",
-      "coordinates": [
-        -123.37138335753471,
-        48.43900657845115
-      ],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "609 Broughton St",
-      "coordinates": [
-        -123.36762349478043,
-        48.42410500351018
-      ],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
     }
   ]
 }
