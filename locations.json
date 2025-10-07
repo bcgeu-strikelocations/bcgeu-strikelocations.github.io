@@ -254,8 +254,7 @@
       "coordinates": [-123.46801086513241, 48.446146655389974],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Colwood",
@@ -263,8 +262,7 @@
       "coordinates": [-123.46857831950832, 48.44150281279103],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Comox",
@@ -616,8 +614,7 @@
       "coordinates": [-123.49597321787779, 48.448270359285296],
       "hours_details": "on strike but picketing at 1311 Lakepoint Way, Langford",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Langford",
@@ -625,8 +622,7 @@
       "coordinates": [-123.54471822479054, 48.4623990750458],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Langford",
@@ -642,8 +638,7 @@
       "coordinates": [-123.51343974404395, 48.44528977713206],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Langley",
@@ -1019,8 +1014,7 @@
       "coordinates": [-123.37558205347838, 48.45576595377055],
       "hours_details": "BC Cannabis Store, Uptown on strike but picketing at 3350 Douglas, Victoria",
       "is_picket_line": false,
-      "location_type": "BC Cannabis Store",
-      "go_to_the_rally": true
+      "location_type": "BC Cannabis Store"
     },
     {
       "city": "Saanich",
@@ -1028,8 +1022,7 @@
       "coordinates": [-123.39094829469309, 48.482780394541074],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Saanich",
@@ -1037,8 +1030,7 @@
       "coordinates": [-123.42463813791726, 48.56008570593606],
       "hours_details": "on strike but picketing at 4000 Seymour, Victoria",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Saanich",
@@ -1046,8 +1038,7 @@
       "coordinates": [-123.39078273054884, 48.58042522223651],
       "hours_details": "on strike but picketing at 1311 Lakepoint Way, Langford",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Salmon Arm",
@@ -1071,8 +1062,7 @@
       "coordinates": [-123.41327887469815, 48.65649435519387],
       "hours_details": "on strike but picketing at 1311 Lakepoint Way, Langford",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Sidney",
@@ -1096,8 +1086,7 @@
       "coordinates": [-123.72400626573534, 48.38196940437271],
       "hours_details": "On strike but picketing at 9050 6660 Sooke Rd",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Sooke",
@@ -1577,8 +1566,7 @@
       "coordinates": [-123.36531144888646, 48.423932488222285],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1586,8 +1574,7 @@
       "coordinates": [-123.36943603040685, 48.42485444671298],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1595,8 +1582,7 @@
       "coordinates": [-123.36161016456093, 48.469987839556474],
       "hours_details": "BC Liquor Store #242 Saanich on strike but picketing at 370-777 Royal Oak Dr",
       "is_picket_line": false,
-      "location_type": "BC Liquor Store",
-      "go_to_the_rally": true
+      "location_type": "BC Liquor Store"
     },
     {
       "city": "Victoria",
@@ -1604,8 +1590,7 @@
       "coordinates": [-123.35421963975173, 48.42366441328034],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1621,8 +1606,7 @@
       "coordinates": [-123.36461750281573, 48.42534946357673],
       "hours_details": "on strike but picketing at 1515 Blanshard",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1630,8 +1614,7 @@
       "coordinates": [-123.41220118601065, 48.42987780883043],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1639,8 +1622,7 @@
       "coordinates": [-123.36600419271659, 48.425868369747405],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1648,8 +1630,7 @@
       "coordinates": [-123.35955098203927, 48.42527028636492],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1657,8 +1638,7 @@
       "coordinates": [-123.36442870076331, 48.42740248429062],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1666,8 +1646,7 @@
       "coordinates": [-123.36742215825478, 48.428012301729524],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1675,8 +1654,7 @@
       "coordinates": [-123.36441843264078, 48.42748149135049],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1692,8 +1670,7 @@
       "coordinates": [-123.35876971800324, 48.42770724835583],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1701,8 +1678,7 @@
       "coordinates": [-123.3622662120615, 48.42820176778797],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1718,8 +1694,7 @@
       "coordinates": [-123.33504089856923, 48.42698536859728],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1727,8 +1702,7 @@
       "coordinates": [-123.36397607340034, 48.42914192844547],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1736,8 +1710,7 @@
       "coordinates": [-123.4665397003008, 48.44817942402411],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1745,8 +1718,7 @@
       "coordinates": [-123.36476442869854, 48.430781339160234],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1754,8 +1726,7 @@
       "coordinates": [-123.36418256799305, 48.430404393284704],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1763,8 +1734,7 @@
       "coordinates": [-123.36218630171766, 48.43089950065392],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1780,8 +1750,7 @@
       "coordinates": [-123.3669240882271, 48.43405196321959],
       "hours_details": "on strike but picketing at 675 Belleville",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1797,8 +1766,7 @@
       "coordinates": [-123.40743986064953, 48.563553947557075],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1806,8 +1774,7 @@
       "coordinates": [-123.36535255678689, 48.44014838872237],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1815,8 +1782,7 @@
       "coordinates": [-123.37912862518915, 48.439557050487025],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1824,8 +1790,7 @@
       "coordinates": [-123.37932159397609, 48.43971143435181],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1833,8 +1798,7 @@
       "coordinates": [-123.37844145811303, 48.43935099282489],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1842,8 +1806,7 @@
       "coordinates": [-123.3980165732299, 48.448923911127046],
       "hours_details": "BC Liquor Store #124 Gorge & Tillicum on strike but picketing at 87-1644 Hillside Ave, Victoria",
       "is_picket_line": false,
-      "location_type": "BC Liquor Store",
-      "go_to_the_rally": true
+      "location_type": "BC Liquor Store"
     },
     {
       "city": "Victoria",
@@ -1859,8 +1822,7 @@
       "coordinates": [-123.37799405939026, 48.440491351144786],
       "hours_details": "Monday to Friday, 7:30am-5:30pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1868,8 +1830,7 @@
       "coordinates": [-123.37739465939028, 48.44120519323666],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1877,8 +1838,7 @@
       "coordinates": [-123.3774220728808, 48.43950987098259],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1886,8 +1846,7 @@
       "coordinates": [-123.37592195939104, 48.42140845533321],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1895,8 +1854,7 @@
       "coordinates": [-123.37495023240905, 48.4505259574279],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1904,8 +1862,7 @@
       "coordinates": [-123.37961625938988, 48.45320033167533],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1913,8 +1870,7 @@
       "coordinates": [-123.37464768993426, 48.43490025316323],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1922,8 +1878,7 @@
       "coordinates": [-123.47194003742695, 48.44481594025595],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1931,8 +1886,7 @@
       "coordinates": [-123.33267010250367, 48.45959383099192],
       "hours_details": "BC Liquor Store #140 Cedar Hill on strike but picketing at 370-777 Royal Oak Dr",
       "is_picket_line": false,
-      "location_type": "BC Liquor Store",
-      "go_to_the_rally": true
+      "location_type": "BC Liquor Store"
     },
     {
       "city": "Victoria",
@@ -1948,8 +1902,7 @@
       "coordinates": [-123.37753405707018, 48.44178351446606],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1957,8 +1910,7 @@
       "coordinates": [-123.36399749746387, 48.468164735657005],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1966,8 +1918,7 @@
       "coordinates": [-123.363033682296, 48.46879322256511],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1983,8 +1934,7 @@
       "coordinates": [-123.4103020719652, 48.48269672275119],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1992,8 +1942,7 @@
       "coordinates": [-123.41170277459092, 48.486023530555514],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2001,8 +1950,7 @@
       "coordinates": [-123.371522628699, 48.41925003145098],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2010,8 +1958,7 @@
       "coordinates": [-123.38455529763989, 48.490687707672734],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2019,8 +1966,7 @@
       "coordinates": [-123.41220831520579, 48.493314932680065],
       "hours_details": "on strike but picketing at existing picket lines",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2028,8 +1974,7 @@
       "coordinates": [-123.388125872879, 48.493109263518335],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2037,8 +1982,7 @@
       "coordinates": [-123.36949069681516, 48.41957101458944],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2046,8 +1990,7 @@
       "coordinates": [-123.3691926863722, 48.41772298186649],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2055,8 +1998,7 @@
       "coordinates": [-123.37122905448865, 48.41798294818426],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2064,8 +2006,7 @@
       "coordinates": [-123.37138335753471, 48.43900657845115],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2073,8 +2014,7 @@
       "coordinates": [-123.37030571272568, 48.418028786805294],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2082,8 +2022,7 @@
       "coordinates": [-123.37098228637203, 48.41758768270026],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2091,8 +2030,7 @@
       "coordinates": [-123.36918765445441, 48.418169920014655],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2100,8 +2038,7 @@
       "coordinates": [-123.36762349478043, 48.42410500351018],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2109,8 +2046,7 @@
       "coordinates": [-123.36791161520833, 48.423091249962255],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2118,8 +2054,7 @@
       "coordinates": [-123.36824382379629, 48.419182380868975],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2127,8 +2062,7 @@
       "coordinates": [-123.36738842869902, 48.418819822949956],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2136,8 +2070,7 @@
       "coordinates": [-123.37952153240967, 48.433066498721054],
       "hours_details": "Monday to Friday, 7:30am to 5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2145,8 +2078,7 @@
       "coordinates": [-123.36741751520846, 48.41989651577428],
       "hours_details": "Monday to Friday, 7am-6pm and Saturday to Sunday, 9am-6pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2154,8 +2086,7 @@
       "coordinates": [-123.36510062954764, 48.423692809181794],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2171,8 +2102,7 @@
       "coordinates": [-123.36481931787782, 48.42351497749401],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2180,8 +2110,7 @@
       "coordinates": [-123.36490253055446, 48.42328226980757],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2189,8 +2118,7 @@
       "coordinates": [-123.3629474152083, 48.42926686188962],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2198,8 +2126,7 @@
       "coordinates": [-123.39115185613812, 48.48231750895781],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2207,8 +2134,7 @@
       "coordinates": [-123.36412987473712, 48.42435250590104],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2216,8 +2142,7 @@
       "coordinates": [-123.37798798731237, 48.459147774208176],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2225,8 +2150,7 @@
       "coordinates": [-123.36317244610267, 48.423451594449254],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2234,8 +2158,7 @@
       "coordinates": [-123.36354334590061, 48.421781393081375],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2243,8 +2166,7 @@
       "coordinates": [-123.41646812981062, 48.5952985412778],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2252,8 +2174,7 @@
       "coordinates": [-123.36120887288136, 48.42717520035865],
       "hours_details": "on strike but picketing at 675 Belleville",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2261,8 +2182,7 @@
       "coordinates": [-123.36341003712316, 48.422160934760576],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2270,8 +2190,7 @@
       "coordinates": [-123.36161641706389, 48.42450564749953],
       "hours_details": "on strike but picketing at 1515 Blanshard",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2279,8 +2198,7 @@
       "coordinates": [-123.36293651706411, 48.41990090118753],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2288,8 +2206,7 @@
       "coordinates": [-123.36178928915169, 48.4227297876984],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2297,8 +2214,7 @@
       "coordinates": [-123.36048000171787, 48.42625298305981],
       "hours_details": "on strike but picketing at 617 Government",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2314,8 +2230,7 @@
       "coordinates": [-123.35850613055437, 48.42785809873248],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2323,8 +2238,7 @@
       "coordinates": [-123.36832697840376, 48.42392842058325],
       "hours_details": "Monday to Friday, 7:30am to 5pm",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2332,8 +2246,7 @@
       "coordinates": [-123.3585556152084, 48.42607774201399],
       "hours_details": "",
       "is_picket_line": true,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2341,8 +2254,7 @@
       "coordinates": [-123.44301137028067, 48.46313758221555],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -2358,8 +2270,7 @@
       "coordinates": [-123.35758355753552, 48.42354860899462],
       "hours_details": "on strike but picketing at 4000 Seymour",
       "is_picket_line": false,
-      "location_type": "Office",
-      "go_to_the_rally": true
+      "location_type": "Office"
     },
     {
       "city": "West Vancouver",
