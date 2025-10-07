@@ -52,8 +52,8 @@
       "city": "Brentwood Bay",
       "address": "7103 Saanich Rd W",
       "coordinates": [-123.44352295627027, 48.575248850739825],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "BC Liquor Store #29, Brentwood Crossing picketing redirected to Sidney Liquor Store - 2335 Beacon Ave",
+      "is_picket_line": false,
       "location_type": "BC Liquor Store"
     },
     {
@@ -308,7 +308,7 @@
       "city": "Cranbrook",
       "address": "100 425 Victoria Ave N",
       "coordinates": [-115.75501568633217, 49.51600890619257],
-      "hours_details": "9am to 5pm M-F",
+      "hours_details": "BC Liquor Store #9, Cranbrook 9am to 5pm M-F",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -322,7 +322,7 @@
     },
     {
       "city": "Cranbrook",
-      "address": "102 - 425 Victoria Ave North",
+      "address": "102 – 425 Victoria Avenue North",
       "coordinates": [-115.75498628849961, 49.51618678360703],
       "hours_details": "BC Cannabis Store, Victoria Avenue picketing combined with Cranbrook BC Liquor Store at same site",
       "is_picket_line": false,
@@ -516,7 +516,7 @@
       "city": "Kamloops",
       "address": "700 Tranquille Rd Unit 40",
       "coordinates": [-120.35887192762102, 50.69758195206325],
-      "hours_details": "",
+      "hours_details": "BC Cannabis Store, North Hills picket line on site",
       "is_picket_line": true,
       "location_type": "BC Cannabis Store"
     },
@@ -524,8 +524,8 @@
       "city": "Kamloops",
       "address": "78 700 Tranquille Rd",
       "coordinates": [-120.36127525886076, 50.69760973757978],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "BC Liquor Store #223, Kamloops North picketing at 78-700 Tranquille Rd",
+      "is_picket_line": false,
       "location_type": "BC Liquor Store"
     },
     {
@@ -588,15 +588,7 @@
       "city": "Kimberley",
       "address": "425 Mark St",
       "coordinates": [-115.98183663888571, 49.68354531614503],
-      "hours_details": "8am to 4pm M-F",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Kimberly",
-      "address": "425 Mark St",
-      "coordinates": [-115.98184618697805, 49.68356858229073],
-      "hours_details": "M to F, 8am to 4pm - MST",
+      "hours_details": "BC Liquor Store #66, Kimberley 8am to 4pm M-F",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
     },
@@ -874,7 +866,7 @@
     },
     {
       "city": "Penticton",
-      "address": "106 - 2210 Main St",
+      "address": "106-2210 Main St",
       "coordinates": [-119.58036941064637, 49.47339857674645],
       "hours_details": "BC Cannabis Store, Power Centre picketing redirected to 405, 1301 Main St, Penticton",
       "is_picket_line": false,
@@ -1436,7 +1428,7 @@
       "city": "Vancouver",
       "address": "555 Hastings St W",
       "coordinates": [-123.11159060336105, 49.28503602164022],
-      "hours_details": "BC Liquor Store #53 Harbour Centre on strike but picketing at 1155 Bute St",
+      "hours_details": "BC Liquor Store #53, Harbour Centre picketing redirected to 1155 Bute St",
       "is_picket_line": false,
       "location_type": "BC Liquor Store"
     },
@@ -1444,7 +1436,7 @@
       "city": "Vancouver",
       "address": "555 Hastings St W",
       "coordinates": [-123.11195636050431, 49.28482954136862],
-      "hours_details": "on strike but picketing at 1155 Bute St, Vancouver",
+      "hours_details": "picketing redirected to nearest picket line, BC Liquor store staff picket at 1155 Bute St",
       "is_picket_line": false,
       "location_type": "Office"
     },
@@ -1604,7 +1596,7 @@
       "city": "Victoria",
       "address": "1175 Douglas St",
       "coordinates": [-123.36461750281573, 48.42534946357673],
-      "hours_details": "on strike but picketing at 1515 Blanshard",
+      "hours_details": "picketing redirected to 1515 Blanshard, Victoria",
       "is_picket_line": false,
       "location_type": "Office"
     },
@@ -1652,8 +1644,8 @@
       "city": "Victoria",
       "address": "1483 Douglas St",
       "coordinates": [-123.36441843264078, 48.42748149135049],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "picketing redirected to 1515 Blanshard",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1700,8 +1692,8 @@
       "city": "Victoria",
       "address": "1675 Douglas St",
       "coordinates": [-123.36397607340034, 48.42914192844547],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "picketing redirected to 1810 Blanshard",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1780,8 +1772,8 @@
       "city": "Victoria",
       "address": "2940 Jutland Rd",
       "coordinates": [-123.37912862518915, 48.439557050487025],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "picketing redirected to 2975 Jutland",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1796,8 +1788,8 @@
       "city": "Victoria",
       "address": "2955 Jutland Rd",
       "coordinates": [-123.37844145811303, 48.43935099282489],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "picketing redirected to 2975 Jutland",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1812,8 +1804,8 @@
       "city": "Victoria",
       "address": "2957 Jutland Rd",
       "coordinates": [-123.37858690305956, 48.43955159736076],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "picketing redirected to 2975 Jutland",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -1828,16 +1820,16 @@
       "city": "Victoria",
       "address": "2995 Jutland Rd",
       "coordinates": [-123.37739465939028, 48.44120519323666],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "picketing redirected to 2975 Jutland",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
       "city": "Victoria",
       "address": "320 Garbally Rd",
       "coordinates": [-123.3774220728808, 48.43950987098259],
-      "hours_details": "",
-      "is_picket_line": true,
+      "hours_details": "picketing redirected to 2975 Jutland",
+      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -2087,14 +2079,6 @@
       "hours_details": "",
       "is_picket_line": true,
       "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "7103 W Saanich Rd",
-      "coordinates": [-123.44353243595418, 48.57524374364384],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "BC Liquor Store"
     },
     {
       "city": "Victoria",
