@@ -3959,7 +3959,7 @@
           -123.12330408634064,
           49.28211495343562
         ],
-        "hours_details": "only members working for Mineral Development Office, Mineral Titles Office, and Office of the Chief Inspector are on strike and picketing at 900 Howe Street",
+        "hours_details": "picketing redirected to 715 W Pender",
         "is_picket_line": false,
         "location_type": "Office"
       },
@@ -6500,7 +6500,7 @@
           -119.40391683227456,
           50.028024695297056
         ],
-        "hours_details": "BC Liquor Store #166, Winfield picket line on site",
+        "hours_details": "picketing redirected to 1835 Dilworth, Kelowna & 4900 27th St, Vernon",
         "is_picket_line": true,
         "location_type": "BC Liquor Store"
       },
@@ -6698,6 +6698,1623 @@
         "coordinates": [
           -122.78370724670147,
           53.91911333153319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ashcroft",
+        "address": "318 Railway Avenue",
+        "coordinates": [
+          -121.27945180507541,
+          50.7233775281526
+        ],
+        "hours_details": "redirected to BCL @1360 BC-97 hwy",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.27945180507541,
+          50.7233775281526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Salmon Arm",
+        "address": "16 St NE",
+        "coordinates": [
+          -119.26576974213506,
+          50.707580781878505
+        ],
+        "hours_details": "picketing redirected to 500 - 360 Trans Canada Hwy",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26576974213506,
+          50.707580781878505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Duncan",
+        "address": "5785 Duncan St",
+        "coordinates": [
+          -123.70667074403208,
+          48.78100626117328
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.70667074403208,
+          48.78100626117328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ganges",
+        "address": "343 Lower Ganges Rd",
+        "coordinates": [
+          -123.50891678821154,
+          48.86023997316207
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.50891678821154,
+          48.86023997316207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burnaby",
+        "address": "400 - 5021 Kingsway",
+        "coordinates": [
+          -122.99193713666453,
+          49.226434407140914
+        ],
+        "hours_details": "picketing redirected to Brentwood Cannabis - 4615 Lougheed Highway",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.99193713666453,
+          49.226434407140914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chilliwack",
+        "address": "45467 Yale Rd W",
+        "coordinates": [
+          -121.96532464401886,
+          49.148447782051846
+        ],
+        "hours_details": "picketing redirected to nearest line",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.96532464401886,
+          49.148447782051846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Maple Ridge",
+        "address": "22470 Dewdney Trunk Rd",
+        "coordinates": [
+          -122.59991571703516,
+          49.2198899011111
+        ],
+        "hours_details": "picketing redirected to nearest line",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.59991571703516,
+          49.2198899011111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sechelt",
+        "address": "5498 Wharf Avenue",
+        "coordinates": [
+          -123.75384357284352,
+          49.471962136047026
+        ],
+        "hours_details": "picketing redirected to 601 5500 Sunshine Coast Hwy, Sechelt",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.75384357284352,
+          49.471962136047026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Squamish",
+        "address": "1360 Pemberton Ave",
+        "coordinates": [
+          -123.15223701516187,
+          49.70160683582423
+        ],
+        "hours_details": "picketing redirected to 40204 Glenalder Place, Squamish",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.15223701516187,
+          49.70160683582423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "100 Mile House",
+        "address": "300 Highway 97 S",
+        "coordinates": [
+          -121.29777555927213,
+          51.64464132124053
+        ],
+        "hours_details": "picketing redirected to 95a Cariboo Highway 97",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29777555927213,
+          51.64464132124053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Atlin",
+        "address": "170-3rd Street",
+        "coordinates": [
+          -133.70240170128454,
+          59.575295233863145
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.70240170128454,
+          59.575295233863145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bella Coola",
+        "address": "636 Cliff Street",
+        "coordinates": [
+          -126.75455946459503,
+          52.37231805192157
+        ],
+        "hours_details": "picketing redirected to 624 Cliff St",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.75455946459503,
+          52.37231805192157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Burns Lake",
+        "address": "161 Hwy 16",
+        "coordinates": [
+          -125.75567530150009,
+          54.22504379857777
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.75567530150009,
+          54.22504379857777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Campbell River",
+        "address": "1180 Ironwood Street",
+        "coordinates": [
+          -125.25549966943778,
+          50.02685681858022
+        ],
+        "hours_details": "picketing redirected to 270 1400 Dogwood St",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.25549966943778,
+          50.02685681858022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chetwynd",
+        "address": "4744 52nd Street",
+        "coordinates": [
+          -121.63344986999664,
+          55.69805586148338
+        ],
+        "hours_details": "picketing redirected to 5033 49th Ave NW",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.63344986999664,
+          55.69805586148338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Clinton",
+        "address": "1423 Cariboo Highway",
+        "coordinates": [
+          -121.58655773515326,
+          51.09167862377507
+        ],
+        "hours_details": "picketing redirected to 1427 Cariboo Hwy",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.58655773515326,
+          51.09167862377507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Clinton",
+        "address": "1427 Cariboo Highway",
+        "coordinates": [
+          -121.58624967230122,
+          51.09198966650432
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.58624967230122,
+          51.09198966650432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Courtenay",
+        "address": "2500 Cliffe Avenue",
+        "coordinates": [
+          -124.98237166878097,
+          49.67635207060494
+        ],
+        "hours_details": "picketing redirected to 1095 Cliffe Ave",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.98237166878097,
+          49.67635207060494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Creston",
+        "address": "1404 Canyon Street",
+        "coordinates": [
+          -116.50935057400677,
+          49.09578109910276
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.50935057400677,
+          49.09578109910276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Daajing Giids",
+        "address": "115 Oceanview Drive",
+        "coordinates": [
+          -132.0781125087404,
+          53.2552759173331
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.0781125087404,
+          53.2552759173331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Daajing Giids",
+        "address": "216 Oceanview Dr",
+        "coordinates": [
+          -132.0815629713143,
+          53.28334499927149
+        ],
+        "hours_details": "picketing redirected to 115 Oceanview Drive, Daajing Giids",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.0815629713143,
+          53.28334499927149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Dease Lake",
+        "address": "Block D - Hwy 37",
+        "coordinates": [
+          -129.98619050506395,
+          58.43661657002817
+        ],
+        "hours_details": "picketing redirected to 792 2nd Ave",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.98619050506395,
+          58.43661657002817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fernie",
+        "address": "401 - 4th Ave",
+        "coordinates": [
+          -115.06364591644338,
+          49.502966264069755
+        ],
+        "hours_details": "Picketing redirected to 792 2nd Ave, Fernie",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.06364591644338,
+          49.502966264069755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort St. James",
+        "address": "161 Stuart Dr W",
+        "coordinates": [
+          -124.25276136704774,
+          54.44287197055883
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.25276136704774,
+          54.44287197055883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort St. James",
+        "address": "470 Stuart Dr W",
+        "coordinates": [
+          -124.2583781262699,
+          54.445171431286354
+        ],
+        "hours_details": "picketing redirected to 161 Stuart Dr W",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.2583781262699,
+          54.445171431286354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort St. John",
+        "address": "10600 - 100th St",
+        "coordinates": [
+          -120.84822063660079,
+          56.25250089443577
+        ],
+        "hours_details": "picketing redirected to 10215 100th Street",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.84822063660079,
+          56.25250089443577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Golden",
+        "address": "1104 9 St. S",
+        "coordinates": [
+          -116.960160824713,
+          51.29607677046624
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.960160824713,
+          51.29607677046624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Grand Forks",
+        "address": "7290 2nd St.",
+        "coordinates": [
+          -118.4367490015462,
+          49.03264351676415
+        ],
+        "hours_details": "picketing redirected to 451 Central Ave, Grand Forks",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4367490015462,
+          49.03264351676415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Grand Forks",
+        "address": "451 Central Ave",
+        "coordinates": [
+          -118.44122416369105,
+          49.0336413740586
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.44122416369105,
+          49.0336413740586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hazelton",
+        "address": "2210 Hwy 62",
+        "coordinates": [
+          -127.6593572546335,
+          55.257392321825485
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.6593572546335,
+          55.257392321825485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Houston",
+        "address": "3400 - 11th St",
+        "coordinates": [
+          -126.64685778227854,
+          54.39868854970311
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.64685778227854,
+          54.39868854970311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Invermere",
+        "address": "625 - 4th St",
+        "coordinates": [
+          -116.02858542575646,
+          50.50942557621191
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.02858542575646,
+          50.50942557621191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kamloops",
+        "address": "455 Columbia St",
+        "coordinates": [
+          -120.33038116198142,
+          50.67036524056631
+        ],
+        "hours_details": "redirected to 447 Columbia",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.33038116198142,
+          50.67036524056631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kaslo",
+        "address": "410 Front St",
+        "coordinates": [
+          -116.90438747306148,
+          49.91211590508405
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.90438747306148,
+          49.91211590508405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kaslo",
+        "address": "413 4th St",
+        "coordinates": [
+          -116.90479060509486,
+          49.910689570927275
+        ],
+        "hours_details": "picketing redirected to 410 Front St",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.90479060509486,
+          49.910689570927275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kitimat",
+        "address": "795 S Lahakas Blvd",
+        "coordinates": [
+          -128.65599127165908,
+          54.05198179406641
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.65599127165908,
+          54.05198179406641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lillooet",
+        "address": "155 Main Street",
+        "coordinates": [
+          -121.92597203286414,
+          50.703051410206925
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.92597203286414,
+          50.703051410206925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Lillooet",
+        "address": "639 Main St",
+        "coordinates": [
+          -121.93477215112635,
+          50.6932333487763
+        ],
+        "hours_details": "redirected to BCL @155 Main st",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.93477215112635,
+          50.6932333487763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mackenzie",
+        "address": "64 Centennial Dr",
+        "coordinates": [
+          -123.09620298900161,
+          55.3384857465714
+        ],
+        "hours_details": "picketing redirected to 403 Mackenzie Blvd",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09620298900161,
+          55.3384857465714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mackenzie",
+        "address": "403 Mackenzie Blvd",
+        "coordinates": [
+          -123.09247547345593,
+          55.339123833368006
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.09247547345593,
+          55.339123833368006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Masset",
+        "address": "1666 Orr St",
+        "coordinates": [
+          -132.14690521202732,
+          54.012847407441555
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.14690521202732,
+          54.012847407441555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Merritt",
+        "address": "2194 Coutlee Ave",
+        "coordinates": [
+          -120.78532814089104,
+          50.10831204373739
+        ],
+        "hours_details": "redirected to BCL @1700 Garcia St",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.78532814089104,
+          50.10831204373739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Merritt",
+        "address": "104 1700 Garcia Street",
+        "coordinates": [
+          -120.7864884758796,
+          50.108209494051465
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.7864884758796,
+          50.108209494051465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nakusp",
+        "address": "204 - 6th Ave NW",
+        "coordinates": [
+          -117.8051717970903,
+          50.2415813460647
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8051717970903,
+          50.2415813460647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Naniamo",
+        "address": "460 Selby St",
+        "coordinates": [
+          -123.93960644368983,
+          49.16218670544093
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.93960644368983,
+          49.16218670544093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Nelson",
+        "address": "310 Ward St",
+        "coordinates": [
+          -117.29579679924062,
+          49.493215592716815
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.29579679924062,
+          49.493215592716815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Oliver",
+        "address": "5917 Airport Street",
+        "coordinates": [
+          -119.5498808112439,
+          49.17802369313489
+        ],
+        "hours_details": "redirected to BCL @5966 Main st.",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5498808112439,
+          49.17802369313489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Penticton",
+        "address": "40 Calgary Ave",
+        "coordinates": [
+          -119.58743499407892,
+          49.48561567934189
+        ],
+        "hours_details": "redirected to BCL @1301 Main st",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.58743499407892,
+          49.48561567934189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port Alberni",
+        "address": "4070 - 8th Ave",
+        "coordinates": [
+          -124.80103213120944,
+          49.25027461816424
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.80103213120944,
+          49.25027461816424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Port Hardy",
+        "address": "8785 Gray St",
+        "coordinates": [
+          -127.49438586039105,
+          50.71973963957238
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.49438586039105,
+          50.71973963957238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Powell River",
+        "address": "6944 Alberni St",
+        "coordinates": [
+          -124.52295950090478,
+          49.844794285611705
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.52295950090478,
+          49.844794285611705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Prince George",
+        "address": "1044 - 5th Ave",
+        "coordinates": [
+          -122.74269417034712,
+          53.91458397621636
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.74269417034712,
+          53.91458397621636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Prince Rupert",
+        "address": "201 - 3rd Ave W",
+        "coordinates": [
+          -130.32206746049735,
+          54.314162427516294
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.32206746049735,
+          54.314162427516294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Princeton",
+        "address": "136 Tapton Ave",
+        "coordinates": [
+          -120.50664263910474,
+          49.45816548119637
+        ],
+        "hours_details": "redirected to BCL @130 Harold St",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.50664263910474,
+          49.45816548119637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Quesnel",
+        "address": "350 Barlow Ave",
+        "coordinates": [
+          -122.49470170729302,
+          52.97723172413516
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.49470170729302,
+          52.97723172413516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Revelstoke",
+        "address": "1123 Second Street West",
+        "coordinates": [
+          -118.20750989741367,
+          51.00495323930143
+        ],
+        "hours_details": "redirected to BCL @111 Campbell Ave",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.20750989741367,
+          51.00495323930143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Smithers",
+        "address": "1020 Murray St",
+        "coordinates": [
+          -127.17390148477416,
+          54.777346873020086
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.17390148477416,
+          54.777346873020086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Sparwood",
+        "address": "96-101 Red Cedar Dr",
+        "coordinates": [
+          -114.88486805988627,
+          49.732460759280784
+        ],
+        "hours_details": "Picketing redirected to 792 2nd Ave, Fernie",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.88486805988627,
+          49.732460759280784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Stewart",
+        "address": "703 Brightwell Street",
+        "coordinates": [
+          -129.99137945002218,
+          55.938056100274544
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -129.99137945002218,
+          55.938056100274544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Terrace",
+        "address": "3220 Eby St",
+        "coordinates": [
+          -128.59809536184187,
+          54.51813341587978
+        ],
+        "hours_details": "picketing redirected to 3240 Eby Street, Terrace",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.59809536184187,
+          54.51813341587978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Trail",
+        "address": "1520 Bay Ave",
+        "coordinates": [
+          -117.7064673722493,
+          49.09464858417758
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7064673722493,
+          49.09464858417758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ucluelet",
+        "address": "1620 Peninsula Rd",
+        "coordinates": [
+          -125.54759432439164,
+          48.941739892520296
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.54759432439164,
+          48.941739892520296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Valemount",
+        "address": "1300 4th Ave",
+        "coordinates": [
+          -119.26750849937773,
+          52.83318108672218
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.26750849937773,
+          52.83318108672218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vanderhoof",
+        "address": "189 East Stewart Street",
+        "coordinates": [
+          -124.00685027128432,
+          54.0161990119479
+        ],
+        "hours_details": "picketing redirected to BCL 2557 Burrard Ave",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.00685027128432,
+          54.0161990119479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vernon",
+        "address": "3201- 30 St",
+        "coordinates": [
+          -119.27047559497052,
+          50.2656197601209
+        ],
+        "hours_details": "redirected to the BCL @4900 27 St #245a",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.27047559497052,
+          50.2656197601209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Williams Lake",
+        "address": "540 Borland St",
+        "coordinates": [
+          -122.13800487543308,
+          52.130230240504474
+        ],
+        "hours_details": "redirected to 640 Borland",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.13800487543308,
+          52.130230240504474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Barriere",
+        "address": "4639 Barriere Town Rd",
+        "coordinates": [
+          -120.12401243121323,
+          51.184345857946155
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.12401243121323,
+          51.184345857946155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bella Coola",
+        "address": "624 Cliff Street",
+        "coordinates": [
+          -126.75572198728949,
+          52.372183621896205
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.75572198728949,
+          52.372183621896205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chetwynd",
+        "address": "5033 49th ave",
+        "coordinates": [
+          -121.63171403543213,
+          55.69981009572399
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.63171403543213,
+          55.69981009572399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Clearwater",
+        "address": "Unit 1, 74 Young Rd",
+        "coordinates": [
+          -120.07174660521571,
+          51.6452223766889
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.07174660521571,
+          51.6452223766889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Fort Nelson",
+        "address": "5107 Airport Dr",
+        "coordinates": [
+          -122.69750285820936,
+          58.806919687950504
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.69750285820936,
+          58.806919687950504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Hudson Hope",
+        "address": "10328 Gething Street",
+        "coordinates": [
+          -121.91255190329223,
+          56.0276847142605
+        ],
+        "hours_details": "",
+        "is_picket_line": false,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.91255190329223,
+          56.0276847142605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Keremeos",
+        "address": "609 7th Ave",
+        "coordinates": [
+          -119.82436420756542,
+          49.20505020599441
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.82436420756542,
+          49.20505020599441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Oliver",
+        "address": "5966 Main Street",
+        "coordinates": [
+          -119.55191506894788,
+          49.179378190434115
+        ],
+        "hours_details": "Mon to Sat",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.55191506894788,
+          49.179378190434115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Princeton",
+        "address": "130 Harold Street",
+        "coordinates": [
+          -120.51016758036315,
+          49.46090008494018
+        ],
+        "hours_details": "Mon to Sat, 10 am to 2 pm. No picketing Sunday",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.51016758036315,
+          49.46090008494018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Victoria",
+        "address": "880 Douglas",
+        "coordinates": [
+          -123.36616089433811,
+          48.42315161868311
+        ],
+        "hours_details": "picketing redirected to 910 Gov",
+        "is_picket_line": false,
+        "location_type": "Office"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.36616089433811,
+          48.42315161868311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Cache Creek",
+        "address": "1360 Hwy 97 N",
+        "coordinates": [
+          -121.32647909775723,
+          50.81278015524639
+        ],
+        "hours_details": "",
+        "is_picket_line": true,
+        "location_type": "BC Liquor Store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.32647909775723,
+          50.81278015524639
         ]
       }
     }
