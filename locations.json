@@ -250,14 +250,6 @@
     },
     {
       "city": "Colwood",
-      "address": "1790 Island Hwy",
-      "coordinates": [-123.46801086513241, 48.446146655389974],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Colwood",
       "address": "1901 Sooke Rd",
       "coordinates": [-123.46857831950832, 48.44150281279103],
       "hours_details": "",
@@ -623,14 +615,6 @@
       "hours_details": "BC Liquor Store #125, Westshore Monday to Saturday 9am-9pm, Sunday 11am-6pm",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Langford",
-      "address": "961 Dunford Ave",
-      "coordinates": [-123.51343974404395, 48.44528977713206],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
     },
     {
       "city": "Langley",
@@ -1562,27 +1546,11 @@
     },
     {
       "city": "Victoria",
-      "address": "1019 Wharf St",
-      "coordinates": [-123.36943603040685, 48.42485444671298],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
       "address": "1087 McKenzie Ave",
       "coordinates": [-123.36161016456093, 48.469987839556474],
       "hours_details": "BC Liquor Store #242, Saanich",
       "is_picket_line": true,
       "location_type": "BC Liquor Store"
-    },
-    {
-      "city": "Victoria",
-      "address": "1106 Cook St",
-      "coordinates": [-123.35421963975173, 48.42366441328034],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
     },
     {
       "city": "Victoria",
@@ -1620,22 +1588,6 @@
       "city": "Victoria",
       "address": "1250 Quadra St",
       "coordinates": [-123.35955098203927, 48.42527028636492],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1405 Douglas St",
-      "coordinates": [-123.36442870076331, 48.42740248429062],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1450 Government St",
-      "coordinates": [-123.36742215825478, 48.428012301729524],
       "hours_details": "",
       "is_picket_line": true,
       "location_type": "Office"
@@ -1709,14 +1661,6 @@
       "address": "1802 Douglas",
       "coordinates": [-123.36476442869854, 48.430781339160234],
       "hours_details": "Monday to Friday, 7:30am-5pm",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "1803 Douglas St",
-      "coordinates": [-123.36418256799305, 48.430404393284704],
-      "hours_details": "",
       "is_picket_line": true,
       "location_type": "Office"
     },
@@ -1834,14 +1778,6 @@
     },
     {
       "city": "Victoria",
-      "address": "333 Quebec St",
-      "coordinates": [-123.37592195939104, 48.42140845533321],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
       "address": "3350 Douglas",
       "coordinates": [-123.37495023240905, 48.4505259574279],
       "hours_details": "Monday to Friday, 7:30am-5pm",
@@ -1930,14 +1866,6 @@
     },
     {
       "city": "Victoria",
-      "address": "4300 North Rd",
-      "coordinates": [-123.41170277459092, 48.486023530555514],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
       "address": "431 Menzies St",
       "coordinates": [-123.371522628699, 48.41925003145098],
       "hours_details": "picketing redirected to 4000 Seymour",
@@ -1970,14 +1898,6 @@
     },
     {
       "city": "Victoria",
-      "address": "501 Belleville St",
-      "coordinates": [-123.36949069681516, 48.41957101458944],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
       "address": "506 Government St",
       "coordinates": [-123.3691926863722, 48.41772298186649],
       "hours_details": "",
@@ -1994,34 +1914,10 @@
     },
     {
       "city": "Victoria",
-      "address": "535 Ellice St",
-      "coordinates": [-123.37138335753471, 48.43900657845115],
-      "hours_details": "",
-      "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
       "address": "545 Superior St",
       "coordinates": [-123.37030571272568, 48.418028786805294],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "548 Michigan St",
-      "coordinates": [-123.37098228637203, 48.41758768270026],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "563 Superior St",
-      "coordinates": [-123.36918765445441, 48.418169920014655],
-      "hours_details": "picketing redirected to 4000 Seymour",
-      "is_picket_line": false,
       "location_type": "Office"
     },
     {
@@ -2074,22 +1970,6 @@
     },
     {
       "city": "Victoria",
-      "address": "703 Broughton St",
-      "coordinates": [-123.36510062954764, 48.423692809181794],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "711 Broughton St",
-      "coordinates": [-123.36481931787782, 48.42351497749401],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
       "address": "716 Courtney",
       "coordinates": [-123.36490253055446, 48.42328226980757],
       "hours_details": "Monday to Friday, 7:30am-5pm",
@@ -2130,22 +2010,6 @@
     },
     {
       "city": "Victoria",
-      "address": "777 Broughton St",
-      "coordinates": [-123.36317244610267, 48.423451594449254],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "780 Blanshard St",
-      "coordinates": [-123.36354334590061, 48.421781393081375],
-      "hours_details": "",
-      "is_picket_line": true,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
       "address": "7851 Saanich Rd E",
       "coordinates": [-123.41646812981062, 48.5952985412778],
       "hours_details": "",
@@ -2158,14 +2022,6 @@
       "coordinates": [-123.36120887288136, 48.42717520035865],
       "hours_details": "on strike but picketing at 675 Belleville",
       "is_picket_line": false,
-      "location_type": "Office"
-    },
-    {
-      "city": "Victoria",
-      "address": "810 Blanshard St",
-      "coordinates": [-123.36341003712316, 48.422160934760576],
-      "hours_details": "",
-      "is_picket_line": true,
       "location_type": "Office"
     },
     {
