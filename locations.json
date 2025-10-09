@@ -238,7 +238,7 @@
       "coordinates": [-121.94118311775836, 49.1558177148018],
       "hours_details": "Picket line on site",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Front Desk BC"
     },
     {
       "city": "Chilliwack",
@@ -310,7 +310,7 @@
       "coordinates": [-115.7661222709863, 49.51398814193504],
       "hours_details": "only members working for Southeast Mines Office are on strike and picketing at 117 10th Ave S",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Cranbrook",
@@ -366,7 +366,7 @@
       "coordinates": [-120.23403984237356, 55.75926573727518],
       "hours_details": "Picketing redirected to 1020 Alaska Ave",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Delta",
@@ -430,7 +430,7 @@
       "coordinates": [-120.8484444302564, 56.25498181121155],
       "hours_details": "Monday to Friday, 8am-4pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Front Desk BC"
     },
     {
       "city": "Fort St. John",
@@ -478,7 +478,7 @@
       "coordinates": [-120.33165597492842, 50.6687529664251],
       "hours_details": "Picket line on site",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Front Desk BC"
     },
     {
       "city": "Kamloops",
@@ -574,7 +574,7 @@
       "coordinates": [-119.49400108817416, 49.88663027340071],
       "hours_details": "Monday to Friday, 8:30am-4:30pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Kimberley",
@@ -710,7 +710,7 @@
       "coordinates": [-123.99355163895063, 49.20115124765564],
       "hours_details": "Picketing redirtected to BC Liquor Store at 1533 Estevan Rd",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Front Desk BC"
     },
     {
       "city": "Nanaimo",
@@ -742,7 +742,7 @@
       "coordinates": [-117.29551970167921, 49.490763577737034],
       "hours_details": "Picketing at the pink building",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Front Desk BC"
     },
     {
       "city": "Nelson",
@@ -1054,7 +1054,7 @@
       "coordinates": [-127.17285364380541, 54.7777460423426],
       "hours_details": "Picket line on site",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Front Desk BC"
     },
     {
       "city": "Sooke",
@@ -1982,7 +1982,7 @@
       "coordinates": [-123.37798798731237, 48.459147774208176],
       "hours_details": "Picketing redirected to 4000 Seymour",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Victoria",
@@ -2158,7 +2158,7 @@
       "coordinates": [-122.13693381321556, 52.130696997489395],
       "hours_details": "Monday to Friday, 7:30am-5pm",
       "is_picket_line": true,
-      "location_type": "Office"
+      "location_type": "Front Desk BC"
     },
     {
       "city": "Williams Lake",
@@ -2382,7 +2382,7 @@
       "coordinates": [-121.27945180507541, 50.7233775281526],
       "hours_details": "redirected to BCL @1360 BC-97 hwy",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Salmon Arm",
@@ -2390,7 +2390,7 @@
       "coordinates": [-119.26576974213506, 50.707580781878505],
       "hours_details": "picketing redirected to 500 - 360 Trans Canada Hwy",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Duncan",
@@ -2398,7 +2398,7 @@
       "coordinates": [-123.70667074403208, 48.78100626117328],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Ganges",
@@ -2406,7 +2406,7 @@
       "coordinates": [-123.50891678821154, 48.86023997316207],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Burnaby",
@@ -2414,7 +2414,7 @@
       "coordinates": [-122.99193713666453, 49.226434407140914],
       "hours_details": "picketing redirected to Brentwood Cannabis - 4615 Lougheed Highway",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Chilliwack",
@@ -2422,7 +2422,7 @@
       "coordinates": [-121.96532464401886, 49.148447782051846],
       "hours_details": "picketing redirected to nearest line",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Maple Ridge",
@@ -2430,7 +2430,7 @@
       "coordinates": [-122.59991571703516, 49.2198899011111],
       "hours_details": "picketing redirected to nearest line",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Sechelt",
@@ -2438,7 +2438,7 @@
       "coordinates": [-123.75384357284352, 49.471962136047026],
       "hours_details": "picketing redirected to 601 5500 Sunshine Coast Hwy, Sechelt",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Squamish",
@@ -2446,7 +2446,7 @@
       "coordinates": [-123.15223701516187, 49.70160683582423],
       "hours_details": "picketing redirected to 40204 Glenalder Place, Squamish",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "100 Mile House",
@@ -2454,7 +2454,7 @@
       "coordinates": [-121.29777555927213, 51.64464132124053],
       "hours_details": "Picketing redirected to 95a Cariboo Highway 97",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Front Desk BC"
     },
     {
       "city": "Atlin",
@@ -2462,7 +2462,7 @@
       "coordinates": [-133.70240170128454, 59.575295233863145],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Bella Coola",
@@ -2470,7 +2470,7 @@
       "coordinates": [-126.75455946459503, 52.37231805192157],
       "hours_details": "picketing redirected to 624 Cliff St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Burns Lake",
@@ -2478,7 +2478,7 @@
       "coordinates": [-125.75567530150009, 54.22504379857777],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Campbell River",
@@ -2486,7 +2486,7 @@
       "coordinates": [-125.25549966943778, 50.02685681858022],
       "hours_details": "picketing redirected to 270 1400 Dogwood St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Chetwynd",
@@ -2494,7 +2494,7 @@
       "coordinates": [-121.63344986999664, 55.69805586148338],
       "hours_details": "picketing redirected to 5033 49th Ave NW",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Clinton",
@@ -2502,7 +2502,7 @@
       "coordinates": [-121.58655773515326, 51.09167862377507],
       "hours_details": "picketing redirected to 1427 Cariboo Hwy",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Clinton",
@@ -2518,7 +2518,7 @@
       "coordinates": [-124.98237166878097, 49.67635207060494],
       "hours_details": "picketing redirected to 1095 Cliffe Ave",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Creston",
@@ -2526,7 +2526,7 @@
       "coordinates": [-116.50935057400677, 49.09578109910276],
       "hours_details": "Join virtual picket line (alternate duties) until further notice",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Daajing Giids",
@@ -2542,7 +2542,7 @@
       "coordinates": [-132.0815629713143, 53.28334499927149],
       "hours_details": "picketing redirected to 115 Oceanview Drive, Daajing Giids",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Dease Lake",
@@ -2550,7 +2550,7 @@
       "coordinates": [-129.98619050506395, 58.43661657002817],
       "hours_details": "picketing redirected to 792 2nd Ave",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Fernie",
@@ -2558,7 +2558,7 @@
       "coordinates": [-115.06364591644338, 49.502966264069755],
       "hours_details": "Picketing redirected to 792 2nd Ave, Fernie",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Fort St. James",
@@ -2574,7 +2574,7 @@
       "coordinates": [-124.2583781262699, 54.445171431286354],
       "hours_details": "picketing redirected to 161 Stuart Dr W",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Fort St. John",
@@ -2582,7 +2582,7 @@
       "coordinates": [-120.84822063660079, 56.25250089443577],
       "hours_details": "picketing redirected to 10215 100th Street",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Golden",
@@ -2590,7 +2590,7 @@
       "coordinates": [-116.960160824713, 51.29607677046624],
       "hours_details": "Picketing virtually until further notice",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Grand Forks",
@@ -2598,7 +2598,7 @@
       "coordinates": [-118.4367490015462, 49.03264351676415],
       "hours_details": "picketing redirected to 451 Central Ave, Grand Forks",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Grand Forks",
@@ -2614,7 +2614,7 @@
       "coordinates": [-127.6593572546335, 55.257392321825485],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Houston",
@@ -2622,7 +2622,7 @@
       "coordinates": [-126.64685778227854, 54.39868854970311],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Invermere",
@@ -2630,7 +2630,7 @@
       "coordinates": [-116.02858542575646, 50.50942557621191],
       "hours_details": "Picketing virtually until further notice",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Kamloops",
@@ -2638,7 +2638,7 @@
       "coordinates": [-120.33038116198142, 50.67036524056631],
       "hours_details": "redirected to 447 Columbia",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Kaslo",
@@ -2654,7 +2654,7 @@
       "coordinates": [-116.90479060509486, 49.910689570927275],
       "hours_details": "picketing redirected to 410 Front St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Kitimat",
@@ -2662,7 +2662,7 @@
       "coordinates": [-128.65599127165908, 54.05198179406641],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Lillooet",
@@ -2678,7 +2678,7 @@
       "coordinates": [-121.93477215112635, 50.6932333487763],
       "hours_details": "redirected to BCL @155 Main st",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Mackenzie",
@@ -2686,7 +2686,7 @@
       "coordinates": [-123.09620298900161, 55.3384857465714],
       "hours_details": "picketing redirected to 403 Mackenzie Blvd",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Mackenzie",
@@ -2702,7 +2702,7 @@
       "coordinates": [-132.14690521202732, 54.012847407441555],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Merritt",
@@ -2710,7 +2710,7 @@
       "coordinates": [-120.78532814089104, 50.10831204373739],
       "hours_details": "redirected to BCL @1700 Garcia St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Merritt",
@@ -2726,7 +2726,7 @@
       "coordinates": [-117.8051717970903, 50.2415813460647],
       "hours_details": "Picketing redirected to 87 5th Ave W",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Naniamo",
@@ -2734,7 +2734,7 @@
       "coordinates": [-123.93960644368983, 49.16218670544093],
       "hours_details": "Picketing redirected to 650 S Terminal Ave",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Nelson",
@@ -2742,7 +2742,7 @@
       "coordinates": [-117.29579679924062, 49.493215592716815],
       "hours_details": "Picketing redirected to 209 Anderson St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Oliver",
@@ -2750,7 +2750,7 @@
       "coordinates": [-119.5498808112439, 49.17802369313489],
       "hours_details": "redirected to BCL @5966 Main st.",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Penticton",
@@ -2758,7 +2758,7 @@
       "coordinates": [-119.58743499407892, 49.48561567934189],
       "hours_details": "redirected to BCL @1301 Main st",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Port Alberni",
@@ -2766,7 +2766,7 @@
       "coordinates": [-124.80103213120944, 49.25027461816424],
       "hours_details": "Picketing redirected to 3764 10h Avenue",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Port Hardy",
@@ -2774,7 +2774,7 @@
       "coordinates": [-127.49438586039105, 50.71973963957238],
       "hours_details": "Picketing redirected to 8775 Granville St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Powell River",
@@ -2782,7 +2782,7 @@
       "coordinates": [-124.52295950090478, 49.844794285611705],
       "hours_details": "Picketing redirected to 7100 Alberni St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Prince George",
@@ -2790,7 +2790,7 @@
       "coordinates": [-122.74269417034712, 53.91458397621636],
       "hours_details": "Picketing redirected to 3173 Massey Dr",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Prince Rupert",
@@ -2798,7 +2798,7 @@
       "coordinates": [-130.32206746049735, 54.314162427516294],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Princeton",
@@ -2806,7 +2806,7 @@
       "coordinates": [-120.50664263910474, 49.45816548119637],
       "hours_details": "redirected to BCL @130 Harold St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Quesnel",
@@ -2814,7 +2814,7 @@
       "coordinates": [-122.49470170729302, 52.97723172413516],
       "hours_details": "Picketing redirected to 488 Reid St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Revelstoke",
@@ -2822,7 +2822,7 @@
       "coordinates": [-118.20750989741367, 51.00495323930143],
       "hours_details": "redirected to BCL @111 Campbell Ave",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Smithers",
@@ -2830,7 +2830,7 @@
       "coordinates": [-127.17390148477416, 54.777346873020086],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Sparwood",
@@ -2838,7 +2838,7 @@
       "coordinates": [-114.88486805988627, 49.732460759280784],
       "hours_details": "Picketing redirected to 792 2nd Ave, Fernie",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Stewart",
@@ -2846,7 +2846,7 @@
       "coordinates": [-129.99137945002218, 55.938056100274544],
       "hours_details": "",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Terrace",
@@ -2854,7 +2854,7 @@
       "coordinates": [-128.59809536184187, 54.51813341587978],
       "hours_details": "picketing redirected to 3240 Eby Street, Terrace",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Trail",
@@ -2862,7 +2862,7 @@
       "coordinates": [-117.7064673722493, 49.09464858417758],
       "hours_details": "Picketing redirected to 1629 2nd Ave",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Ucluelet",
@@ -2870,7 +2870,7 @@
       "coordinates": [-125.54759432439164, 48.941739892520296],
       "hours_details": "Picketing redirected to 234 Main St",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Valemount",
@@ -2878,7 +2878,7 @@
       "coordinates": [-119.26750849937773, 52.83318108672218],
       "hours_details": "Join virtual picket line (alternate duties) until further notice",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Vanderhoof",
@@ -2886,7 +2886,7 @@
       "coordinates": [-124.00685027128432, 54.0161990119479],
       "hours_details": "picketing redirected to BCL 2557 Burrard Ave",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Vernon",
@@ -2894,7 +2894,7 @@
       "coordinates": [-119.27047559497052, 50.2656197601209],
       "hours_details": "redirected to the BCL @4900 27 St #245a",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Williams Lake",
@@ -2902,7 +2902,7 @@
       "coordinates": [-122.13800487543308, 52.130230240504474],
       "hours_details": "redirected to 640 Borland",
       "is_picket_line": false,
-      "location_type": "Office"
+      "location_type": "Service BC"
     },
     {
       "city": "Barriere",
