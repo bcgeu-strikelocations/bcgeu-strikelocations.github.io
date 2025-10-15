@@ -6,59 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BCGEU Strike Locations</title>
 
+    <!-- Redirect to Vercel app -->
+    <meta http-equiv="refresh" content="0; url=https://bcgeu-strikelocations-2025.vercel.app/">
+
     <!-- Favicon -->
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
 
     <!-- Leaflet CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" /> -->
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <div id="map"></div>
-
-    <div class="info-panel">
-        <h3>BCGEU Strike Locations (Oct. 9)</h3>
-        <div class="legend">
-            <div class="legend-item">
-                <div class="legend-color" style="background-color: #db1e2a;"></div>
-                <span>Strike Location (picketed)</span>
+    <div class="redirect-container">
+        <div class="redirect-content">
+            <div class="spinner"></div>
+            <h2>Redirecting to BCGEU Strike Locations...</h2>
+            <p>You will be automatically redirected to the updated application.</p>
+            <div class="redirect-link">
+                <a href="https://bcgeu-strikelocations-2025.vercel.app/" class="manual-link">Click here if you're not redirected automatically</a>
             </div>
-            <div class="legend-item">
-                <div class="legend-color" style="background-color: #ff7800;"></div>
-                <span>Strike Location (not picketed)</span>
-            </div>
-            <div class="legend-item">
-                <div class="legend-circle"></div>
-                <span>30km Radius</span>
-            </div>
-            <div class="legend-item">
-                <div class="legend-color" style="background-color: #0065a4;"></div>
-                <span>Your Location</span>
-            </div>
-            <div class="legend-item">
-                <div class="legend-color" style="background-color: #b8a967;"></div>
-                <span>Postal Code Search</span>
-            </div>
-        </div>
-        <div class="location-controls">
-            <button id="get-location-btn" onclick="getUserLocation()">📍 Find My Location</button>
-        </div>
-        <div class="postal-search">
-            <h4>Search Postal Code</h4>
-            <div class="search-input-group">
-                <div class="input-with-clear">
-                    <input type="text" id="postal-code-input" placeholder="Postal code (e.g., V6B 1A1)" maxlength="7">
-                    <button id="clear-input-btn" class="clear-input" style="display: none;">×</button>
-                </div>
-                <button id="search-postal-btn" onclick="searchPostalCode()">Search</button>
-            </div>
-            <div id="postal-error" class="error-message" style="display: none;"></div>
-        </div>
-        <div class="stats">
-            <div id="location-count">Loading map...</div>
         </div>
     </div>
 
